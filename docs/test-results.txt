@@ -1,0 +1,26 @@
+...........................                                              [100%]
+=============================== warnings summary ===============================
+../barca-env/lib64/python3.13/site-packages/starlette/testclient.py:37
+  /data/barca-env/lib64/python3.13/site-packages/starlette/testclient.py:37: DeprecationWarning: The anyio.abc.BlockingPortal alias is deprecated, use anyio.from_thread.BlockingPortal instead.
+    _PortalFactoryType = typing.Callable[[], typing.ContextManager[anyio.abc.BlockingPortal]]
+
+tests/test_service.py::test_health
+  /data/barca-env/lib64/python3.13/site-packages/sklearn/linear_model/_logistic.py:451: OptimizeWarning: Unknown solver options: iprint
+    opt_res = optimize.minimize(
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+================================ tests coverage ================================
+_______________ coverage: platform linux, python 3.13.15-final-0 _______________
+
+Name              Stmts   Miss  Cover
+-------------------------------------
+app/__init__.py       0      0   100%
+app/main.py         183     20    89%
+ml/__init__.py        0      0   100%
+ml/artifacts.py      49      6    88%
+ml/features.py       67      2    97%
+ml/train.py          49      1    98%
+-------------------------------------
+TOTAL               348     29    92%
+Required test coverage of 70% reached. Total coverage: 91.67%
+27 passed, 2 warnings in 20.83s
