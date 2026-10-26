@@ -3,6 +3,7 @@ from datetime import UTC, datetime
 
 import numpy as np
 import sklearn
+from sklearn.compose import ColumnTransformer
 from sklearn.dummy import DummyClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.feature_selection import SelectKBest, f_classif
@@ -13,7 +14,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
 
 from ml.artifacts import ROOT, fingerprint, model_dir, save
-from ml.features import DATA, FEATURES, LABELS, build_features, load_games
+from ml.features import BASE_FEATURES, DATA, FEATURES, LABELS, build_features, load_games
 
 
 def scores(model, X, y):
@@ -44,8 +45,28 @@ def train():
     for name, estimator in candidates.items():
         pipe = Pipeline(
             [
-                ("impute", SimpleImputer(strategy="median")),
-                ("select", SelectKBest(f_classif, k=10)),
+                (
+                    "prepare",
+                    ColumnTransformer(
+                        [
+                            (
+                                "numeric",
+                                Pipeline(
+                                    [
+                                        ("impute", SimpleImputer(strategy="median")),
+                                        ("select", SelectKBest(f_classif, k=10)),
+                                    ]
+                                ),
+                                BASE_FEATURES,
+                            ),
+                            (
+                                "tournament",
+                                "passthrough",
+                                [c for c in FEATURES if c not in BASE_FEATURES],
+                            ),
+                        ]
+                    ),
+                ),
                 ("scale", StandardScaler()),
                 ("model", estimator),
             ]
@@ -58,7 +79,12 @@ def train():
     fit_rows = frame[frame.season <= 2022]
     champion.fit(fit_rows[FEATURES], fit_rows.result)
     dummy = DummyClassifier(strategy="prior").fit(fit_rows[FEATURES], fit_rows.result)
-    selected = np.array(FEATURES)[champion.named_steps["select"].get_support()].tolist()
+    selected = np.array(BASE_FEATURES)[
+        champion.named_steps["prepare"]
+        .named_transformers_["numeric"]
+        .named_steps["select"]
+        .get_support()
+    ].tolist() + [c for c in FEATURES if c not in BASE_FEATURES]
     report = {
         "selected_model": winner,
         "selection_basis": "Validation ROC-AUC, seasons 2021/22–2022/23; test not used for selection",
@@ -72,11 +98,17 @@ def train():
         "test_to": str(test.date.max().date()),
         "features": FEATURES,
         "selected_features": selected,
-        "dataset_sha256": fingerprint(DATA.read_bytes()),
+        "dataset_sha256": fingerprint(b"".join(p.read_bytes() for p in sorted(DATA.glob("*.csv")))),
         "created_at": datetime.now(UTC).isoformat(),
         "sklearn_version": sklearn.__version__,
         "classes": LABELS,
-        "football_scope": "ES1 / seasons 2012–2024",
+        "football_scope": "Five leagues + European group stages / seasons 2012–2024",
+        "schema_version": 2,
+        "per_competition_test": {
+            str(c): scores(champion, group[FEATURES], group.result)
+            for c, group in test.groupby("competition_id")
+        },
+        "score_policy": "Knockout matches excluded: archive scores can include shootouts; predictions are not qualification probabilities",
         "limitations": [
             "Historical snapshot, not live team strength",
             "No injury/lineup/odds features",
@@ -97,7 +129,7 @@ def train():
     (ROOT / "docs/metrics.json").write_text(
         json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8"
     )
-    test[["date", "home_club_id", "away_club_id", "result"]].head(12).to_csv(
+    test[["date", "competition_id", "home_club_id", "away_club_id", "result"]].head(12).to_csv(
         ROOT / "data/example_raw.csv", index=False
     )
     test[[*FEATURES, "result"]].head(12).to_csv(ROOT / "data/example_features.csv", index=False)

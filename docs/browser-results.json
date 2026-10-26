@@ -1,0 +1,19 @@
+{
+  "desktop": [
+    1440,
+    1100
+  ],
+  "mobile": [
+    390,
+    844
+  ],
+  "javascript_errors": [],
+  "mobile_page_overflow": false,
+  "checks": [
+    "ES1 real prediction",
+    "CL Barcelona vs Bayern cross-league prediction",
+    "All eight competition selectors",
+    "2018/19 Barcelona valuation includes Messi",
+    "No page-wide horizontal overflow"
+  ]
+}

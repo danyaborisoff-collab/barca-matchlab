@@ -1,5 +1,6 @@
 import asyncio
 import io
+import json
 import logging
 import math
 import os
@@ -7,6 +8,7 @@ import secrets
 import time
 from contextlib import asynccontextmanager
 from datetime import date, timedelta
+from functools import lru_cache
 
 import pandas as pd
 from fastapi import Depends, FastAPI, File, Header, HTTPException, UploadFile
@@ -15,7 +17,7 @@ from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, ConfigDict, Field, model_validator
 
 from ml.artifacts import MAX_BYTES, ROOT, loads, model_dir, save
-from ml.features import FEATURES, LABELS, load_games, raw_features
+from ml.features import COMPETITIONS, FEATURES, LABELS, load_games, raw_features
 from ml.train import train
 
 log = logging.getLogger("matchlab")
@@ -29,13 +31,19 @@ async def lifespan(app):
     path = model_dir() / "champion.pkl"
     if path.exists():
         try:
-            app.state.bundle = loads(path.read_bytes())
-        except (ValueError, EOFError):
+            value = loads(path.read_bytes())
+            if (
+                value["report"].get("schema_version") != 2
+                or value["report"]["features"] != FEATURES
+            ):
+                raise ValueError("Модель v0.7 несовместима: выполните обучение v0.8")
+            app.state.bundle = value
+        except (ValueError, KeyError, EOFError):
             log.exception("Сохранённая модель отклонена")
     yield
 
 
-app = FastAPI(title="MatchLab · La Liga", version="0.7.0", lifespan=lifespan)
+app = FastAPI(title="MatchLab · European Football", version="0.8.0", lifespan=lifespan)
 app.mount("/static", StaticFiles(directory=ROOT / "web"), name="static")
 
 
@@ -72,14 +80,122 @@ def bundle():
     return value
 
 
+@lru_cache(maxsize=8)
+def catalog(name="catalog"):
+    return json.loads((ROOT / f"data/{name}.json").read_text(encoding="utf-8"))
+
+
+def get_season(competition_id, season):
+    for row in catalog()["seasons"]:
+        if row["competition_id"] == competition_id and row["season"] == season:
+            return row
+    raise HTTPException(404, "Турнир или сезон отсутствует в архиве")
+
+
+def match_features(row):
+    # Without an explicit season, use the season preceding the scenario date.
+    season = (
+        row.season
+        if row.season is not None
+        else min(2024, row.date.year if row.date.month >= 7 else row.date.year - 1)
+    )
+    info = get_season(row.competition_id, season)
+    if row.home_club_id not in info["club_ids"] or row.away_club_id not in info["club_ids"]:
+        raise ValueError("Обе команды должны участвовать в выбранном турнире и сезоне")
+    if row.date < date(season, 7, 1) or row.date > date(season + 1, 6, 30):
+        raise ValueError("Дата сценария должна относиться к выбранному сезону")
+    return raw_features(
+        app.state.games, row.home_club_id, row.away_club_id, row.date, row.competition_id
+    )
+
+
+@app.get("/competitions")
+def competitions():
+    return {"competitions": catalog()["competitions"], "seasons": list(range(2024, 2011, -1))}
+
+
+@app.get("/season-summary")
+def season_summary(competition_id: str = "ES1", season: int = 2024):
+    info = get_season(competition_id, season)
+    awards = [
+        a
+        for a in catalog("awards")
+        if a["competition_id"] == competition_id and a["season"] == season
+    ]
+    return {
+        **info,
+        "awards": awards,
+        "award_note": "Только подтверждённые награды. Отсутствие записи не означает отсутствие награды; архив не содержит голов и передач игроков.",
+        "standings_note": "Расчётная таблица, не официальный протокол. Ligue 1 2019/20 завершена досрочно. Нет учёта санкций и специальных тай-брейков.",
+    }
+
+
+@app.get("/matches")
+def historical_matches(
+    competition_id: str = "CL",
+    season: int = 2024,
+    club_id: int | None = None,
+    limit: int = 20,
+    offset: int = 0,
+):
+    get_season(competition_id, season)
+    if not 1 <= limit <= 100 or offset < 0:
+        raise HTTPException(422, "limit: 1–100, offset >= 0")
+    df = archive_games()
+    group = df[(df.competition_id == competition_id) & (df.season == season)]
+    if club_id is not None:
+        group = group[(group.home_club_id == club_id) | (group.away_club_id == club_id)]
+    group = group.sort_values(["date", "game_id"], ascending=False)
+    return {
+        "total": len(group),
+        "matches": group.iloc[offset : offset + limit].to_dict("records"),
+        "score_note": "Архивный счёт. Плей-офф может включать дополнительное время и серию пенальти; это не счёт за 90 минут. Модель обучается только на чемпионатах и групповых этапах.",
+    }
+
+
+@lru_cache(maxsize=1)
+def archive_games():
+    return pd.concat(
+        [pd.read_csv(p) for p in sorted((ROOT / "data/matches").glob("*.csv"))], ignore_index=True
+    )
+
+
+@lru_cache(maxsize=13)
+def valuation_snapshot(season):
+    path = ROOT / "data/valuations" / f"{season}.csv"
+    return pd.read_csv(path).fillna("").to_dict("records") if path.exists() else []
+
+
+@app.get("/players/valuable")
+def valuable_players(club_id: int, season: int = 2024, limit: int = 10):
+    if not 2012 <= season <= 2024 or not 1 <= limit <= 10:
+        raise HTTPException(422, "Сезон 2012–2024, limit 1–10")
+    known = {c["id"] for c in catalog()["clubs"]}
+    if club_id not in known:
+        raise HTTPException(404, "Клуб отсутствует в архиве")
+    rows = [
+        r for r in valuation_snapshot(season) if r["season"] == season and r["club_id"] == club_id
+    ]
+    return {
+        "as_of": f"{season + 1}-06-30",
+        "club_id": club_id,
+        "players": rows[:limit],
+        "note": "Оценочная стоимость в EUR, не цена трансфера и не рейтинг качества. Последняя оценка не позднее 30 июня, давностью до 365 дней. Клуб уточнён последующими трансферами до этой даты; неоднозначные переходы исключены. Пустой список означает недостаток данных. Это срез клуба на дату, не полный состав сезона; позиция справочная.",
+    }
+
+
 class Match(BaseModel):
     model_config = ConfigDict(extra="forbid")
     home_club_id: int = Field(gt=0)
     away_club_id: int = Field(gt=0)
     date: date
+    competition_id: str = "ES1"
+    season: int | None = Field(default=None, ge=2012, le=2024)
 
     @model_validator(mode="after")
     def different(self):
+        if self.competition_id not in COMPETITIONS:
+            raise ValueError("Неизвестный турнир")
         if self.home_club_id == self.away_club_id:
             raise ValueError("Команды должны различаться")
         return self
@@ -132,20 +248,22 @@ def health():
 
 
 @app.get("/teams")
-def teams():
-    df = app.state.games
+def teams(competition_id: str = "ES1", season: int = 2024):
+    season_row = get_season(competition_id, season)
+    df = archive_games()
+    df = df[(df.competition_id == competition_id) & (df.season == season)]
     names = {}
     for row in df.itertuples():
         names[int(row.home_club_id)] = row.home_club_name
         names[int(row.away_club_id)] = row.away_club_name
-    active = set(df[df.season == 2024].home_club_id)
+    active = set(season_row["club_ids"])
     return {
         "teams": [
             {"id": i, "name": n, "latest_season": i in active}
             for i, n in sorted(names.items(), key=lambda t: t[1])
         ],
-        "snapshot_through": str(df.date.max().date()),
-        "scenario_date": str(df.date.max().date() + timedelta(days=1)),
+        "snapshot_through": str(pd.Timestamp(df.date.max()).date()),
+        "scenario_date": str(pd.Timestamp(df.date.max()).date() + timedelta(days=1)),
         "barcelona_id": 131,
     }
 
@@ -170,10 +288,7 @@ def predict(request: PredictRequest):
         }
     try:
         original = [r.model_dump(mode="json") for r in request.matches]
-        feats = [
-            raw_features(app.state.games, r.home_club_id, r.away_club_id, r.date)
-            for r in request.matches
-        ]
+        feats = [match_features(r) for r in request.matches]
     except ValueError as exc:
         raise HTTPException(422, str(exc)) from exc
     return {
@@ -201,11 +316,21 @@ async def predict_csv(file: UploadFile = File(...)):
         else:
             rows = [
                 Match.model_validate(r)
-                for r in frame[["home_club_id", "away_club_id", "date"]].to_dict("records")
+                for r in frame[
+                    [
+                        c
+                        for c in [
+                            "home_club_id",
+                            "away_club_id",
+                            "date",
+                            "competition_id",
+                            "season",
+                        ]
+                        if c in frame
+                    ]
+                ].to_dict("records")
             ]
-            feats = [
-                raw_features(app.state.games, r.home_club_id, r.away_club_id, r.date) for r in rows
-            ]
+            feats = [match_features(r) for r in rows]
             outputs = predictions(
                 feats, frame.fillna("").to_dict("records"), [r.date.isoformat() for r in rows]
             )
@@ -251,7 +376,7 @@ async def upload_model(file: UploadFile = File(...)):
         raise HTTPException(413, "Модель больше 25 MiB")
     try:
         value = loads(data)
-        if value["report"]["features"] != FEATURES:
+        if value["report"].get("schema_version") != 2 or value["report"]["features"] != FEATURES:
             raise ValueError("Несовместимая схема признаков")
     except (ValueError, KeyError, EOFError) as exc:
         raise HTTPException(422, str(exc)) from exc

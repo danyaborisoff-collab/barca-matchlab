@@ -5,7 +5,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-FEATURES = [
+BASE_FEATURES = [
     "elo_diff",
     "home_elo",
     "away_elo",
@@ -21,11 +21,17 @@ FEATURES = [
     "away_games",
 ]
 LABELS = ["away", "draw", "home"]
-DATA = Path(__file__).resolve().parents[1] / "data/laliga.csv"
+COMPETITIONS = ["ES1", "GB1", "FR1", "L1", "IT1", "CL", "EL", "UCOL"]
+FEATURES = [*BASE_FEATURES, *[f"tournament_{c}" for c in COMPETITIONS]]
+DATA = Path(__file__).resolve().parents[1] / "data/training"
 
 
 def load_games(path=DATA):
-    df = pd.read_csv(path)
+    df = (
+        pd.concat([pd.read_csv(p) for p in sorted(Path(path).glob("*.csv"))], ignore_index=True)
+        if Path(path).is_dir()
+        else pd.read_csv(path)
+    )
     required = [
         "game_id",
         "season",
@@ -76,7 +82,7 @@ class State:
             h[5],
             a[5],
         ]
-        return dict(zip(FEATURES, values, strict=True))
+        return dict(zip(BASE_FEATURES, values, strict=True))
 
     def update_day(self, rows):
         changes = []
@@ -109,6 +115,7 @@ def build_features(df):
                 {
                     **r._asdict(),
                     **state.snapshot(int(r.home_club_id), int(r.away_club_id), day),
+                    **context(r.competition_id),
                     "result": "home"
                     if r.home_club_goals > r.away_club_goals
                     else "draw"
@@ -120,7 +127,14 @@ def build_features(df):
     return pd.DataFrame(out)
 
 
-def raw_features(df, home, away, day):
+def context(competition_id):
+    if competition_id not in COMPETITIONS:
+        raise ValueError("Неизвестный турнир")
+    return {f"tournament_{c}": float(c == competition_id) for c in COMPETITIONS}
+
+
+def raw_features(df, home, away, day, competition_id="ES1"):
+    flags = context(competition_id)
     ids = set(df.home_club_id) | set(df.away_club_id)
     if home == away or home not in ids or away not in ids:
         raise ValueError("Выберите две разные команды из датасета")
@@ -128,4 +142,4 @@ def raw_features(df, home, away, day):
     state = State()
     for _, group in df[df.date < day].groupby("date", sort=True):
         state.update_day(list(group.itertuples(index=False)))
-    return state.snapshot(home, away, day)
+    return {**state.snapshot(home, away, day), **flags}

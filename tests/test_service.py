@@ -100,8 +100,9 @@ def test_metrics(client):
     assert len(m["validation"]) == 2
     assert 0 <= m["test"]["roc_auc_ovr_macro"] <= 1
     assert m["trained_through"] < m["test_from"]
-    assert m["split_rows"] == {"train": 3420, "validation": 760, "test": 760}
-    assert len(m["selected_features"]) == 10
+    assert sum(m["split_rows"].values()) == 26902
+    assert len(m["per_competition_test"]) == 8
+    assert len(m["selected_features"]) == 18
 
 
 def test_csv_raw(client):
@@ -206,3 +207,147 @@ def test_reject_duplicate_data(tmp_path):
     pd.concat([frame, frame]).to_csv(path, index=False)
     with pytest.raises(ValueError):
         load_games(path)
+
+
+def test_competition_catalog(client):
+    result = client.get("/competitions").json()
+    assert {c["id"] for c in result["competitions"]} == {
+        "ES1",
+        "GB1",
+        "FR1",
+        "L1",
+        "IT1",
+        "CL",
+        "EL",
+        "UCOL",
+    }
+    assert result["seasons"] == list(range(2024, 2011, -1))
+
+
+@pytest.mark.parametrize("competition", ["ES1", "GB1", "FR1", "L1", "IT1", "CL", "EL", "UCOL"])
+def test_season_and_awards(client, competition):
+    r = client.get("/season-summary", params={"competition_id": competition, "season": 2024})
+    assert r.status_code == 200
+    assert r.json()["champion_id"]
+    assert len(r.json()["awards"]) == 1
+    assert r.json()["awards"][0]["source"].startswith("https://")
+
+
+def test_historical_award_missing_is_explicit(client):
+    r = client.get("/season-summary?competition_id=ES1&season=2012").json()
+    assert r["awards"] == []
+    assert "Отсутствие" in r["award_note"]
+
+
+def test_unknown_competition(client):
+    assert client.get("/teams?competition_id=INVALID").status_code == 404
+    assert client.get("/season-summary?competition_id=UCOL&season=2012").status_code == 404
+
+
+def test_european_cross_league_prediction(client):
+    r = client.post(
+        "/predict",
+        json={
+            "matches": [
+                {
+                    "home_club_id": 131,
+                    "away_club_id": 27,
+                    "date": "2025-05-26",
+                    "competition_id": "CL",
+                    "season": 2024,
+                }
+            ]
+        },
+    )
+    assert r.status_code == 200
+    f = r.json()["predictions"][0]["features"]
+    assert f["tournament_CL"] == 1
+    assert f["tournament_ES1"] == 0
+
+
+def test_wrong_domestic_membership(client):
+    r = client.post(
+        "/predict",
+        json={
+            "matches": [
+                {
+                    "home_club_id": 131,
+                    "away_club_id": 27,
+                    "date": "2025-05-26",
+                    "competition_id": "ES1",
+                }
+            ]
+        },
+    )
+    assert r.status_code == 422
+
+
+def test_scenario_outside_selected_season(client):
+    r = client.post(
+        "/predict",
+        json={
+            "matches": [
+                {
+                    "home_club_id": 131,
+                    "away_club_id": 418,
+                    "date": "2025-05-26",
+                    "competition_id": "ES1",
+                    "season": 2012,
+                }
+            ]
+        },
+    )
+    assert r.status_code == 422
+
+
+def test_fixtures_and_pagination(client):
+    a = client.get("/matches?competition_id=CL&season=2024&limit=1").json()
+    b = client.get("/matches?competition_id=CL&season=2024&limit=1&offset=1").json()
+    assert a["total"] == 189
+    assert a["matches"][0]["game_id"] != b["matches"][0]["game_id"]
+    assert a["matches"][0]["round"] == "Final"
+    assert client.get("/matches?limit=101").status_code == 422
+
+
+def test_fixture_club_filter(client):
+    a = client.get("/matches?competition_id=CL&season=2024&club_id=131").json()
+    assert a["matches"] and all(131 in [m["home_club_id"], m["away_club_id"]] for m in a["matches"])
+
+
+def test_penalty_scores_not_training_labels():
+    df = load_games()
+    assert not df.game_id.isin([2690027, 3563783, 3813154]).any()
+    assert (
+        df[df.competition_id.isin(["CL", "EL", "UCOL"])]["round"]
+        .str.contains("Group", case=False)
+        .all()
+    )
+
+
+def test_historical_valuation_messi(client):
+    rows = client.get("/players/valuable?club_id=131&season=2018").json()["players"]
+    messi = next(p for p in rows if p["player_id"] == 28003)
+    assert messi["value_eur"] == 150000000
+    assert messi["valuation_date"] == "2019-06-11"
+    assert all(p["valuation_date"] <= p["as_of"] == "2019-06-30" for p in rows)
+    assert not any(
+        p["player_id"] == 28003
+        for p in client.get("/players/valuable?club_id=131&season=2022").json()["players"]
+    )
+
+
+def test_valuation_validation(client):
+    assert client.get("/players/valuable?club_id=999999").status_code == 404
+    assert client.get("/players/valuable?club_id=131&season=2030").status_code == 422
+    assert client.get("/players/valuable?club_id=131&limit=11").status_code == 422
+
+
+def test_all_valuation_snapshots_no_future():
+    from pathlib import Path
+
+    for p in (Path(__file__).resolve().parents[1] / "data/valuations").glob("*.csv"):
+        frame = pd.read_csv(p)
+        age = (pd.to_datetime(frame.as_of) - pd.to_datetime(frame.valuation_date)).dt.days
+        assert age.between(0, 365).all()
+        assert not frame.duplicated(["season", "player_id"]).any()
+        assert frame.groupby("club_id").size().max() <= 10

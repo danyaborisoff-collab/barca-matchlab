@@ -1,13 +1,12 @@
 All checks passed!
-8 files already formatted
+9 files already formatted
 
-> barca-matchlab@0.7.0 lint
+> barca-matchlab@0.8.0 lint
 > node --check web/app.js && node scripts/check_frontend.mjs && eslint web/app.js scripts/check_frontend.mjs
 
 Frontend contract checks passed
 
-> barca-matchlab@0.7.0 test
+> barca-matchlab@0.8.0 test
 > node scripts/check_frontend.mjs
 
 Frontend contract checks passed
-found 0 vulnerabilities

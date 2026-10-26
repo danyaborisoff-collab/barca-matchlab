@@ -1,34 +1,34 @@
 {
-  "selected_model": "random_forest",
+  "selected_model": "logistic_regression",
   "selection_basis": "Validation ROC-AUC, seasons 2021/22–2022/23; test not used for selection",
   "validation": {
     "logistic_regression": {
-      "roc_auc_ovr_macro": 0.6509864870134553,
-      "accuracy": 0.5236842105263158,
-      "log_loss": 1.0043522414982027
+      "roc_auc_ovr_macro": 0.6642887792018941,
+      "accuracy": 0.5338221381267739,
+      "log_loss": 0.988744405273398
     },
     "random_forest": {
-      "roc_auc_ovr_macro": 0.6516723158557424,
-      "accuracy": 0.5236842105263158,
-      "log_loss": 1.0126289133861837
+      "roc_auc_ovr_macro": 0.6584744155137052,
+      "accuracy": 0.5354777672658467,
+      "log_loss": 0.9894896082109894
     }
   },
   "test": {
-    "roc_auc_ovr_macro": 0.677282802073761,
-    "accuracy": 0.5342105263157895,
-    "log_loss": 0.9703459790438854
+    "roc_auc_ovr_macro": 0.6687983650987278,
+    "accuracy": 0.5389207258834766,
+    "log_loss": 0.9720498394753174
   },
   "baseline_test": {
     "roc_auc_ovr_macro": 0.5,
-    "accuracy": 0.4421052631578947,
-    "log_loss": 1.073704258841039
+    "accuracy": 0.438872970391595,
+    "log_loss": 1.0705776787396997
   },
   "split_rows": {
-    "train": 3420,
-    "validation": 760,
-    "test": 760
+    "train": 18486,
+    "validation": 4228,
+    "test": 4188
   },
-  "refit_rows": 4180,
+  "refit_rows": 22714,
   "trained_through": "2023-06-04",
   "test_from": "2023-08-11",
   "test_to": "2025-05-25",
@@ -45,7 +45,15 @@
     "home_rest",
     "away_rest",
     "home_games",
-    "away_games"
+    "away_games",
+    "tournament_ES1",
+    "tournament_GB1",
+    "tournament_FR1",
+    "tournament_L1",
+    "tournament_IT1",
+    "tournament_CL",
+    "tournament_EL",
+    "tournament_UCOL"
   ],
   "selected_features": [
     "elo_diff",
@@ -57,17 +65,69 @@
     "away_gf5",
     "home_ga5",
     "away_ga5",
-    "away_games"
+    "away_games",
+    "tournament_ES1",
+    "tournament_GB1",
+    "tournament_FR1",
+    "tournament_L1",
+    "tournament_IT1",
+    "tournament_CL",
+    "tournament_EL",
+    "tournament_UCOL"
   ],
-  "dataset_sha256": "41b6d4a7baf06f8a19a114a5d0ccbd02e868eb9662b800a33cc9cd7107f8930c",
-  "created_at": "2026-10-26T15:59:00.876798+00:00",
+  "dataset_sha256": "bfec6eb82f4ff2cf80ad535bf35413cf9d695a73199e5bc19517acd9728bd7f4",
+  "created_at": "2026-10-26T22:03:32.448090+00:00",
   "sklearn_version": "1.6.1",
   "classes": [
     "away",
     "draw",
     "home"
   ],
-  "football_scope": "ES1 / seasons 2012–2024",
+  "football_scope": "Five leagues + European group stages / seasons 2012–2024",
+  "schema_version": 2,
+  "per_competition_test": {
+    "CL": {
+      "roc_auc_ovr_macro": 0.7197235919187414,
+      "accuracy": 0.6333333333333333,
+      "log_loss": 0.8694255093125637
+    },
+    "EL": {
+      "roc_auc_ovr_macro": 0.6542313323656164,
+      "accuracy": 0.5583333333333333,
+      "log_loss": 0.9716773751841231
+    },
+    "ES1": {
+      "roc_auc_ovr_macro": 0.6834532943550652,
+      "accuracy": 0.5355263157894737,
+      "log_loss": 0.9669992296557323
+    },
+    "FR1": {
+      "roc_auc_ovr_macro": 0.6286702124443558,
+      "accuracy": 0.5163398692810458,
+      "log_loss": 1.0064671745515468
+    },
+    "GB1": {
+      "roc_auc_ovr_macro": 0.6669229633375587,
+      "accuracy": 0.5552631578947368,
+      "log_loss": 0.9562537400396474
+    },
+    "IT1": {
+      "roc_auc_ovr_macro": 0.6800384040848946,
+      "accuracy": 0.5276315789473685,
+      "log_loss": 0.980824172138426
+    },
+    "L1": {
+      "roc_auc_ovr_macro": 0.6614078391188566,
+      "accuracy": 0.5179738562091504,
+      "log_loss": 0.9910927042731861
+    },
+    "UCOL": {
+      "roc_auc_ovr_macro": 0.6374264431621315,
+      "accuracy": 0.5294117647058824,
+      "log_loss": 0.9778174598480186
+    }
+  },
+  "score_policy": "Knockout matches excluded: archive scores can include shootouts; predictions are not qualification probabilities",
   "limitations": [
     "Historical snapshot, not live team strength",
     "No injury/lineup/odds features",
@@ -75,8 +135,8 @@
     "Data origin/license not confirmed by user"
   ],
   "barcelona_test": {
-    "roc_auc_ovr_macro": 0.7220071635405937,
-    "accuracy": 0.7105263157894737,
-    "log_loss": 0.8328386467606721
+    "roc_auc_ovr_macro": 0.7115167925353111,
+    "accuracy": 0.6777777777777778,
+    "log_loss": 0.8350513262444126
   }
 }
