@@ -1,0 +1,13 @@
+{
+  "source": "User-supplied archive.zip / games.csv",
+  "upstream_license": "Not provided; redistribution rights must be checked before public data publication",
+  "competition": "ES1",
+  "seasons": [
+    2012,
+    2024
+  ],
+  "rows": 4940,
+  "barcelona_id": 131,
+  "sha256": "41b6d4a7baf06f8a19a114a5d0ccbd02e868eb9662b800a33cc9cd7107f8930c",
+  "original_sha256": "c24da068cc7444e1e345c274d8d2320226cafc02186a17de2cf766eccb8ae79b"
+}

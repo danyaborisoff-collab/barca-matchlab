@@ -1,0 +1,32 @@
+on:
+  push:
+    - workflows: [quality-build]
+      filter:
+        branches: ["**"]
+  pull_request:
+    - workflows: [quality-build]
+      filter:
+        source_branches: ["**"]
+        target_branches: ["main"]
+workflows:
+  quality-build:
+    tasks:
+      - name: verify-and-build
+        cubes:
+          - name: backend-lint-test
+            image: docker.io/library/python:3.12-slim-bookworm
+            script:
+              - pip install -r requirements-dev.txt
+              - python -m ruff check .
+              - python -m ruff format --check .
+              - python -m pytest -q
+          - name: frontend-lint-test
+            image: docker.io/library/node:22-bookworm-slim
+            script:
+              - npm ci
+              - npm run lint
+              - npm test
+          - name: build-container
+            script:
+              - docker build -t barca-matchlab:ci .
+              - docker run --rm --entrypoint id barca-matchlab:ci -u | grep '^10001$'

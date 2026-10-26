@@ -1,0 +1,14 @@
+services:
+  app:
+    build: .
+    ports: ["127.0.0.1:8001:8000"]
+    environment:
+      ADMIN_TOKEN: ${ADMIN_TOKEN:?Create .env with ADMIN_TOKEN}
+    volumes: ["models:/app/models"]
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health')"]
+      interval: 10s
+      timeout: 3s
+      retries: 5
+volumes:
+  models:

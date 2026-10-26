@@ -1,0 +1,82 @@
+{
+  "selected_model": "random_forest",
+  "selection_basis": "Validation ROC-AUC, seasons 2021/22–2022/23; test not used for selection",
+  "validation": {
+    "logistic_regression": {
+      "roc_auc_ovr_macro": 0.6509864870134553,
+      "accuracy": 0.5236842105263158,
+      "log_loss": 1.0043522414982027
+    },
+    "random_forest": {
+      "roc_auc_ovr_macro": 0.6516723158557424,
+      "accuracy": 0.5236842105263158,
+      "log_loss": 1.0126289133861837
+    }
+  },
+  "test": {
+    "roc_auc_ovr_macro": 0.677282802073761,
+    "accuracy": 0.5342105263157895,
+    "log_loss": 0.9703459790438854
+  },
+  "baseline_test": {
+    "roc_auc_ovr_macro": 0.5,
+    "accuracy": 0.4421052631578947,
+    "log_loss": 1.073704258841039
+  },
+  "split_rows": {
+    "train": 3420,
+    "validation": 760,
+    "test": 760
+  },
+  "refit_rows": 4180,
+  "trained_through": "2023-06-04",
+  "test_from": "2023-08-11",
+  "test_to": "2025-05-25",
+  "features": [
+    "elo_diff",
+    "home_elo",
+    "away_elo",
+    "home_points5",
+    "away_points5",
+    "home_gf5",
+    "away_gf5",
+    "home_ga5",
+    "away_ga5",
+    "home_rest",
+    "away_rest",
+    "home_games",
+    "away_games"
+  ],
+  "selected_features": [
+    "elo_diff",
+    "home_elo",
+    "away_elo",
+    "home_points5",
+    "away_points5",
+    "home_gf5",
+    "away_gf5",
+    "home_ga5",
+    "away_ga5",
+    "away_games"
+  ],
+  "dataset_sha256": "41b6d4a7baf06f8a19a114a5d0ccbd02e868eb9662b800a33cc9cd7107f8930c",
+  "created_at": "2026-10-26T15:59:00.876798+00:00",
+  "sklearn_version": "1.6.1",
+  "classes": [
+    "away",
+    "draw",
+    "home"
+  ],
+  "football_scope": "ES1 / seasons 2012–2024",
+  "limitations": [
+    "Historical snapshot, not live team strength",
+    "No injury/lineup/odds features",
+    "ROC-AUC is not profit or calibration",
+    "Data origin/license not confirmed by user"
+  ],
+  "barcelona_test": {
+    "roc_auc_ovr_macro": 0.7220071635405937,
+    "accuracy": 0.7105263157894737,
+    "log_loss": 0.8328386467606721
+  }
+}
