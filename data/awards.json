@@ -1,0 +1,234 @@
+[
+  {
+    "competition_id": "GB1",
+    "season": 2012,
+    "name": "Gareth Bale",
+    "club": "Tottenham Hotspur",
+    "award": "Premier League Player of the Season",
+    "source": "https://www.premierleague.com/en/news/4314799/salah-wins-202425-ea-sports-player-of-the-season-award"
+  },
+  {
+    "competition_id": "GB1",
+    "season": 2013,
+    "name": "Luis Suárez",
+    "club": "Liverpool FC",
+    "award": "Premier League Player of the Season",
+    "source": "https://www.premierleague.com/en/news/4314799/salah-wins-202425-ea-sports-player-of-the-season-award"
+  },
+  {
+    "competition_id": "GB1",
+    "season": 2014,
+    "name": "Eden Hazard",
+    "club": "Chelsea FC",
+    "award": "Premier League Player of the Season",
+    "source": "https://www.premierleague.com/en/news/4314799/salah-wins-202425-ea-sports-player-of-the-season-award"
+  },
+  {
+    "competition_id": "GB1",
+    "season": 2015,
+    "name": "Jamie Vardy",
+    "club": "Leicester City",
+    "award": "Premier League Player of the Season",
+    "source": "https://www.premierleague.com/en/news/4314799/salah-wins-202425-ea-sports-player-of-the-season-award"
+  },
+  {
+    "competition_id": "GB1",
+    "season": 2016,
+    "name": "N’Golo Kanté",
+    "club": "Chelsea FC",
+    "award": "Premier League Player of the Season",
+    "source": "https://www.premierleague.com/en/news/4314799/salah-wins-202425-ea-sports-player-of-the-season-award"
+  },
+  {
+    "competition_id": "GB1",
+    "season": 2017,
+    "name": "Mohamed Salah",
+    "club": "Liverpool FC",
+    "award": "Premier League Player of the Season",
+    "source": "https://www.premierleague.com/en/news/4314799/salah-wins-202425-ea-sports-player-of-the-season-award"
+  },
+  {
+    "competition_id": "GB1",
+    "season": 2018,
+    "name": "Virgil van Dijk",
+    "club": "Liverpool FC",
+    "award": "Premier League Player of the Season",
+    "source": "https://www.premierleague.com/en/news/4314799/salah-wins-202425-ea-sports-player-of-the-season-award"
+  },
+  {
+    "competition_id": "GB1",
+    "season": 2019,
+    "name": "Kevin De Bruyne",
+    "club": "Manchester City",
+    "award": "Premier League Player of the Season",
+    "source": "https://www.premierleague.com/en/news/4314799/salah-wins-202425-ea-sports-player-of-the-season-award"
+  },
+  {
+    "competition_id": "GB1",
+    "season": 2020,
+    "name": "Rúben Dias",
+    "club": "Manchester City",
+    "award": "Premier League Player of the Season",
+    "source": "https://www.premierleague.com/en/news/4314799/salah-wins-202425-ea-sports-player-of-the-season-award"
+  },
+  {
+    "competition_id": "GB1",
+    "season": 2021,
+    "name": "Kevin De Bruyne",
+    "club": "Manchester City",
+    "award": "Premier League Player of the Season",
+    "source": "https://www.premierleague.com/en/news/4314799/salah-wins-202425-ea-sports-player-of-the-season-award"
+  },
+  {
+    "competition_id": "GB1",
+    "season": 2022,
+    "name": "Erling Haaland",
+    "club": "Manchester City",
+    "award": "Premier League Player of the Season",
+    "source": "https://www.premierleague.com/en/news/4314799/salah-wins-202425-ea-sports-player-of-the-season-award"
+  },
+  {
+    "competition_id": "GB1",
+    "season": 2023,
+    "name": "Phil Foden",
+    "club": "Manchester City",
+    "award": "Premier League Player of the Season",
+    "source": "https://www.premierleague.com/en/news/4314799/salah-wins-202425-ea-sports-player-of-the-season-award"
+  },
+  {
+    "competition_id": "GB1",
+    "season": 2024,
+    "name": "Mohamed Salah",
+    "club": "Liverpool FC",
+    "award": "Premier League Player of the Season",
+    "source": "https://www.premierleague.com/en/news/4314799/salah-wins-202425-ea-sports-player-of-the-season-award"
+  },
+  {
+    "competition_id": "ES1",
+    "season": 2024,
+    "name": "Raphinha",
+    "club": "FC Barcelona",
+    "award": "LALIGA Best Player by EA SPORTS",
+    "source": "https://www.laliga.com/en-ES/news/laliga-presents-the-2024-2025-season-awards-at-the-globe-soccer-gala-in-dubai"
+  },
+  {
+    "competition_id": "L1",
+    "season": 2024,
+    "name": "Harry Kane",
+    "club": "Bayern Munich",
+    "award": "Игрок сезона",
+    "source": "https://www.bundesliga.com/en/bundesliga/news/harry-kane-bundesliga-player-of-the-season-2024-25-32339"
+  },
+  {
+    "competition_id": "IT1",
+    "season": 2024,
+    "name": "Scott McTominay",
+    "club": "SSC Napoli",
+    "award": "EA SPORTS FC Player of the Year",
+    "source": "https://sscnapoli.it/en/mctominay-vince-lea-sports-fc-player-of-the-year"
+  },
+  {
+    "competition_id": "FR1",
+    "season": 2024,
+    "name": "Ousmane Dembélé",
+    "club": "Paris Saint-Germain",
+    "award": "UNFP — лучший игрок Ligue 1",
+    "source": "https://www.psg.fr/content/ballon-d-or-2025-une-ceremonie-historique-pour-le-paris-saint-germain-ousmane-dembele-designe-meilleur-joueur-du-monde"
+  },
+  {
+    "competition_id": "CL",
+    "season": 2021,
+    "name": "Karim Benzema",
+    "club": "Real Madrid",
+    "award": "UEFA Player of the Season",
+    "source": "https://www.uefa.com/uefachampionsleague/news/029a-1de593cb29ee-c04434a97ebb-1000--ousmane-dembele-named-2024-25-uefa-champions-league-playe/"
+  },
+  {
+    "competition_id": "CL",
+    "season": 2022,
+    "name": "Rodri",
+    "club": "Manchester City",
+    "award": "UEFA Player of the Season",
+    "source": "https://www.uefa.com/uefachampionsleague/news/029a-1de593cb29ee-c04434a97ebb-1000--ousmane-dembele-named-2024-25-uefa-champions-league-playe/"
+  },
+  {
+    "competition_id": "CL",
+    "season": 2023,
+    "name": "Vinícius Júnior",
+    "club": "Real Madrid",
+    "award": "UEFA Player of the Season",
+    "source": "https://www.uefa.com/uefachampionsleague/news/029a-1de593cb29ee-c04434a97ebb-1000--ousmane-dembele-named-2024-25-uefa-champions-league-playe/"
+  },
+  {
+    "competition_id": "CL",
+    "season": 2024,
+    "name": "Ousmane Dembélé",
+    "club": "Paris Saint-Germain",
+    "award": "UEFA Player of the Season",
+    "source": "https://www.uefa.com/uefachampionsleague/news/029a-1de593cb29ee-c04434a97ebb-1000--ousmane-dembele-named-2024-25-uefa-champions-league-playe/"
+  },
+  {
+    "competition_id": "EL",
+    "season": 2018,
+    "name": "Eden Hazard",
+    "club": "Chelsea FC",
+    "award": "UEFA Player of the Season",
+    "source": "https://www.uefa.com/uefaeuropaleague/news/0299-1dd17e58badd-0d32129e7f0b-1000--cristian-romero-named-2024-25-uefa-europa-league-player-of-/"
+  },
+  {
+    "competition_id": "EL",
+    "season": 2019,
+    "name": "Romelu Lukaku",
+    "club": "Inter Milan",
+    "award": "UEFA Player of the Season",
+    "source": "https://www.uefa.com/uefaeuropaleague/news/0299-1dd17e58badd-0d32129e7f0b-1000--cristian-romero-named-2024-25-uefa-europa-league-player-of-/"
+  },
+  {
+    "competition_id": "EL",
+    "season": 2020,
+    "name": "Gerard Moreno",
+    "club": "Villarreal CF",
+    "award": "UEFA Player of the Season",
+    "source": "https://www.uefa.com/uefaeuropaleague/news/0299-1dd17e58badd-0d32129e7f0b-1000--cristian-romero-named-2024-25-uefa-europa-league-player-of-/"
+  },
+  {
+    "competition_id": "EL",
+    "season": 2021,
+    "name": "Filip Kostić",
+    "club": "Eintracht Frankfurt",
+    "award": "UEFA Player of the Season",
+    "source": "https://www.uefa.com/uefaeuropaleague/news/0299-1dd17e58badd-0d32129e7f0b-1000--cristian-romero-named-2024-25-uefa-europa-league-player-of-/"
+  },
+  {
+    "competition_id": "EL",
+    "season": 2022,
+    "name": "Jesús Navas",
+    "club": "Sevilla FC",
+    "award": "UEFA Player of the Season",
+    "source": "https://www.uefa.com/uefaeuropaleague/news/0299-1dd17e58badd-0d32129e7f0b-1000--cristian-romero-named-2024-25-uefa-europa-league-player-of-/"
+  },
+  {
+    "competition_id": "EL",
+    "season": 2023,
+    "name": "Pierre-Emerick Aubameyang",
+    "club": "Olympique Marseille",
+    "award": "UEFA Player of the Season",
+    "source": "https://www.uefa.com/uefaeuropaleague/news/0299-1dd17e58badd-0d32129e7f0b-1000--cristian-romero-named-2024-25-uefa-europa-league-player-of-/"
+  },
+  {
+    "competition_id": "EL",
+    "season": 2024,
+    "name": "Cristian Romero",
+    "club": "Tottenham Hotspur",
+    "award": "UEFA Player of the Season",
+    "source": "https://www.uefa.com/uefaeuropaleague/news/0299-1dd17e58badd-0d32129e7f0b-1000--cristian-romero-named-2024-25-uefa-europa-league-player-of-/"
+  },
+  {
+    "competition_id": "UCOL",
+    "season": 2024,
+    "name": "Isco",
+    "club": "Real Betis",
+    "award": "UEFA Player of the Season",
+    "source": "https://www.uefa.com/uefaconferenceleague/news/0299-1ddf890eafdc-be3746b02448-1000--isco-named-2024-25-uefa-conference-league-player-of-the-s"
+  }
+]

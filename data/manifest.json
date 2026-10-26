@@ -1,13 +1,50 @@
 {
-  "source": "User-supplied archive.zip / games.csv",
-  "upstream_license": "Not provided; redistribution rights must be checked before public data publication",
-  "competition": "ES1",
+  "version": "0.8",
+  "scope": [
+    "ES1",
+    "GB1",
+    "FR1",
+    "L1",
+    "IT1",
+    "CL",
+    "EL",
+    "UCOL"
+  ],
   "seasons": [
     2012,
     2024
   ],
-  "rows": 4940,
-  "barcelona_id": 131,
-  "sha256": "41b6d4a7baf06f8a19a114a5d0ccbd02e868eb9662b800a33cc9cd7107f8930c",
-  "original_sha256": "c24da068cc7444e1e345c274d8d2320226cafc02186a17de2cf766eccb8ae79b"
+  "archive_matches": 28188,
+  "training_matches": 26902,
+  "training_policy": "Domestic leagues and European group/league stages only; knockout excluded because scores may contain shootouts",
+  "counts": {
+    "CL": 1683,
+    "EL": 2440,
+    "ES1": 4940,
+    "FR1": 4691,
+    "GB1": 4940,
+    "IT1": 4940,
+    "L1": 3978,
+    "UCOL": 576
+  },
+  "training_counts": {
+    "CL": 1296,
+    "EL": 1721,
+    "ES1": 4940,
+    "FR1": 4691,
+    "GB1": 4940,
+    "IT1": 4940,
+    "L1": 3978,
+    "UCOL": 396
+  },
+  "player_snapshot_rows": 37627,
+  "valuation_cutoff": "June 30 after season; last valuation at most 365 days old; transfers after valuation adjust membership; ambiguous same-day transfers omitted",
+  "ambiguous_transfer_player_seasons": 90,
+  "source": "User-provided archive.zip, games.csv / players.csv / player_valuations.csv / transfers.csv; original provider Transfermarkt, reuse licence not verified",
+  "raw_sha256": {
+    "football_games.csv": "c24da068cc7444e1e345c274d8d2320226cafc02186a17de2cf766eccb8ae79b",
+    "players.csv": "b94216cf2ff8777b5eddd4fd91402c19e757b366fbdeb4f4437580c302ff2d66",
+    "player_valuations.csv": "9caf4ff707905f71463a04253c5ac640b3ff9575e07912fd7c50365697efa47d",
+    "transfers.csv": "5331311c6ec68c2c7a9c22979aff7d6f6fd2cefd96201d1bcfb35998a9d244ae"
+  }
 }
