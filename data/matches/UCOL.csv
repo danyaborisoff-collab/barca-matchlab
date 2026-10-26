@@ -1,0 +1,577 @@
+game_id,competition_id,season,round,date,home_club_id,away_club_id,home_club_goals,away_club_goals,home_club_name,away_club_name
+3651260,UCOL,2021,Group E,2021-09-14,1064,234,0,0,Maccabi Haifa,Feyenoord Rotterdam
+3651280,UCOL,2021,Group A,2021-09-14,119,37914,4,1,Maccabi Tel Aviv,Alashkert Yerevan FC
+3651261,UCOL,2021,Group E,2021-09-16,62,89,3,1,SK Slavia Prague,1.FC Union Berlin
+3651272,UCOL,2021,Group H,2021-09-16,10482,829,0,0,Kairat Almaty,Omonia Nicosia
+3651275,UCOL,2021,Group F,2021-09-16,540,190,1,3,Slovan Bratislava,FC Copenhagen
+3651276,UCOL,2021,Group F,2021-09-16,38204,1091,0,2,Lincoln Red Imps FC,Panthessalonikios Athlitikos Omilos Konstantinoupoliton
+3651277,UCOL,2021,Group G,2021-09-16,273,148,2,2,Stade Rennais FC,Tottenham Hotspur
+3651278,UCOL,2021,Group G,2021-09-16,4059,499,0,2,NS Mura,Vitesse Arnhem
+3651279,UCOL,2021,Group H,2021-09-16,10625,26,0,0,Qarabağ FK,FC Basel 1893
+3651281,UCOL,2021,Group A,2021-09-16,1008,413,0,2,HJK Helsinki,LASK
+3651282,UCOL,2021,Group B,2021-09-16,1002,157,0,1,FC Flora Tallinn,KAA Gent
+3651283,UCOL,2021,Group B,2021-09-16,3899,669,0,2,Anorthosis Famagusta,FK Partizan Belgrade
+3651284,UCOL,2021,Group C,2021-09-16,12,208,5,1,Associazione Sportiva Roma,CSKA-Sofia
+3651285,UCOL,2021,Group C,2021-09-16,501,10690,3,1,Fotballklubben Bodø/Glimt,Zorya Lugansk
+3651286,UCOL,2021,Group D,2021-09-16,1322,7769,1,0,FK Jablonec,CFR Cluj
+3651287,UCOL,2021,Group D,2021-09-16,5724,1090,2,2,Randers FC,AZ Alkmaar
+3651262,UCOL,2021,Group E,2021-09-30,234,62,2,1,Feyenoord Rotterdam,SK Slavia Prague
+3651263,UCOL,2021,Group E,2021-09-30,89,1064,3,0,1.FC Union Berlin,Maccabi Haifa
+3651274,UCOL,2021,Group A,2021-09-30,413,119,1,1,LASK,Maccabi Tel Aviv
+3651403,UCOL,2021,Group A,2021-09-30,37914,1008,2,4,Alashkert Yerevan FC,HJK Helsinki
+3651404,UCOL,2021,Group B,2021-09-30,157,3899,2,0,KAA Gent,Anorthosis Famagusta
+3651405,UCOL,2021,Group B,2021-09-30,669,1002,2,0,FK Partizan Belgrade,FC Flora Tallinn
+3651406,UCOL,2021,Group C,2021-09-30,10690,12,0,3,Zorya Lugansk,Associazione Sportiva Roma
+3651407,UCOL,2021,Group C,2021-09-30,208,501,0,0,CSKA-Sofia,Fotballklubben Bodø/Glimt
+3651408,UCOL,2021,Group D,2021-09-30,1090,1322,1,0,AZ Alkmaar,FK Jablonec
+3651409,UCOL,2021,Group D,2021-09-30,7769,5724,1,1,CFR Cluj,Randers FC
+3651410,UCOL,2021,Group F,2021-09-30,190,38204,3,1,FC Copenhagen,Lincoln Red Imps FC
+3651411,UCOL,2021,Group F,2021-09-30,1091,540,1,1,Panthessalonikios Athlitikos Omilos Konstantinoupoliton,Slovan Bratislava
+3651412,UCOL,2021,Group G,2021-09-30,499,273,1,2,Vitesse Arnhem,Stade Rennais FC
+3651413,UCOL,2021,Group G,2021-09-30,148,4059,5,1,Tottenham Hotspur,NS Mura
+3651414,UCOL,2021,Group H,2021-09-30,26,10482,4,2,FC Basel 1893,Kairat Almaty
+3651415,UCOL,2021,Group H,2021-09-30,829,10625,1,4,Omonia Nicosia,Qarabağ FK
+3651264,UCOL,2021,Group E,2021-10-21,234,89,3,1,Feyenoord Rotterdam,1.FC Union Berlin
+3651265,UCOL,2021,Group E,2021-10-21,1064,62,1,0,Maccabi Haifa,SK Slavia Prague
+3651436,UCOL,2021,Group A,2021-10-21,37914,413,0,3,Alashkert Yerevan FC,LASK
+3651437,UCOL,2021,Group B,2021-10-21,3899,1002,2,2,Anorthosis Famagusta,FC Flora Tallinn
+3651438,UCOL,2021,Group C,2021-10-21,501,12,6,1,Fotballklubben Bodø/Glimt,Associazione Sportiva Roma
+3651439,UCOL,2021,Group F,2021-10-21,190,1091,1,2,FC Copenhagen,Panthessalonikios Athlitikos Omilos Konstantinoupoliton
+3651440,UCOL,2021,Group G,2021-10-21,499,148,1,0,Vitesse Arnhem,Tottenham Hotspur
+3651441,UCOL,2021,Group G,2021-10-21,4059,273,1,2,NS Mura,Stade Rennais FC
+3651442,UCOL,2021,Group H,2021-10-21,10625,10482,2,1,Qarabağ FK,Kairat Almaty
+3651443,UCOL,2021,Group A,2021-10-21,1008,119,0,5,HJK Helsinki,Maccabi Tel Aviv
+3651444,UCOL,2021,Group B,2021-10-21,669,157,0,1,FK Partizan Belgrade,KAA Gent
+3651445,UCOL,2021,Group C,2021-10-21,208,10690,0,1,CSKA-Sofia,Zorya Lugansk
+3651446,UCOL,2021,Group D,2021-10-21,7769,1090,0,1,CFR Cluj,AZ Alkmaar
+3651447,UCOL,2021,Group D,2021-10-21,1322,5724,2,2,FK Jablonec,Randers FC
+3651448,UCOL,2021,Group F,2021-10-21,540,38204,2,0,Slovan Bratislava,Lincoln Red Imps FC
+3651449,UCOL,2021,Group H,2021-10-21,26,829,3,1,FC Basel 1893,Omonia Nicosia
+3651266,UCOL,2021,Group E,2021-11-04,89,234,1,2,1.FC Union Berlin,Feyenoord Rotterdam
+3651267,UCOL,2021,Group E,2021-11-04,62,1064,1,0,SK Slavia Prague,Maccabi Haifa
+3651481,UCOL,2021,Group H,2021-11-04,10482,10625,1,2,Kairat Almaty,Qarabağ FK
+3651482,UCOL,2021,Group A,2021-11-04,413,37914,2,0,LASK,Alashkert Yerevan FC
+3651483,UCOL,2021,Group A,2021-11-04,119,1008,3,0,Maccabi Tel Aviv,HJK Helsinki
+3651484,UCOL,2021,Group B,2021-11-04,157,669,1,1,KAA Gent,FK Partizan Belgrade
+3651485,UCOL,2021,Group C,2021-11-04,10690,208,2,0,Zorya Lugansk,CSKA-Sofia
+3651486,UCOL,2021,Group D,2021-11-04,1090,7769,2,0,AZ Alkmaar,CFR Cluj
+3651487,UCOL,2021,Group D,2021-11-04,5724,1322,2,2,Randers FC,FK Jablonec
+3651488,UCOL,2021,Group F,2021-11-04,38204,540,1,4,Lincoln Red Imps FC,Slovan Bratislava
+3651489,UCOL,2021,Group H,2021-11-04,829,26,1,1,Omonia Nicosia,FC Basel 1893
+3651490,UCOL,2021,Group B,2021-11-04,1002,3899,2,2,FC Flora Tallinn,Anorthosis Famagusta
+3651491,UCOL,2021,Group C,2021-11-04,12,501,2,2,Associazione Sportiva Roma,Fotballklubben Bodø/Glimt
+3651492,UCOL,2021,Group F,2021-11-04,1091,190,1,2,Panthessalonikios Athlitikos Omilos Konstantinoupoliton,FC Copenhagen
+3651493,UCOL,2021,Group G,2021-11-04,148,499,3,2,Tottenham Hotspur,Vitesse Arnhem
+3651494,UCOL,2021,Group G,2021-11-04,273,4059,1,0,Stade Rennais FC,NS Mura
+3651268,UCOL,2021,Group E,2021-11-25,62,234,2,2,SK Slavia Prague,Feyenoord Rotterdam
+3651269,UCOL,2021,Group E,2021-11-25,1064,89,0,1,Maccabi Haifa,1.FC Union Berlin
+3651495,UCOL,2021,Group H,2021-11-25,10482,26,2,3,Kairat Almaty,FC Basel 1893
+3651503,UCOL,2021,Group F,2021-11-25,540,1091,0,0,Slovan Bratislava,Panthessalonikios Athlitikos Omilos Konstantinoupoliton
+3651504,UCOL,2021,Group F,2021-11-25,38204,190,0,4,Lincoln Red Imps FC,FC Copenhagen
+3651505,UCOL,2021,Group G,2021-11-25,273,499,3,3,Stade Rennais FC,Vitesse Arnhem
+3651506,UCOL,2021,Group G,2021-11-25,4059,148,2,1,NS Mura,Tottenham Hotspur
+3651507,UCOL,2021,Group H,2021-11-25,10625,829,2,2,Qarabağ FK,Omonia Nicosia
+3651508,UCOL,2021,Group A,2021-11-25,119,413,0,1,Maccabi Tel Aviv,LASK
+3651509,UCOL,2021,Group A,2021-11-25,1008,37914,1,0,HJK Helsinki,Alashkert Yerevan FC
+3651510,UCOL,2021,Group B,2021-11-25,1002,669,1,0,FC Flora Tallinn,FK Partizan Belgrade
+3651511,UCOL,2021,Group B,2021-11-25,3899,157,1,0,Anorthosis Famagusta,KAA Gent
+3651512,UCOL,2021,Group C,2021-11-25,12,10690,4,0,Associazione Sportiva Roma,Zorya Lugansk
+3651513,UCOL,2021,Group C,2021-11-25,501,208,2,0,Fotballklubben Bodø/Glimt,CSKA-Sofia
+3651514,UCOL,2021,Group D,2021-11-25,1322,1090,1,1,FK Jablonec,AZ Alkmaar
+3651515,UCOL,2021,Group D,2021-11-25,5724,7769,2,1,Randers FC,CFR Cluj
+3651270,UCOL,2021,Group E,2021-12-09,234,1064,2,1,Feyenoord Rotterdam,Maccabi Haifa
+3651271,UCOL,2021,Group E,2021-12-09,89,62,1,1,1.FC Union Berlin,SK Slavia Prague
+3651524,UCOL,2021,Group A,2021-12-09,413,1008,3,0,LASK,HJK Helsinki
+3651525,UCOL,2021,Group A,2021-12-09,37914,119,1,1,Alashkert Yerevan FC,Maccabi Tel Aviv
+3651526,UCOL,2021,Group B,2021-12-09,157,1002,1,0,KAA Gent,FC Flora Tallinn
+3651527,UCOL,2021,Group B,2021-12-09,669,3899,1,1,FK Partizan Belgrade,Anorthosis Famagusta
+3651528,UCOL,2021,Group C,2021-12-09,10690,501,1,1,Zorya Lugansk,Fotballklubben Bodø/Glimt
+3651529,UCOL,2021,Group C,2021-12-09,208,12,2,3,CSKA-Sofia,Associazione Sportiva Roma
+3651530,UCOL,2021,Group D,2021-12-09,1090,5724,1,0,AZ Alkmaar,Randers FC
+3651531,UCOL,2021,Group D,2021-12-09,7769,1322,2,0,CFR Cluj,FK Jablonec
+3651532,UCOL,2021,Group F,2021-12-09,190,540,2,0,FC Copenhagen,Slovan Bratislava
+3651533,UCOL,2021,Group F,2021-12-09,1091,38204,2,0,Panthessalonikios Athlitikos Omilos Konstantinoupoliton,Lincoln Red Imps FC
+3651534,UCOL,2021,Group G,2021-12-09,148,273,0,3,Tottenham Hotspur,Stade Rennais FC
+3651535,UCOL,2021,Group G,2021-12-09,499,4059,3,1,Vitesse Arnhem,NS Mura
+3651536,UCOL,2021,Group H,2021-12-09,26,10625,3,0,FC Basel 1893,Qarabağ FK
+3651537,UCOL,2021,Group H,2021-12-09,829,10482,0,0,Omonia Nicosia,Kairat Almaty
+3714106,UCOL,2021,intermediate stage 1st leg,2022-02-17,244,10625,3,1,Olympique Marseille,Qarabağ FK
+3714107,UCOL,2021,intermediate stage 1st leg,2022-02-17,383,119,1,0,PSV Eindhoven,Maccabi Tel Aviv
+3714108,UCOL,2021,intermediate stage 1st leg,2022-02-17,36,62,2,3,Fenerbahce,SK Slavia Prague
+3714110,UCOL,2021,intermediate stage 1st leg,2022-02-17,1003,5724,4,1,Leicester City,Randers FC
+3714111,UCOL,2021,intermediate stage 1st leg,2022-02-17,371,501,1,3,Celtic FC,Fotballklubben Bodø/Glimt
+3714112,UCOL,2021,intermediate stage 1st leg,2022-02-17,197,669,0,1,AC Sparta Prague,FK Partizan Belgrade
+3714116,UCOL,2021,intermediate stage 1st leg,2022-02-17,865,1091,1,0,FC Midtjylland,Panthessalonikios Athlitikos Omilos Konstantinoupoliton
+3717545,UCOL,2021,intermediate stage 1st leg,2022-02-17,170,499,2,1,Rapid Vienna,Vitesse Arnhem
+3714120,UCOL,2021,intermediate stage 2nd leg,2022-02-24,10625,244,0,3,Qarabağ FK,Olympique Marseille
+3714121,UCOL,2021,intermediate stage 2nd leg,2022-02-24,119,383,1,1,Maccabi Tel Aviv,PSV Eindhoven
+3714122,UCOL,2021,intermediate stage 2nd leg,2022-02-24,62,36,3,2,SK Slavia Prague,Fenerbahce
+3714123,UCOL,2021,intermediate stage 2nd leg,2022-02-24,1091,865,7,4,Panthessalonikios Athlitikos Omilos Konstantinoupoliton,FC Midtjylland
+3714124,UCOL,2021,intermediate stage 2nd leg,2022-02-24,5724,1003,1,3,Randers FC,Leicester City
+3714125,UCOL,2021,intermediate stage 2nd leg,2022-02-24,501,371,2,0,Fotballklubben Bodø/Glimt,Celtic FC
+3714126,UCOL,2021,intermediate stage 2nd leg,2022-02-24,669,197,2,1,FK Partizan Belgrade,AC Sparta Prague
+3717546,UCOL,2021,intermediate stage 2nd leg,2022-02-24,499,170,2,0,Vitesse Arnhem,Rapid Vienna
+3757973,UCOL,2021,last 16 1st leg,2022-03-10,244,26,2,1,Olympique Marseille,FC Basel 1893
+3757974,UCOL,2021,last 16 1st leg,2022-03-10,1003,273,2,0,Leicester City,Stade Rennais FC
+3757975,UCOL,2021,last 16 1st leg,2022-03-10,1091,157,1,0,Panthessalonikios Athlitikos Omilos Konstantinoupoliton,KAA Gent
+3757976,UCOL,2021,last 16 1st leg,2022-03-10,499,12,0,1,Vitesse Arnhem,Associazione Sportiva Roma
+3757977,UCOL,2021,last 16 1st leg,2022-03-10,383,190,4,4,PSV Eindhoven,FC Copenhagen
+3757978,UCOL,2021,last 16 1st leg,2022-03-10,62,413,4,1,SK Slavia Prague,LASK
+3757979,UCOL,2021,last 16 1st leg,2022-03-10,501,1090,2,1,Fotballklubben Bodø/Glimt,AZ Alkmaar
+3757980,UCOL,2021,last 16 1st leg,2022-03-10,669,234,2,5,FK Partizan Belgrade,Feyenoord Rotterdam
+3757981,UCOL,2021,last 16 2nd leg,2022-03-17,26,244,1,2,FC Basel 1893,Olympique Marseille
+3757982,UCOL,2021,last 16 2nd leg,2022-03-17,273,1003,2,1,Stade Rennais FC,Leicester City
+3757983,UCOL,2021,last 16 2nd leg,2022-03-17,157,1091,1,2,KAA Gent,Panthessalonikios Athlitikos Omilos Konstantinoupoliton
+3757984,UCOL,2021,last 16 2nd leg,2022-03-17,12,499,1,1,Associazione Sportiva Roma,Vitesse Arnhem
+3757985,UCOL,2021,last 16 2nd leg,2022-03-17,190,383,0,4,FC Copenhagen,PSV Eindhoven
+3757986,UCOL,2021,last 16 2nd leg,2022-03-17,413,62,4,3,LASK,SK Slavia Prague
+3757987,UCOL,2021,last 16 2nd leg,2022-03-17,1090,501,2,2,AZ Alkmaar,Fotballklubben Bodø/Glimt
+3757988,UCOL,2021,last 16 2nd leg,2022-03-17,234,669,3,1,Feyenoord Rotterdam,FK Partizan Belgrade
+3773684,UCOL,2021,Quarter-Finals 1st leg,2022-04-07,234,62,3,3,Feyenoord Rotterdam,SK Slavia Prague
+3773686,UCOL,2021,Quarter-Finals 1st leg,2022-04-07,501,12,2,1,Fotballklubben Bodø/Glimt,Associazione Sportiva Roma
+3773687,UCOL,2021,Quarter-Finals 1st leg,2022-04-07,244,1091,2,1,Olympique Marseille,Panthessalonikios Athlitikos Omilos Konstantinoupoliton
+3773688,UCOL,2021,Quarter-Finals 1st leg,2022-04-07,1003,383,0,0,Leicester City,PSV Eindhoven
+3773685,UCOL,2021,Quarter-Finals 2nd leg,2022-04-14,62,234,1,3,SK Slavia Prague,Feyenoord Rotterdam
+3773689,UCOL,2021,Quarter-Finals 2nd leg,2022-04-14,12,501,4,0,Associazione Sportiva Roma,Fotballklubben Bodø/Glimt
+3773690,UCOL,2021,Quarter-Finals 2nd leg,2022-04-14,1091,244,0,1,Panthessalonikios Athlitikos Omilos Konstantinoupoliton,Olympique Marseille
+3773691,UCOL,2021,Quarter-Finals 2nd leg,2022-04-14,383,1003,1,2,PSV Eindhoven,Leicester City
+3796448,UCOL,2021,Semi-Finals 1st Leg,2022-04-28,1003,12,1,1,Leicester City,Associazione Sportiva Roma
+3796449,UCOL,2021,Semi-Finals 1st Leg,2022-04-28,234,244,3,2,Feyenoord Rotterdam,Olympique Marseille
+3796450,UCOL,2021,Semi-Finals 2nd Leg,2022-05-05,12,1003,1,0,Associazione Sportiva Roma,Leicester City
+3796451,UCOL,2021,Semi-Finals 2nd Leg,2022-05-05,244,234,0,0,Olympique Marseille,Feyenoord Rotterdam
+3813155,UCOL,2021,Final,2022-05-25,12,234,1,0,Associazione Sportiva Roma,Feyenoord Rotterdam
+3912647,UCOL,2022,Group A,2022-09-08,430,33783,1,1,ACF Fiorentina,FC RFS
+3912648,UCOL,2022,Group A,2022-09-08,43,6890,0,4,Heart of Midlothian FC,Basaksehir FK
+3912654,UCOL,2022,Group B,2022-09-08,379,301,3,1,West Ham United,FCSB
+3912662,UCOL,2022,Group B,2022-09-08,58,1177,1,0,RSC Anderlecht,Silkeborg IF
+3912668,UCOL,2022,Group C,2022-09-08,1050,238,4,3,Villarreal CF,Lech Poznan
+3912673,UCOL,2022,Group C,2022-09-08,14,2976,0,0,Austria Vienna,Hapoel Beer Sheva
+3912685,UCOL,2022,Group D,2022-09-08,417,3,1,1,OGC Nice,1.FC Köln
+3912687,UCOL,2022,Group D,2022-09-08,5544,669,3,3,1.FC Slovacko,FK Partizan Belgrade
+3912697,UCOL,2022,Group E,2022-09-08,163,429,0,0,FC Vaduz,Apollon Limassol
+3912699,UCOL,2022,Group E,2022-09-08,60551,1090,0,1,SC Dnipro-1,AZ Alkmaar
+3912704,UCOL,2022,Group F,2022-09-08,687,157,0,0,Molde Fotballklubb,KAA Gent
+3912709,UCOL,2022,Group F,2022-09-08,3258,1044,0,0,Shamrock Rovers,Djurgårdens Idrottsförening
+3912720,UCOL,2022,Group G,2022-09-08,2381,62,1,1,Sivasspor,SK Slavia Prague
+3912725,UCOL,2022,Group G,2022-09-08,28082,7769,1,1,FC Ballkani,CFR Cluj
+3912730,UCOL,2022,Group H,2022-09-08,26,10301,3,1,FC Basel 1893,FC Pyunik Yerevan
+3912732,UCOL,2022,Group H,2022-09-08,540,602,0,0,Slovan Bratislava,FK Zalgiris Vilnius
+3912642,UCOL,2022,Group A,2022-09-15,6890,430,3,0,Basaksehir FK,ACF Fiorentina
+3912652,UCOL,2022,Group A,2022-09-15,33783,43,0,2,FC RFS,Heart of Midlothian FC
+3912658,UCOL,2022,Group B,2022-09-15,301,58,0,0,FCSB,RSC Anderlecht
+3912663,UCOL,2022,Group B,2022-09-15,1177,379,2,3,Silkeborg IF,West Ham United
+3912669,UCOL,2022,Group C,2022-09-15,2976,1050,1,2,Hapoel Beer Sheva,Villarreal CF
+3912677,UCOL,2022,Group C,2022-09-15,238,14,4,1,Lech Poznan,Austria Vienna
+3912679,UCOL,2022,Group D,2022-09-15,669,417,1,1,FK Partizan Belgrade,OGC Nice
+3912683,UCOL,2022,Group D,2022-09-15,3,5544,4,2,1.FC Köln,1.FC Slovacko
+3912691,UCOL,2022,Group E,2022-09-15,1090,163,4,1,AZ Alkmaar,FC Vaduz
+3912695,UCOL,2022,Group E,2022-09-15,429,60551,1,3,Apollon Limassol,SC Dnipro-1
+3912702,UCOL,2022,Group F,2022-09-15,157,3258,3,0,KAA Gent,Shamrock Rovers
+3912712,UCOL,2022,Group F,2022-09-15,1044,687,3,2,Djurgårdens Idrottsförening,Molde Fotballklubb
+3912716,UCOL,2022,Group G,2022-09-15,62,28082,3,2,SK Slavia Prague,FC Ballkani
+3912718,UCOL,2022,Group G,2022-09-15,7769,2381,0,1,CFR Cluj,Sivasspor
+3912734,UCOL,2022,Group H,2022-09-15,602,26,0,1,FK Zalgiris Vilnius,FC Basel 1893
+3912739,UCOL,2022,Group H,2022-09-15,10301,540,2,0,FC Pyunik Yerevan,Slovan Bratislava
+3912649,UCOL,2022,Group A,2022-10-06,43,430,0,3,Heart of Midlothian FC,ACF Fiorentina
+3912651,UCOL,2022,Group A,2022-10-06,33783,6890,0,0,FC RFS,Basaksehir FK
+3912660,UCOL,2022,Group B,2022-10-06,58,379,0,1,RSC Anderlecht,West Ham United
+3912665,UCOL,2022,Group B,2022-10-06,1177,301,5,0,Silkeborg IF,FCSB
+3912667,UCOL,2022,Group C,2022-10-06,1050,14,5,0,Villarreal CF,Austria Vienna
+3912676,UCOL,2022,Group C,2022-10-06,238,2976,0,0,Lech Poznan,Hapoel Beer Sheva
+3912681,UCOL,2022,Group D,2022-10-06,3,669,0,1,1.FC Köln,FK Partizan Belgrade
+3912689,UCOL,2022,Group D,2022-10-06,5544,417,0,1,1.FC Slovacko,OGC Nice
+3912690,UCOL,2022,Group E,2022-10-06,1090,429,3,2,AZ Alkmaar,Apollon Limassol
+3912701,UCOL,2022,Group E,2022-10-06,60551,163,2,2,SC Dnipro-1,FC Vaduz
+3912703,UCOL,2022,Group F,2022-10-06,157,1044,0,1,KAA Gent,Djurgårdens Idrottsförening
+3912705,UCOL,2022,Group F,2022-10-06,687,3258,3,0,Molde Fotballklubb,Shamrock Rovers
+3912714,UCOL,2022,Group G,2022-10-06,62,7769,0,1,SK Slavia Prague,CFR Cluj
+3912722,UCOL,2022,Group G,2022-10-06,2381,28082,3,4,Sivasspor,FC Ballkani
+3912738,UCOL,2022,Group H,2022-10-06,10301,602,2,0,FC Pyunik Yerevan,FK Zalgiris Vilnius
+3912740,UCOL,2022,Group H,2022-10-06,26,540,0,2,FC Basel 1893,Slovan Bratislava
+3912644,UCOL,2022,Group A,2022-10-13,6890,33783,3,0,Basaksehir FK,FC RFS
+3912646,UCOL,2022,Group A,2022-10-13,430,43,5,1,ACF Fiorentina,Heart of Midlothian FC
+3912655,UCOL,2022,Group B,2022-10-13,379,58,2,1,West Ham United,RSC Anderlecht
+3912659,UCOL,2022,Group B,2022-10-13,301,1177,0,5,FCSB,Silkeborg IF
+3912671,UCOL,2022,Group C,2022-10-13,2976,238,1,1,Hapoel Beer Sheva,Lech Poznan
+3912672,UCOL,2022,Group C,2022-10-13,14,1050,0,1,Austria Vienna,Villarreal CF
+3912678,UCOL,2022,Group D,2022-10-13,669,3,2,0,FK Partizan Belgrade,1.FC Köln
+3912686,UCOL,2022,Group D,2022-10-13,417,5544,1,2,OGC Nice,1.FC Slovacko
+3912693,UCOL,2022,Group E,2022-10-13,429,1090,1,0,Apollon Limassol,AZ Alkmaar
+3912698,UCOL,2022,Group E,2022-10-13,163,60551,1,2,FC Vaduz,SC Dnipro-1
+3912708,UCOL,2022,Group F,2022-10-13,3258,687,0,2,Shamrock Rovers,Molde Fotballklubb
+3912710,UCOL,2022,Group F,2022-10-13,1044,157,4,2,Djurgårdens Idrottsförening,KAA Gent
+3912717,UCOL,2022,Group G,2022-10-13,7769,62,2,0,CFR Cluj,SK Slavia Prague
+3912724,UCOL,2022,Group G,2022-10-13,28082,2381,1,2,FC Ballkani,Sivasspor
+3912731,UCOL,2022,Group H,2022-10-13,540,26,3,3,Slovan Bratislava,FC Basel 1893
+3912736,UCOL,2022,Group H,2022-10-13,602,10301,2,1,FK Zalgiris Vilnius,FC Pyunik Yerevan
+3912645,UCOL,2022,Group A,2022-10-27,430,6890,2,1,ACF Fiorentina,Basaksehir FK
+3912650,UCOL,2022,Group A,2022-10-27,43,33783,2,1,Heart of Midlothian FC,FC RFS
+3912656,UCOL,2022,Group B,2022-10-27,379,1177,1,0,West Ham United,Silkeborg IF
+3912661,UCOL,2022,Group B,2022-10-27,58,301,2,2,RSC Anderlecht,FCSB
+3912666,UCOL,2022,Group C,2022-10-27,1050,2976,2,2,Villarreal CF,Hapoel Beer Sheva
+3912674,UCOL,2022,Group C,2022-10-27,14,238,1,1,Austria Vienna,Lech Poznan
+3912684,UCOL,2022,Group D,2022-10-27,417,669,2,1,OGC Nice,FK Partizan Belgrade
+3912688,UCOL,2022,Group D,2022-10-27,5544,3,0,1,1.FC Slovacko,1.FC Köln
+3912696,UCOL,2022,Group E,2022-10-27,163,1090,1,2,FC Vaduz,AZ Alkmaar
+3912700,UCOL,2022,Group E,2022-10-27,60551,429,1,0,SC Dnipro-1,Apollon Limassol
+3912706,UCOL,2022,Group F,2022-10-27,687,1044,2,3,Molde Fotballklubb,Djurgårdens Idrottsförening
+3912707,UCOL,2022,Group F,2022-10-27,3258,157,1,1,Shamrock Rovers,KAA Gent
+3912721,UCOL,2022,Group G,2022-10-27,2381,7769,3,0,Sivasspor,CFR Cluj
+3912723,UCOL,2022,Group G,2022-10-27,28082,62,0,1,FC Ballkani,SK Slavia Prague
+3912729,UCOL,2022,Group H,2022-10-27,26,602,2,2,FC Basel 1893,FK Zalgiris Vilnius
+3912733,UCOL,2022,Group H,2022-10-27,540,10301,2,1,Slovan Bratislava,FC Pyunik Yerevan
+3912643,UCOL,2022,Group A,2022-11-03,6890,43,3,1,Basaksehir FK,Heart of Midlothian FC
+3912653,UCOL,2022,Group A,2022-11-03,33783,430,0,3,FC RFS,ACF Fiorentina
+3912657,UCOL,2022,Group B,2022-11-03,301,379,0,3,FCSB,West Ham United
+3912664,UCOL,2022,Group B,2022-11-03,1177,58,0,2,Silkeborg IF,RSC Anderlecht
+3912670,UCOL,2022,Group C,2022-11-03,2976,14,4,0,Hapoel Beer Sheva,Austria Vienna
+3912675,UCOL,2022,Group C,2022-11-03,238,1050,3,0,Lech Poznan,Villarreal CF
+3912680,UCOL,2022,Group D,2022-11-03,669,5544,1,1,FK Partizan Belgrade,1.FC Slovacko
+3912682,UCOL,2022,Group D,2022-11-03,3,417,2,2,1.FC Köln,OGC Nice
+3912692,UCOL,2022,Group E,2022-11-03,1090,60551,2,1,AZ Alkmaar,SC Dnipro-1
+3912694,UCOL,2022,Group E,2022-11-03,429,163,1,0,Apollon Limassol,FC Vaduz
+3912711,UCOL,2022,Group F,2022-11-03,1044,3258,1,0,Djurgårdens Idrottsförening,Shamrock Rovers
+3912713,UCOL,2022,Group F,2022-11-03,157,687,4,0,KAA Gent,Molde Fotballklubb
+3912715,UCOL,2022,Group G,2022-11-03,62,2381,1,1,SK Slavia Prague,Sivasspor
+3912719,UCOL,2022,Group G,2022-11-03,7769,28082,1,0,CFR Cluj,FC Ballkani
+3912735,UCOL,2022,Group H,2022-11-03,602,540,1,2,FK Zalgiris Vilnius,Slovan Bratislava
+3912737,UCOL,2022,Group H,2022-11-03,10301,26,1,2,FC Pyunik Yerevan,FC Basel 1893
+3956748,UCOL,2022,intermediate stage 1st leg,2023-02-16,2481,669,0,1,FC Sheriff Tiraspol,FK Partizan Belgrade
+3956749,UCOL,2022,intermediate stage 1st leg,2023-02-16,31614,58,1,0,Ludogorets Razgrad,RSC Anderlecht
+3956758,UCOL,2022,intermediate stage 1st leg,2023-02-16,10625,157,1,0,Qarabağ FK,KAA Gent
+3956759,UCOL,2022,intermediate stage 1st leg,2023-02-16,449,26,1,0,Trabzonspor,FC Basel 1893
+3956760,UCOL,2022,intermediate stage 1st leg,2023-02-16,398,7769,1,0,Società Sportiva Lazio S.p.A.,CFR Cluj
+3956761,UCOL,2022,intermediate stage 1st leg,2023-02-16,501,238,0,0,Fotballklubben Bodø/Glimt,Lech Poznan
+3956762,UCOL,2022,intermediate stage 1st leg,2023-02-16,1075,430,0,4,SC Braga,ACF Fiorentina
+3956763,UCOL,2022,intermediate stage 1st leg,2023-02-16,2156,60551,1,0,AEK Larnaca,SC Dnipro-1
+3956750,UCOL,2022,intermediate stage 2nd leg,2023-02-23,157,10625,6,3,KAA Gent,Qarabağ FK
+3956751,UCOL,2022,intermediate stage 2nd leg,2023-02-23,26,449,2,0,FC Basel 1893,Trabzonspor
+3956752,UCOL,2022,intermediate stage 2nd leg,2023-02-23,7769,398,0,0,CFR Cluj,Società Sportiva Lazio S.p.A.
+3956753,UCOL,2022,intermediate stage 2nd leg,2023-02-23,238,501,1,0,Lech Poznan,Fotballklubben Bodø/Glimt
+3956754,UCOL,2022,intermediate stage 2nd leg,2023-02-23,430,1075,3,2,ACF Fiorentina,SC Braga
+3956755,UCOL,2022,intermediate stage 2nd leg,2023-02-23,60551,2156,0,0,SC Dnipro-1,AEK Larnaca
+3956756,UCOL,2022,intermediate stage 2nd leg,2023-02-23,669,2481,1,3,FK Partizan Belgrade,FC Sheriff Tiraspol
+3956757,UCOL,2022,intermediate stage 2nd leg,2023-02-23,58,31614,5,1,RSC Anderlecht,Ludogorets Razgrad
+4031422,UCOL,2022,last 16 1st leg,2023-03-07,398,1090,1,2,Società Sportiva Lazio S.p.A.,AZ Alkmaar
+4031423,UCOL,2022,last 16 1st leg,2023-03-09,238,1044,2,0,Lech Poznan,Djurgårdens Idrottsförening
+4031424,UCOL,2022,last 16 1st leg,2023-03-09,2481,417,0,1,FC Sheriff Tiraspol,OGC Nice
+4031425,UCOL,2022,last 16 1st leg,2023-03-09,157,6890,1,1,KAA Gent,Basaksehir FK
+4031426,UCOL,2022,last 16 1st leg,2023-03-09,430,2381,1,0,ACF Fiorentina,Sivasspor
+4031427,UCOL,2022,last 16 1st leg,2023-03-09,26,540,2,2,FC Basel 1893,Slovan Bratislava
+4031428,UCOL,2022,last 16 1st leg,2023-03-09,58,1050,1,1,RSC Anderlecht,Villarreal CF
+4031429,UCOL,2022,last 16 1st leg,2023-03-09,2156,379,0,2,AEK Larnaca,West Ham United
+4031414,UCOL,2022,last 16 2nd leg,2023-03-15,6890,157,1,4,Basaksehir FK,KAA Gent
+4031415,UCOL,2022,last 16 2nd leg,2023-03-16,1090,398,2,1,AZ Alkmaar,Società Sportiva Lazio S.p.A.
+4031416,UCOL,2022,last 16 2nd leg,2023-03-16,1044,238,0,3,Djurgårdens Idrottsförening,Lech Poznan
+4031417,UCOL,2022,last 16 2nd leg,2023-03-16,417,2481,3,1,OGC Nice,FC Sheriff Tiraspol
+4031418,UCOL,2022,last 16 2nd leg,2023-03-16,2381,430,1,4,Sivasspor,ACF Fiorentina
+4031419,UCOL,2022,last 16 2nd leg,2023-03-16,540,26,3,6,Slovan Bratislava,FC Basel 1893
+4031420,UCOL,2022,last 16 2nd leg,2023-03-16,1050,58,0,1,Villarreal CF,RSC Anderlecht
+4031421,UCOL,2022,last 16 2nd leg,2023-03-16,379,2156,4,0,West Ham United,AEK Larnaca
+4041617,UCOL,2022,Quarter-Finals 1st leg,2023-04-13,238,430,1,4,Lech Poznan,ACF Fiorentina
+4041618,UCOL,2022,Quarter-Finals 1st leg,2023-04-13,157,379,1,1,KAA Gent,West Ham United
+4041619,UCOL,2022,Quarter-Finals 1st leg,2023-04-13,58,1090,2,0,RSC Anderlecht,AZ Alkmaar
+4041620,UCOL,2022,Quarter-Finals 1st leg,2023-04-13,26,417,2,2,FC Basel 1893,OGC Nice
+4041621,UCOL,2022,Quarter-Finals 2nd leg,2023-04-20,379,157,4,1,West Ham United,KAA Gent
+4041623,UCOL,2022,Quarter-Finals 2nd leg,2023-04-20,417,26,1,2,OGC Nice,FC Basel 1893
+4041624,UCOL,2022,Quarter-Finals 2nd leg,2023-04-20,430,238,2,3,ACF Fiorentina,Lech Poznan
+4057566,UCOL,2022,Quarter-Finals 2nd leg,2023-04-20,1090,58,6,1,AZ Alkmaar,RSC Anderlecht
+4061727,UCOL,2022,Semi-Finals 1st Leg,2023-05-11,430,26,1,2,ACF Fiorentina,FC Basel 1893
+4061728,UCOL,2022,Semi-Finals 1st Leg,2023-05-11,379,1090,2,1,West Ham United,AZ Alkmaar
+4061729,UCOL,2022,Semi-Finals 2nd Leg,2023-05-18,26,430,1,3,FC Basel 1893,ACF Fiorentina
+4061730,UCOL,2022,Semi-Finals 2nd Leg,2023-05-18,1090,379,0,1,AZ Alkmaar,West Ham United
+4078395,UCOL,2022,Final,2023-06-07,430,379,1,2,ACF Fiorentina,West Ham United
+4172230,UCOL,2023,Group A,2023-09-20,1082,4772,2,0,LOSC Lille,NK Olimpija Ljubljana
+4172234,UCOL,2023,Group A,2023-09-21,540,6170,2,1,Slovan Bratislava,KÍ Klaksvík
+4172246,UCOL,2023,Group B,2023-09-21,119,3737,3,2,Maccabi Tel Aviv,Breidablik Kópavogur
+4172247,UCOL,2023,Group B,2023-09-21,10690,157,1,1,Zorya Lugansk,KAA Gent
+4172253,UCOL,2023,Group C,2023-09-21,419,22220,5,1,GNK Dinamo Zagreb,FC Astana
+4172257,UCOL,2023,Group C,2023-09-21,941,28082,1,0,FC Viktoria Plzen,FC Ballkani
+4172266,UCOL,2023,Group D,2023-09-21,2282,114,1,1,Club Brugge KV,Beşiktaş Jimnastik Kulübü
+4172275,UCOL,2023,Group D,2023-09-21,2790,501,0,0,FC Lugano,Fotballklubben Bodø/Glimt
+4172285,UCOL,2023,Group E,2023-09-21,255,405,3,2,Legia Warszawa,Aston Villa
+4172287,UCOL,2023,Group E,2023-09-21,6808,1090,4,3,HSK Zrinjski Mostar,AZ Alkmaar
+4172292,UCOL,2023,Group F,2023-09-21,279,6621,3,1,Ferencvárosi TC,FK Cukaricki
+4172297,UCOL,2023,Group F,2023-09-21,1184,430,2,2,KRC Genk,ACF Fiorentina
+4172304,UCOL,2023,Group G,2023-09-21,24,370,2,1,Eintracht Frankfurt,Aberdeen FC
+4172309,UCOL,2023,Group G,2023-09-21,1008,1091,2,3,HJK Helsinki,Panthessalonikios Athlitikos Omilos Konstantinoupoliton
+4172316,UCOL,2023,Group H,2023-09-21,36,2778,3,1,Fenerbahce,FC Nordsjaelland
+4172318,UCOL,2023,Group H,2023-09-21,31614,365,4,0,Ludogorets Razgrad,Spartak Trnava
+4172236,UCOL,2023,Group A,2023-10-05,4772,540,0,1,NK Olimpija Ljubljana,Slovan Bratislava
+4172238,UCOL,2023,Group A,2023-10-05,6170,1082,0,0,KÍ Klaksvík,LOSC Lille
+4172241,UCOL,2023,Group B,2023-10-05,157,119,2,0,KAA Gent,Maccabi Tel Aviv
+4172252,UCOL,2023,Group B,2023-10-05,3737,10690,0,1,Breidablik Kópavogur,Zorya Lugansk
+4172259,UCOL,2023,Group C,2023-10-05,22220,941,1,2,FC Astana,FC Viktoria Plzen
+4172261,UCOL,2023,Group C,2023-10-05,28082,419,2,0,FC Ballkani,GNK Dinamo Zagreb
+4172268,UCOL,2023,Group D,2023-10-05,501,2282,0,1,Fotballklubben Bodø/Glimt,Club Brugge KV
+4172273,UCOL,2023,Group D,2023-10-05,114,2790,2,3,Beşiktaş Jimnastik Kulübü,FC Lugano
+4172279,UCOL,2023,Group E,2023-10-05,1090,255,1,0,AZ Alkmaar,Legia Warszawa
+4172283,UCOL,2023,Group E,2023-10-05,405,6808,1,0,Aston Villa,HSK Zrinjski Mostar
+4172293,UCOL,2023,Group F,2023-10-05,430,279,2,2,ACF Fiorentina,Ferencvárosi TC
+4172301,UCOL,2023,Group F,2023-10-05,6621,1184,0,2,FK Cukaricki,KRC Genk
+4172305,UCOL,2023,Group G,2023-10-05,1091,24,2,1,Panthessalonikios Athlitikos Omilos Konstantinoupoliton,Eintracht Frankfurt
+4172313,UCOL,2023,Group G,2023-10-05,370,1008,1,1,Aberdeen FC,HJK Helsinki
+4172320,UCOL,2023,Group H,2023-10-05,365,36,1,2,Spartak Trnava,Fenerbahce
+4172324,UCOL,2023,Group H,2023-10-05,2778,31614,7,1,FC Nordsjaelland,Ludogorets Razgrad
+4172240,UCOL,2023,Group A,2023-10-26,6170,4772,3,0,KÍ Klaksvík,NK Olimpija Ljubljana
+4172243,UCOL,2023,Group B,2023-10-26,157,3737,5,0,KAA Gent,Breidablik Kópavogur
+4172263,UCOL,2023,Group C,2023-10-26,28082,22220,1,2,FC Ballkani,FC Astana
+4172269,UCOL,2023,Group D,2023-10-26,501,114,3,1,Fotballklubben Bodø/Glimt,Beşiktaş Jimnastik Kulübü
+4172274,UCOL,2023,Group D,2023-10-26,2790,2282,1,3,FC Lugano,Club Brugge KV
+4172277,UCOL,2023,Group C,2023-10-26,419,941,0,1,GNK Dinamo Zagreb,FC Viktoria Plzen
+4172278,UCOL,2023,Group E,2023-10-26,1090,405,1,4,AZ Alkmaar,Aston Villa
+4172289,UCOL,2023,Group E,2023-10-26,6808,255,1,2,HSK Zrinjski Mostar,Legia Warszawa
+4172295,UCOL,2023,Group F,2023-10-26,430,6621,6,0,ACF Fiorentina,FK Cukaricki
+4172296,UCOL,2023,Group F,2023-10-26,1184,279,0,0,KRC Genk,Ferencvárosi TC
+4172303,UCOL,2023,Group G,2023-10-26,24,1008,6,0,Eintracht Frankfurt,HJK Helsinki
+4172312,UCOL,2023,Group G,2023-10-26,370,1091,2,3,Aberdeen FC,Panthessalonikios Athlitikos Omilos Konstantinoupoliton
+4172314,UCOL,2023,Group H,2023-10-26,36,31614,3,1,Fenerbahce,Ludogorets Razgrad
+4172322,UCOL,2023,Group H,2023-10-26,365,2778,0,2,Spartak Trnava,FC Nordsjaelland
+4172924,UCOL,2023,Group A,2023-10-26,1082,540,2,1,LOSC Lille,Slovan Bratislava
+4172232,UCOL,2023,Group A,2023-11-09,540,1082,1,1,Slovan Bratislava,LOSC Lille
+4172237,UCOL,2023,Group A,2023-11-09,4772,6170,2,0,NK Olimpija Ljubljana,KÍ Klaksvík
+4172248,UCOL,2023,Group B,2023-11-09,10690,119,1,3,Zorya Lugansk,Maccabi Tel Aviv
+4172250,UCOL,2023,Group B,2023-11-09,3737,157,2,3,Breidablik Kópavogur,KAA Gent
+4172255,UCOL,2023,Group C,2023-11-09,941,419,1,0,FC Viktoria Plzen,GNK Dinamo Zagreb
+4172260,UCOL,2023,Group C,2023-11-09,22220,28082,0,0,FC Astana,FC Ballkani
+4172267,UCOL,2023,Group D,2023-11-09,2282,2790,2,0,Club Brugge KV,FC Lugano
+4172272,UCOL,2023,Group D,2023-11-09,114,501,1,2,Beşiktaş Jimnastik Kulübü,Fotballklubben Bodø/Glimt
+4172281,UCOL,2023,Group E,2023-11-09,405,1090,2,1,Aston Villa,AZ Alkmaar
+4172286,UCOL,2023,Group E,2023-11-09,255,6808,2,0,Legia Warszawa,HSK Zrinjski Mostar
+4172291,UCOL,2023,Group F,2023-11-09,279,1184,1,1,Ferencvárosi TC,KRC Genk
+4172300,UCOL,2023,Group F,2023-11-09,6621,430,0,1,FK Cukaricki,ACF Fiorentina
+4172307,UCOL,2023,Group G,2023-11-09,1091,370,2,2,Panthessalonikios Athlitikos Omilos Konstantinoupoliton,Aberdeen FC
+4172308,UCOL,2023,Group G,2023-11-09,1008,24,0,1,HJK Helsinki,Eintracht Frankfurt
+4172317,UCOL,2023,Group H,2023-11-09,31614,36,2,0,Ludogorets Razgrad,Fenerbahce
+4172325,UCOL,2023,Group H,2023-11-09,2778,365,1,1,FC Nordsjaelland,Spartak Trnava
+4172245,UCOL,2023,Group B,2023-11-25,119,10690,3,2,Maccabi Tel Aviv,Zorya Lugansk
+4172235,UCOL,2023,Group A,2023-11-30,4772,1082,0,2,NK Olimpija Ljubljana,LOSC Lille
+4172239,UCOL,2023,Group A,2023-11-30,6170,540,1,2,KÍ Klaksvík,Slovan Bratislava
+4172242,UCOL,2023,Group B,2023-11-30,157,10690,4,1,KAA Gent,Zorya Lugansk
+4172251,UCOL,2023,Group B,2023-11-30,3737,119,1,2,Breidablik Kópavogur,Maccabi Tel Aviv
+4172258,UCOL,2023,Group C,2023-11-30,22220,419,0,2,FC Astana,GNK Dinamo Zagreb
+4172262,UCOL,2023,Group C,2023-11-30,28082,941,0,1,FC Ballkani,FC Viktoria Plzen
+4172270,UCOL,2023,Group D,2023-11-30,501,2790,5,2,Fotballklubben Bodø/Glimt,FC Lugano
+4172271,UCOL,2023,Group D,2023-11-30,114,2282,0,5,Beşiktaş Jimnastik Kulübü,Club Brugge KV
+4172280,UCOL,2023,Group E,2023-11-30,1090,6808,1,0,AZ Alkmaar,HSK Zrinjski Mostar
+4172282,UCOL,2023,Group E,2023-11-30,405,255,2,1,Aston Villa,Legia Warszawa
+4172294,UCOL,2023,Group F,2023-11-30,430,1184,2,1,ACF Fiorentina,KRC Genk
+4172299,UCOL,2023,Group F,2023-11-30,6621,279,1,2,FK Cukaricki,Ferencvárosi TC
+4172302,UCOL,2023,Group G,2023-11-30,24,1091,1,2,Eintracht Frankfurt,Panthessalonikios Athlitikos Omilos Konstantinoupoliton
+4172310,UCOL,2023,Group G,2023-11-30,1008,370,2,2,HJK Helsinki,Aberdeen FC
+4172321,UCOL,2023,Group H,2023-11-30,365,31614,1,2,Spartak Trnava,Ludogorets Razgrad
+4172323,UCOL,2023,Group H,2023-11-30,2778,36,6,1,FC Nordsjaelland,Fenerbahce
+4172231,UCOL,2023,Group A,2023-12-14,1082,6170,3,0,LOSC Lille,KÍ Klaksvík
+4172233,UCOL,2023,Group A,2023-12-14,540,4772,1,2,Slovan Bratislava,NK Olimpija Ljubljana
+4172244,UCOL,2023,Group B,2023-12-14,119,157,3,1,Maccabi Tel Aviv,KAA Gent
+4172249,UCOL,2023,Group B,2023-12-14,10690,3737,4,0,Zorya Lugansk,Breidablik Kópavogur
+4172254,UCOL,2023,Group C,2023-12-14,419,28082,3,0,GNK Dinamo Zagreb,FC Ballkani
+4172256,UCOL,2023,Group C,2023-12-14,941,22220,3,0,FC Viktoria Plzen,FC Astana
+4172265,UCOL,2023,Group D,2023-12-14,2282,501,3,1,Club Brugge KV,Fotballklubben Bodø/Glimt
+4172276,UCOL,2023,Group D,2023-12-14,2790,114,0,2,FC Lugano,Beşiktaş Jimnastik Kulübü
+4172284,UCOL,2023,Group E,2023-12-14,255,1090,2,0,Legia Warszawa,AZ Alkmaar
+4172288,UCOL,2023,Group E,2023-12-14,6808,405,1,1,HSK Zrinjski Mostar,Aston Villa
+4172290,UCOL,2023,Group F,2023-12-14,279,430,1,1,Ferencvárosi TC,ACF Fiorentina
+4172298,UCOL,2023,Group F,2023-12-14,1184,6621,2,0,KRC Genk,FK Cukaricki
+4172306,UCOL,2023,Group G,2023-12-14,1091,1008,4,2,Panthessalonikios Athlitikos Omilos Konstantinoupoliton,HJK Helsinki
+4172311,UCOL,2023,Group G,2023-12-14,370,24,2,0,Aberdeen FC,Eintracht Frankfurt
+4172315,UCOL,2023,Group H,2023-12-14,36,365,4,0,Fenerbahce,Spartak Trnava
+4172319,UCOL,2023,Group H,2023-12-14,31614,2778,1,0,Ludogorets Razgrad,FC Nordsjaelland
+4243779,UCOL,2023,intermediate stage 1st leg,2024-02-15,122,540,4,1,Sportklub Puntigamer Sturm Graz,Slovan Bratislava
+4243780,UCOL,2023,intermediate stage 1st leg,2024-02-15,61,31614,0,0,Servette FC,Ludogorets Razgrad
+4243781,UCOL,2023,intermediate stage 1st leg,2024-02-15,3948,24,2,2,Union Saint-Gilloise,Eintracht Frankfurt
+4243782,UCOL,2023,intermediate stage 1st leg,2024-02-15,150,419,0,1,Real Betis Balompié,GNK Dinamo Zagreb
+4243783,UCOL,2023,intermediate stage 1st leg,2024-02-15,683,279,1,0,Olympiakos Syndesmos Filathlon Peiraios,Ferencvárosi TC
+4243784,UCOL,2023,intermediate stage 1st leg,2024-02-15,610,501,2,2,Ajax Amsterdam,Fotballklubben Bodø/Glimt
+4243785,UCOL,2023,intermediate stage 1st leg,2024-02-15,687,255,3,2,Molde Fotballklubb,Legia Warszawa
+4243786,UCOL,2023,intermediate stage 1st leg,2024-02-15,1064,157,1,0,Maccabi Haifa,KAA Gent
+4243794,UCOL,2023,intermediate stage 2nd leg,2024-02-21,157,1064,1,1,KAA Gent,Maccabi Haifa
+4243787,UCOL,2023,intermediate stage 2nd leg,2024-02-22,540,122,0,1,Slovan Bratislava,Sportklub Puntigamer Sturm Graz
+4243788,UCOL,2023,intermediate stage 2nd leg,2024-02-22,31614,61,0,1,Ludogorets Razgrad,Servette FC
+4243789,UCOL,2023,intermediate stage 2nd leg,2024-02-22,24,3948,1,2,Eintracht Frankfurt,Union Saint-Gilloise
+4243790,UCOL,2023,intermediate stage 2nd leg,2024-02-22,419,150,1,1,GNK Dinamo Zagreb,Real Betis Balompié
+4243791,UCOL,2023,intermediate stage 2nd leg,2024-02-22,279,683,0,1,Ferencvárosi TC,Olympiakos Syndesmos Filathlon Peiraios
+4243792,UCOL,2023,intermediate stage 2nd leg,2024-02-22,501,610,1,2,Fotballklubben Bodø/Glimt,Ajax Amsterdam
+4243793,UCOL,2023,intermediate stage 2nd leg,2024-02-22,255,687,0,3,Legia Warszawa,Molde Fotballklubb
+4295561,UCOL,2023,last 16 1st leg,2024-03-07,61,941,0,0,Servette FC,FC Viktoria Plzen
+4295562,UCOL,2023,last 16 1st leg,2024-03-07,610,405,0,0,Ajax Amsterdam,Aston Villa
+4295563,UCOL,2023,last 16 1st leg,2024-03-07,687,2282,2,1,Molde Fotballklubb,Club Brugge KV
+4295564,UCOL,2023,last 16 1st leg,2024-03-07,3948,36,0,3,Union Saint-Gilloise,Fenerbahce
+4295565,UCOL,2023,last 16 1st leg,2024-03-07,419,1091,2,0,GNK Dinamo Zagreb,Panthessalonikios Athlitikos Omilos Konstantinoupoliton
+4295566,UCOL,2023,last 16 1st leg,2024-03-07,122,1082,0,3,Sportklub Puntigamer Sturm Graz,LOSC Lille
+4295567,UCOL,2023,last 16 1st leg,2024-03-07,1064,430,3,4,Maccabi Haifa,ACF Fiorentina
+4295568,UCOL,2023,last 16 1st leg,2024-03-07,683,119,1,4,Olympiakos Syndesmos Filathlon Peiraios,Maccabi Tel Aviv
+4295569,UCOL,2023,last 16 2nd leg,2024-03-14,941,61,3,1,FC Viktoria Plzen,Servette FC
+4295570,UCOL,2023,last 16 2nd leg,2024-03-14,405,610,4,0,Aston Villa,Ajax Amsterdam
+4295571,UCOL,2023,last 16 2nd leg,2024-03-14,2282,687,3,0,Club Brugge KV,Molde Fotballklubb
+4295572,UCOL,2023,last 16 2nd leg,2024-03-14,36,3948,0,1,Fenerbahce,Union Saint-Gilloise
+4295573,UCOL,2023,last 16 2nd leg,2024-03-14,1091,419,5,1,Panthessalonikios Athlitikos Omilos Konstantinoupoliton,GNK Dinamo Zagreb
+4295574,UCOL,2023,last 16 2nd leg,2024-03-14,1082,122,1,1,LOSC Lille,Sportklub Puntigamer Sturm Graz
+4295575,UCOL,2023,last 16 2nd leg,2024-03-14,430,1064,1,1,ACF Fiorentina,Maccabi Haifa
+4295576,UCOL,2023,last 16 2nd leg,2024-03-14,119,683,1,6,Maccabi Tel Aviv,Olympiakos Syndesmos Filathlon Peiraios
+4312072,UCOL,2023,Quarter-Finals 1st leg,2024-04-11,941,430,0,0,FC Viktoria Plzen,ACF Fiorentina
+4312073,UCOL,2023,Quarter-Finals 1st leg,2024-04-11,2282,1091,1,0,Club Brugge KV,Panthessalonikios Athlitikos Omilos Konstantinoupoliton
+4312074,UCOL,2023,Quarter-Finals 1st leg,2024-04-11,683,36,3,2,Olympiakos Syndesmos Filathlon Peiraios,Fenerbahce
+4312075,UCOL,2023,Quarter-Finals 1st leg,2024-04-11,405,1082,2,1,Aston Villa,LOSC Lille
+4312079,UCOL,2023,Quarter-Finals 2nd leg,2024-04-18,1082,405,5,5,LOSC Lille,Aston Villa
+4312080,UCOL,2023,Quarter-Finals 2nd leg,2024-04-18,1091,2282,0,2,Panthessalonikios Athlitikos Omilos Konstantinoupoliton,Club Brugge KV
+4312081,UCOL,2023,Quarter-Finals 2nd leg,2024-04-18,36,683,3,3,Fenerbahce,Olympiakos Syndesmos Filathlon Peiraios
+4312082,UCOL,2023,Quarter-Finals 2nd leg,2024-04-18,430,941,2,0,ACF Fiorentina,FC Viktoria Plzen
+4331991,UCOL,2023,Semi-Finals 1st Leg,2024-05-02,405,683,2,4,Aston Villa,Olympiakos Syndesmos Filathlon Peiraios
+4331992,UCOL,2023,Semi-Finals 1st Leg,2024-05-02,430,2282,3,2,ACF Fiorentina,Club Brugge KV
+4331994,UCOL,2023,Semi-Finals 2nd Leg,2024-05-08,2282,430,1,1,Club Brugge KV,ACF Fiorentina
+4331993,UCOL,2023,Semi-Finals 2nd Leg,2024-05-09,683,405,2,0,Olympiakos Syndesmos Filathlon Peiraios,Aston Villa
+4344180,UCOL,2023,Final,2024-05-29,683,430,1,0,Olympiakos Syndesmos Filathlon Peiraios,ACF Fiorentina
+4445390,UCOL,2024,Group Stage,2024-10-02,6890,170,1,2,Basaksehir FK,Rapid Vienna
+4445539,UCOL,2024,Group Stage,2024-10-02,2420,710,3,1,Vitória Guimarães SC,NK Celje
+4445457,UCOL,2024,Group Stage,2024-10-03,22220,3137,1,0,FC Astana,FK TSC Backa Topola
+4445464,UCOL,2024,Group Stage,2024-10-03,829,5849,4,0,Omonia Nicosia,Víkingur Reykjavík
+4445471,UCOL,2024,Group Stage,2024-10-03,46643,45457,1,4,FC Petrocub Hincesti,Pafos FC
+4445473,UCOL,2024,Group Stage,2024-10-03,60368,5546,2,0,FC Noah Yerevan,FK Mlada Boleslav
+4445524,UCOL,2024,Group Stage,2024-10-03,687,3461,3,0,Molde Fotballklubb,Larne FC
+4445526,UCOL,2024,Group Stage,2024-10-03,1180,43,1,2,Dinamo Minsk,Heart of Midlothian FC
+4445532,UCOL,2024,Group Stage,2024-10-03,2790,1008,3,0,FC Lugano,HJK Helsinki
+4445542,UCOL,2024,Group Stage,2024-10-03,520,257,6,2,Cercle Brugge,FC St. Gallen 1879
+4445546,UCOL,2024,Group Stage,2024-10-03,255,150,1,0,Legia Warszawa,Real Betis Balompié
+4445551,UCOL,2024,Group Stage,2024-10-03,190,2300,1,2,FC Copenhagen,Jagiellonia Bialystok
+4445559,UCOL,2024,Group Stage,2024-10-03,2036,4772,2,1,1. Fußballclub Heidenheim 1846,NK Olimpija Ljubljana
+4445561,UCOL,2024,Group Stage,2024-10-03,631,157,4,2,Chelsea FC,KAA Gent
+4445564,UCOL,2024,Group Stage,2024-10-03,413,1044,2,2,LASK,Djurgårdens Idrottsförening
+4445587,UCOL,2024,Group Stage,2024-10-03,3258,2784,1,1,Shamrock Rovers,APOEL Nicosia
+4445697,UCOL,2024,Group Stage,2024-10-03,430,10734,2,0,ACF Fiorentina,The New Saints
+4445701,UCOL,2024,Group Stage,2024-10-03,3900,265,1,1,FK Borac Banja Luka,Panathinaikos Athlitikos Omilos
+4445392,UCOL,2024,Group Stage,2024-10-24,157,687,2,1,KAA Gent,Molde Fotballklubb
+4445468,UCOL,2024,Group Stage,2024-10-24,1008,1180,1,0,HJK Helsinki,Dinamo Minsk
+4445476,UCOL,2024,Group Stage,2024-10-24,5546,2790,0,1,FK Mlada Boleslav,FC Lugano
+4445478,UCOL,2024,Group Stage,2024-10-24,45457,2036,0,1,Pafos FC,1. Fußballclub Heidenheim 1846
+4445485,UCOL,2024,Group Stage,2024-10-24,10734,22220,2,0,The New Saints,FC Astana
+4445492,UCOL,2024,Group Stage,2024-10-24,4772,413,2,0,NK Olimpija Ljubljana,LASK
+4445495,UCOL,2024,Group Stage,2024-10-24,257,430,2,4,FC St. Gallen 1879,ACF Fiorentina
+4445521,UCOL,2024,Group Stage,2024-10-24,2784,3900,0,1,APOEL Nicosia,FK Borac Banja Luka
+4445530,UCOL,2024,Group Stage,2024-10-24,2300,46643,2,0,Jagiellonia Bialystok,FC Petrocub Hincesti
+4445535,UCOL,2024,Group Stage,2024-10-24,5849,520,3,1,Víkingur Reykjavík,Cercle Brugge
+4445543,UCOL,2024,Group Stage,2024-10-24,265,631,1,4,Panathinaikos Athlitikos Omilos,Chelsea FC
+4445552,UCOL,2024,Group Stage,2024-10-24,710,6890,5,1,NK Celje,Basaksehir FK
+4445556,UCOL,2024,Group Stage,2024-10-24,1044,2420,1,2,Djurgårdens Idrottsförening,Vitória Guimarães SC
+4445590,UCOL,2024,Group Stage,2024-10-24,150,190,1,1,Real Betis Balompié,FC Copenhagen
+4445593,UCOL,2024,Group Stage,2024-10-24,3137,255,0,3,FK TSC Backa Topola,Legia Warszawa
+4445597,UCOL,2024,Group Stage,2024-10-24,3461,3258,1,4,Larne FC,Shamrock Rovers
+4445600,UCOL,2024,Group Stage,2024-10-24,43,829,2,0,Heart of Midlothian FC,Omonia Nicosia
+4445604,UCOL,2024,Group Stage,2024-10-24,170,60368,1,0,Rapid Vienna,FC Noah Yerevan
+4445393,UCOL,2024,Group Stage,2024-11-07,157,829,1,0,KAA Gent,Omonia Nicosia
+4445467,UCOL,2024,Group Stage,2024-11-07,1008,4772,0,2,HJK Helsinki,NK Olimpija Ljubljana
+4445470,UCOL,2024,Group Stage,2024-11-07,46643,170,0,3,FC Petrocub Hincesti,Rapid Vienna
+4445479,UCOL,2024,Group Stage,2024-11-07,45457,22220,1,0,Pafos FC,FC Astana
+4445519,UCOL,2024,Group Stage,2024-11-07,2784,430,2,1,APOEL Nicosia,ACF Fiorentina
+4445528,UCOL,2024,Group Stage,2024-11-07,2300,687,3,0,Jagiellonia Bialystok,Molde Fotballklubb
+4445536,UCOL,2024,Group Stage,2024-11-07,5849,3900,2,0,Víkingur Reykjavík,FK Borac Banja Luka
+4445538,UCOL,2024,Group Stage,2024-11-07,2420,5546,2,1,Vitória Guimarães SC,FK Mlada Boleslav
+4445548,UCOL,2024,Group Stage,2024-11-07,255,1180,4,0,Legia Warszawa,Dinamo Minsk
+4445549,UCOL,2024,Group Stage,2024-11-07,190,6890,2,2,FC Copenhagen,Basaksehir FK
+4445557,UCOL,2024,Group Stage,2024-11-07,1044,265,2,1,Djurgårdens Idrottsförening,Panathinaikos Athlitikos Omilos
+4445563,UCOL,2024,Group Stage,2024-11-07,631,60368,8,0,Chelsea FC,FC Noah Yerevan
+4445565,UCOL,2024,Group Stage,2024-11-07,413,520,0,0,LASK,Cercle Brugge
+4445588,UCOL,2024,Group Stage,2024-11-07,3258,10734,2,1,Shamrock Rovers,The New Saints
+4445592,UCOL,2024,Group Stage,2024-11-07,150,710,2,1,Real Betis Balompié,NK Celje
+4445594,UCOL,2024,Group Stage,2024-11-07,3137,2790,4,1,FK TSC Backa Topola,FC Lugano
+4445598,UCOL,2024,Group Stage,2024-11-07,3461,257,1,2,Larne FC,FC St. Gallen 1879
+4445599,UCOL,2024,Group Stage,2024-11-07,43,2036,0,2,Heart of Midlothian FC,1. Fußballclub Heidenheim 1846
+4445391,UCOL,2024,Group Stage,2024-11-27,6890,46643,1,1,Basaksehir FK,FC Petrocub Hincesti
+4445456,UCOL,2024,Group Stage,2024-11-28,22220,2420,1,1,FC Astana,Vitória Guimarães SC
+4445462,UCOL,2024,Group Stage,2024-11-28,829,255,0,3,Omonia Nicosia,Legia Warszawa
+4445474,UCOL,2024,Group Stage,2024-11-28,60368,5849,0,0,FC Noah Yerevan,Víkingur Reykjavík
+4445475,UCOL,2024,Group Stage,2024-11-28,5546,150,2,1,FK Mlada Boleslav,Real Betis Balompié
+4445484,UCOL,2024,Group Stage,2024-11-28,10734,1044,0,1,The New Saints,Djurgårdens Idrottsförening
+4445494,UCOL,2024,Group Stage,2024-11-28,4772,3461,1,0,NK Olimpija Ljubljana,Larne FC
+4445497,UCOL,2024,Group Stage,2024-11-28,257,3137,2,2,FC St. Gallen 1879,FK TSC Backa Topola
+4445522,UCOL,2024,Group Stage,2024-11-28,687,2784,0,1,Molde Fotballklubb,APOEL Nicosia
+4445525,UCOL,2024,Group Stage,2024-11-28,1180,190,1,2,Dinamo Minsk,FC Copenhagen
+4445531,UCOL,2024,Group Stage,2024-11-28,2790,157,2,0,FC Lugano,KAA Gent
+4445541,UCOL,2024,Group Stage,2024-11-28,520,43,2,0,Cercle Brugge,Heart of Midlothian FC
+4445544,UCOL,2024,Group Stage,2024-11-28,265,1008,1,0,Panathinaikos Athlitikos Omilos,HJK Helsinki
+4445554,UCOL,2024,Group Stage,2024-11-28,710,2300,3,3,NK Celje,Jagiellonia Bialystok
+4445558,UCOL,2024,Group Stage,2024-11-28,2036,631,0,2,1. Fußballclub Heidenheim 1846,Chelsea FC
+4445603,UCOL,2024,Group Stage,2024-11-28,170,3258,1,1,Rapid Vienna,Shamrock Rovers
+4445698,UCOL,2024,Group Stage,2024-11-28,430,45457,3,2,ACF Fiorentina,Pafos FC
+4445699,UCOL,2024,Group Stage,2024-11-28,3900,413,2,1,FK Borac Banja Luka,LASK
+4445389,UCOL,2024,Group Stage,2024-12-12,6890,2036,3,1,Basaksehir FK,1. Fußballclub Heidenheim 1846
+4445394,UCOL,2024,Group Stage,2024-12-12,157,3137,3,0,KAA Gent,FK TSC Backa Topola
+4445455,UCOL,2024,Group Stage,2024-12-12,22220,631,1,3,FC Astana,Chelsea FC
+4445463,UCOL,2024,Group Stage,2024-12-12,829,170,3,1,Omonia Nicosia,Rapid Vienna
+4445466,UCOL,2024,Group Stage,2024-12-12,1008,687,2,2,HJK Helsinki,Molde Fotballklubb
+4445469,UCOL,2024,Group Stage,2024-12-12,46643,150,0,1,FC Petrocub Hincesti,Real Betis Balompié
+4445472,UCOL,2024,Group Stage,2024-12-12,60368,2784,1,3,FC Noah Yerevan,APOEL Nicosia
+4445477,UCOL,2024,Group Stage,2024-12-12,5546,2300,1,0,FK Mlada Boleslav,Jagiellonia Bialystok
+4445480,UCOL,2024,Group Stage,2024-12-12,45457,710,2,0,Pafos FC,NK Celje
+4445486,UCOL,2024,Group Stage,2024-12-12,10734,265,0,2,The New Saints,Panathinaikos Athlitikos Omilos
+4445493,UCOL,2024,Group Stage,2024-12-12,4772,520,1,4,NK Olimpija Ljubljana,Cercle Brugge
+4445496,UCOL,2024,Group Stage,2024-12-12,257,2420,1,4,FC St. Gallen 1879,Vitória Guimarães SC
+4445527,UCOL,2024,Group Stage,2024-12-12,1180,3461,2,0,Dinamo Minsk,Larne FC
+4445534,UCOL,2024,Group Stage,2024-12-12,5849,1044,1,2,Víkingur Reykjavík,Djurgårdens Idrottsförening
+4445547,UCOL,2024,Group Stage,2024-12-12,255,2790,1,2,Legia Warszawa,FC Lugano
+4445550,UCOL,2024,Group Stage,2024-12-12,190,43,2,0,FC Copenhagen,Heart of Midlothian FC
+4445589,UCOL,2024,Group Stage,2024-12-12,3258,3900,3,0,Shamrock Rovers,FK Borac Banja Luka
+4445696,UCOL,2024,Group Stage,2024-12-12,430,413,7,0,ACF Fiorentina,LASK
+4445520,UCOL,2024,Group Stage,2024-12-19,2784,22220,1,1,APOEL Nicosia,FC Astana
+4445523,UCOL,2024,Group Stage,2024-12-19,687,5546,4,3,Molde Fotballklubb,FK Mlada Boleslav
+4445529,UCOL,2024,Group Stage,2024-12-19,2300,4772,0,0,Jagiellonia Bialystok,NK Olimpija Ljubljana
+4445533,UCOL,2024,Group Stage,2024-12-19,2790,45457,2,2,FC Lugano,Pafos FC
+4445537,UCOL,2024,Group Stage,2024-12-19,2420,430,1,1,Vitória Guimarães SC,ACF Fiorentina
+4445540,UCOL,2024,Group Stage,2024-12-19,520,6890,1,1,Cercle Brugge,Basaksehir FK
+4445545,UCOL,2024,Group Stage,2024-12-19,265,1180,4,0,Panathinaikos Athlitikos Omilos,Dinamo Minsk
+4445553,UCOL,2024,Group Stage,2024-12-19,710,10734,3,2,NK Celje,The New Saints
+4445555,UCOL,2024,Group Stage,2024-12-19,1044,255,3,1,Djurgårdens Idrottsförening,Legia Warszawa
+4445560,UCOL,2024,Group Stage,2024-12-19,2036,257,1,1,1. Fußballclub Heidenheim 1846,FC St. Gallen 1879
+4445562,UCOL,2024,Group Stage,2024-12-19,631,3258,5,1,Chelsea FC,Shamrock Rovers
+4445566,UCOL,2024,Group Stage,2024-12-19,413,5849,1,1,LASK,Víkingur Reykjavík
+4445591,UCOL,2024,Group Stage,2024-12-19,150,1008,1,0,Real Betis Balompié,HJK Helsinki
+4445595,UCOL,2024,Group Stage,2024-12-19,3137,60368,4,3,FK TSC Backa Topola,FC Noah Yerevan
+4445596,UCOL,2024,Group Stage,2024-12-19,3461,157,1,0,Larne FC,KAA Gent
+4445601,UCOL,2024,Group Stage,2024-12-19,43,46643,2,2,Heart of Midlothian FC,FC Petrocub Hincesti
+4445602,UCOL,2024,Group Stage,2024-12-19,170,190,3,0,Rapid Vienna,FC Copenhagen
+4445700,UCOL,2024,Group Stage,2024-12-19,3900,829,0,0,FK Borac Banja Luka,Omonia Nicosia
+4513754,UCOL,2024,intermediate stage 1st leg,2025-02-13,3137,2300,1,3,FK TSC Backa Topola,Jagiellonia Bialystok
+4513755,UCOL,2024,intermediate stage 1st leg,2025-02-13,710,2784,2,2,NK Celje,APOEL Nicosia
+4513756,UCOL,2024,intermediate stage 1st leg,2025-02-13,5849,265,2,1,Víkingur Reykjavík,Panathinaikos Athlitikos Omilos
+4513757,UCOL,2024,intermediate stage 1st leg,2025-02-13,157,150,0,3,KAA Gent,Real Betis Balompié
+4513758,UCOL,2024,intermediate stage 1st leg,2025-02-13,687,3258,0,1,Molde Fotballklubb,Shamrock Rovers
+4513759,UCOL,2024,intermediate stage 1st leg,2025-02-13,829,45457,1,1,Omonia Nicosia,Pafos FC
+4513760,UCOL,2024,intermediate stage 1st leg,2025-02-13,3900,4772,1,0,FK Borac Banja Luka,NK Olimpija Ljubljana
+4513761,UCOL,2024,intermediate stage 1st leg,2025-02-13,190,2036,1,2,FC Copenhagen,1. Fußballclub Heidenheim 1846
+4513762,UCOL,2024,intermediate stage 2nd leg,2025-02-20,2300,3137,3,1,Jagiellonia Bialystok,FK TSC Backa Topola
+4513763,UCOL,2024,intermediate stage 2nd leg,2025-02-20,2784,710,0,2,APOEL Nicosia,NK Celje
+4513764,UCOL,2024,intermediate stage 2nd leg,2025-02-20,265,5849,2,0,Panathinaikos Athlitikos Omilos,Víkingur Reykjavík
+4513765,UCOL,2024,intermediate stage 2nd leg,2025-02-20,150,157,0,1,Real Betis Balompié,KAA Gent
+4513766,UCOL,2024,intermediate stage 2nd leg,2025-02-20,3258,687,4,6,Shamrock Rovers,Molde Fotballklubb
+4513767,UCOL,2024,intermediate stage 2nd leg,2025-02-20,45457,829,2,1,Pafos FC,Omonia Nicosia
+4513768,UCOL,2024,intermediate stage 2nd leg,2025-02-20,4772,3900,0,0,NK Olimpija Ljubljana,FK Borac Banja Luka
+4513769,UCOL,2024,intermediate stage 2nd leg,2025-02-20,2036,190,1,3,1. Fußballclub Heidenheim 1846,FC Copenhagen
+4513806,UCOL,2024,last 16 1st leg,2025-03-06,150,2420,2,2,Real Betis Balompié,Vitória Guimarães SC
+4513807,UCOL,2024,last 16 1st leg,2025-03-06,2300,520,3,0,Jagiellonia Bialystok,Cercle Brugge
+4513808,UCOL,2024,last 16 1st leg,2025-03-06,710,2790,1,0,NK Celje,FC Lugano
+4513809,UCOL,2024,last 16 1st leg,2025-03-06,265,430,3,2,Panathinaikos Athlitikos Omilos,ACF Fiorentina
+4513810,UCOL,2024,last 16 1st leg,2025-03-06,190,631,1,2,FC Copenhagen,Chelsea FC
+4513811,UCOL,2024,last 16 1st leg,2025-03-06,687,255,3,2,Molde Fotballklubb,Legia Warszawa
+4513812,UCOL,2024,last 16 1st leg,2025-03-06,45457,1044,1,0,Pafos FC,Djurgårdens Idrottsförening
+4513813,UCOL,2024,last 16 1st leg,2025-03-06,3900,170,1,1,FK Borac Banja Luka,Rapid Vienna
+4513814,UCOL,2024,last 16 2nd leg,2025-03-13,2420,150,0,4,Vitória Guimarães SC,Real Betis Balompié
+4513815,UCOL,2024,last 16 2nd leg,2025-03-13,520,2300,2,0,Cercle Brugge,Jagiellonia Bialystok
+4513816,UCOL,2024,last 16 2nd leg,2025-03-13,2790,710,6,7,FC Lugano,NK Celje
+4513817,UCOL,2024,last 16 2nd leg,2025-03-13,430,265,3,1,ACF Fiorentina,Panathinaikos Athlitikos Omilos
+4513818,UCOL,2024,last 16 2nd leg,2025-03-13,631,190,1,0,Chelsea FC,FC Copenhagen
+4513819,UCOL,2024,last 16 2nd leg,2025-03-13,255,687,2,0,Legia Warszawa,Molde Fotballklubb
+4513820,UCOL,2024,last 16 2nd leg,2025-03-13,1044,45457,3,0,Djurgårdens Idrottsförening,Pafos FC
+4513821,UCOL,2024,last 16 2nd leg,2025-03-13,170,3900,2,1,Rapid Vienna,FK Borac Banja Luka
+4547818,UCOL,2024,Quarter-Finals 1st leg,2025-04-10,150,2300,2,0,Real Betis Balompié,Jagiellonia Bialystok
+4547819,UCOL,2024,Quarter-Finals 1st leg,2025-04-10,710,430,1,2,NK Celje,ACF Fiorentina
+4547820,UCOL,2024,Quarter-Finals 1st leg,2025-04-10,255,631,0,3,Legia Warszawa,Chelsea FC
+4547821,UCOL,2024,Quarter-Finals 1st leg,2025-04-10,1044,170,0,1,Djurgårdens Idrottsförening,Rapid Vienna
+4547822,UCOL,2024,Quarter-Finals 2nd leg,2025-04-17,2300,150,1,1,Jagiellonia Bialystok,Real Betis Balompié
+4547823,UCOL,2024,Quarter-Finals 2nd leg,2025-04-17,430,710,2,2,ACF Fiorentina,NK Celje
+4547824,UCOL,2024,Quarter-Finals 2nd leg,2025-04-17,631,255,1,2,Chelsea FC,Legia Warszawa
+4547825,UCOL,2024,Quarter-Finals 2nd leg,2025-04-17,170,1044,1,4,Rapid Vienna,Djurgårdens Idrottsförening
+4547827,UCOL,2024,Semi-Finals 1st Leg,2025-05-01,150,430,2,1,Real Betis Balompié,ACF Fiorentina
+4604197,UCOL,2024,Semi-Finals 1st Leg,2025-05-01,1044,631,1,4,Djurgårdens Idrottsförening,Chelsea FC
+4547829,UCOL,2024,Semi-Finals 2nd Leg,2025-05-08,430,150,2,2,ACF Fiorentina,Real Betis Balompié
+4604198,UCOL,2024,Semi-Finals 2nd Leg,2025-05-08,631,1044,1,0,Chelsea FC,Djurgårdens Idrottsförening
+4547831,UCOL,2024,Final,2025-05-28,150,631,1,4,Real Betis Balompié,Chelsea FC

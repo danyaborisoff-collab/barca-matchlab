@@ -1,0 +1,1297 @@
+game_id,competition_id,season,round,date,home_club_id,away_club_id,home_club_goals,away_club_goals,home_club_name,away_club_name
+2262147,CL,2012,Group A,2012-09-18,419,720,0,2,GNK Dinamo Zagreb,FC Porto
+2262148,CL,2012,Group A,2012-09-18,583,338,4,1,Paris Saint-Germain,Dynamo Kyiv
+2262149,CL,2012,Group B,2012-09-18,969,11,1,2,Montpellier HSC,Arsenal FC
+2262150,CL,2012,Group B,2012-09-18,683,33,1,2,Olympiakos Syndesmos Filathlon Peiraios,FC Schalke 04
+2262151,CL,2012,Group C,2012-09-18,1084,964,3,0,Málaga CF,AO FK Zenit Sankt-Peterburg
+2262152,CL,2012,Group C,2012-09-18,5,58,0,0,AC Milan,RSC Anderlecht
+2262153,CL,2012,Group D,2012-09-18,418,281,3,2,Real Madrid,Manchester City
+2262154,CL,2012,Group D,2012-09-18,16,610,1,0,Borussia Dortmund,Ajax Amsterdam
+2262155,CL,2012,Group E,2012-09-19,631,506,2,2,Chelsea FC,Juventus FC
+2262156,CL,2012,Group E,2012-09-19,660,2778,2,0,FC Shakhtar Donetsk,FC Nordsjaelland
+2262157,CL,2012,Group F,2012-09-19,27,1049,2,1,Bayern Munich,Valencia CF
+2262158,CL,2012,Group F,2012-09-19,1082,713,1,3,LOSC Lille,BATE Borisov
+2262159,CL,2012,Group G,2012-09-19,371,294,0,0,Celtic FC,SL Benfica
+2262160,CL,2012,Group G,2012-09-19,131,232,3,2,FC Barcelona,FK Spartak Moskva
+2262161,CL,2012,Group H,2012-09-19,985,141,1,0,Manchester United,Galatasaray
+2262162,CL,2012,Group H,2012-09-19,1075,7769,0,2,SC Braga,CFR Cluj
+2262163,CL,2012,Group G,2012-10-02,232,371,2,3,FK Spartak Moskva,Celtic FC
+2262164,CL,2012,Group E,2012-10-02,2778,631,0,4,FC Nordsjaelland,Chelsea FC
+2262165,CL,2012,Group E,2012-10-02,506,660,1,1,Juventus FC,FC Shakhtar Donetsk
+2262166,CL,2012,Group F,2012-10-02,713,27,3,1,BATE Borisov,Bayern Munich
+2262167,CL,2012,Group F,2012-10-02,1049,1082,2,0,Valencia CF,LOSC Lille
+2262168,CL,2012,Group G,2012-10-02,294,131,0,2,SL Benfica,FC Barcelona
+2262169,CL,2012,Group H,2012-10-02,7769,985,1,2,CFR Cluj,Manchester United
+2262170,CL,2012,Group H,2012-10-02,141,1075,0,2,Galatasaray,SC Braga
+2262171,CL,2012,Group C,2012-10-03,964,5,2,3,AO FK Zenit Sankt-Peterburg,AC Milan
+2262172,CL,2012,Group A,2012-10-03,720,583,1,0,FC Porto,Paris Saint-Germain
+2262173,CL,2012,Group A,2012-10-03,338,419,2,0,Dynamo Kyiv,GNK Dinamo Zagreb
+2262174,CL,2012,Group B,2012-10-03,11,683,3,1,Arsenal FC,Olympiakos Syndesmos Filathlon Peiraios
+2262175,CL,2012,Group B,2012-10-03,33,969,2,2,FC Schalke 04,Montpellier HSC
+2262176,CL,2012,Group C,2012-10-03,58,1084,0,3,RSC Anderlecht,Málaga CF
+2262177,CL,2012,Group D,2012-10-03,610,418,1,4,Ajax Amsterdam,Real Madrid
+2262178,CL,2012,Group D,2012-10-03,281,16,1,1,Manchester City,Borussia Dortmund
+2262179,CL,2012,Group G,2012-10-23,232,294,2,1,FK Spartak Moskva,SL Benfica
+2262180,CL,2012,Group E,2012-10-23,2778,506,1,1,FC Nordsjaelland,Juventus FC
+2262181,CL,2012,Group E,2012-10-23,660,631,2,1,FC Shakhtar Donetsk,Chelsea FC
+2262182,CL,2012,Group F,2012-10-23,1082,27,0,1,LOSC Lille,Bayern Munich
+2262183,CL,2012,Group F,2012-10-23,713,1049,0,3,BATE Borisov,Valencia CF
+2262184,CL,2012,Group G,2012-10-23,131,371,2,1,FC Barcelona,Celtic FC
+2262185,CL,2012,Group H,2012-10-23,985,1075,3,2,Manchester United,SC Braga
+2262186,CL,2012,Group H,2012-10-23,141,7769,1,1,Galatasaray,CFR Cluj
+2262187,CL,2012,Group A,2012-10-24,720,338,3,2,FC Porto,Dynamo Kyiv
+2262188,CL,2012,Group A,2012-10-24,419,583,0,2,GNK Dinamo Zagreb,Paris Saint-Germain
+2262189,CL,2012,Group B,2012-10-24,11,33,0,2,Arsenal FC,FC Schalke 04
+2262190,CL,2012,Group B,2012-10-24,969,683,1,2,Montpellier HSC,Olympiakos Syndesmos Filathlon Peiraios
+2262191,CL,2012,Group C,2012-10-24,1084,5,1,0,Málaga CF,AC Milan
+2262192,CL,2012,Group C,2012-10-24,964,58,1,0,AO FK Zenit Sankt-Peterburg,RSC Anderlecht
+2262193,CL,2012,Group D,2012-10-24,16,418,2,1,Borussia Dortmund,Real Madrid
+2262194,CL,2012,Group D,2012-10-24,610,281,3,1,Ajax Amsterdam,Manchester City
+2262195,CL,2012,Group A,2012-11-06,338,720,0,0,Dynamo Kyiv,FC Porto
+2262196,CL,2012,Group A,2012-11-06,583,419,4,0,Paris Saint-Germain,GNK Dinamo Zagreb
+2262197,CL,2012,Group B,2012-11-06,33,11,2,2,FC Schalke 04,Arsenal FC
+2262198,CL,2012,Group B,2012-11-06,683,969,3,1,Olympiakos Syndesmos Filathlon Peiraios,Montpellier HSC
+2262199,CL,2012,Group C,2012-11-06,58,964,1,0,RSC Anderlecht,AO FK Zenit Sankt-Peterburg
+2262200,CL,2012,Group C,2012-11-06,5,1084,1,1,AC Milan,Málaga CF
+2262201,CL,2012,Group D,2012-11-06,281,610,2,2,Manchester City,Ajax Amsterdam
+2262202,CL,2012,Group D,2012-11-06,418,16,2,2,Real Madrid,Borussia Dortmund
+2262203,CL,2012,Group E,2012-11-07,631,660,3,2,Chelsea FC,FC Shakhtar Donetsk
+2262204,CL,2012,Group E,2012-11-07,506,2778,4,0,Juventus FC,FC Nordsjaelland
+2262205,CL,2012,Group F,2012-11-07,27,1082,6,1,Bayern Munich,LOSC Lille
+2262207,CL,2012,Group G,2012-11-07,371,131,2,1,Celtic FC,FC Barcelona
+2262208,CL,2012,Group G,2012-11-07,294,232,2,0,SL Benfica,FK Spartak Moskva
+2262209,CL,2012,Group H,2012-11-07,1075,985,1,3,SC Braga,Manchester United
+2262210,CL,2012,Group H,2012-11-07,7769,141,1,3,CFR Cluj,Galatasaray
+2262243,CL,2012,Group F,2012-11-07,1049,713,4,2,Valencia CF,BATE Borisov
+2262211,CL,2012,Group G,2012-11-20,232,131,0,3,FK Spartak Moskva,FC Barcelona
+2262212,CL,2012,Group E,2012-11-20,506,631,3,0,Juventus FC,Chelsea FC
+2262213,CL,2012,Group E,2012-11-20,2778,660,2,5,FC Nordsjaelland,FC Shakhtar Donetsk
+2262214,CL,2012,Group F,2012-11-20,1049,27,1,1,Valencia CF,Bayern Munich
+2262215,CL,2012,Group F,2012-11-20,713,1082,0,2,BATE Borisov,LOSC Lille
+2262216,CL,2012,Group G,2012-11-20,294,371,2,1,SL Benfica,Celtic FC
+2262217,CL,2012,Group H,2012-11-20,141,985,1,0,Galatasaray,Manchester United
+2262218,CL,2012,Group H,2012-11-20,7769,1075,3,1,CFR Cluj,SC Braga
+2262219,CL,2012,Group C,2012-11-21,964,1084,2,2,AO FK Zenit Sankt-Peterburg,Málaga CF
+2262220,CL,2012,Group A,2012-11-21,338,583,0,2,Dynamo Kyiv,Paris Saint-Germain
+2262221,CL,2012,Group A,2012-11-21,720,419,3,0,FC Porto,GNK Dinamo Zagreb
+2262222,CL,2012,Group B,2012-11-21,33,683,1,0,FC Schalke 04,Olympiakos Syndesmos Filathlon Peiraios
+2262223,CL,2012,Group B,2012-11-21,11,969,2,0,Arsenal FC,Montpellier HSC
+2262224,CL,2012,Group C,2012-11-21,58,5,1,3,RSC Anderlecht,AC Milan
+2262225,CL,2012,Group D,2012-11-21,281,418,1,1,Manchester City,Real Madrid
+2262226,CL,2012,Group D,2012-11-21,610,16,1,4,Ajax Amsterdam,Borussia Dortmund
+2262227,CL,2012,Group A,2012-12-04,583,720,2,1,Paris Saint-Germain,FC Porto
+2262228,CL,2012,Group A,2012-12-04,419,338,1,1,GNK Dinamo Zagreb,Dynamo Kyiv
+2262229,CL,2012,Group B,2012-12-04,683,11,2,1,Olympiakos Syndesmos Filathlon Peiraios,Arsenal FC
+2262230,CL,2012,Group B,2012-12-04,969,33,1,1,Montpellier HSC,FC Schalke 04
+2262231,CL,2012,Group C,2012-12-04,5,964,0,1,AC Milan,AO FK Zenit Sankt-Peterburg
+2262232,CL,2012,Group C,2012-12-04,1084,58,2,2,Málaga CF,RSC Anderlecht
+2262233,CL,2012,Group D,2012-12-04,16,281,1,0,Borussia Dortmund,Manchester City
+2262234,CL,2012,Group D,2012-12-04,418,610,4,1,Real Madrid,Ajax Amsterdam
+2262235,CL,2012,Group E,2012-12-05,631,2778,6,1,Chelsea FC,FC Nordsjaelland
+2262236,CL,2012,Group E,2012-12-05,660,506,0,1,FC Shakhtar Donetsk,Juventus FC
+2262237,CL,2012,Group F,2012-12-05,1082,1049,0,1,LOSC Lille,Valencia CF
+2262238,CL,2012,Group F,2012-12-05,27,713,4,1,Bayern Munich,BATE Borisov
+2262239,CL,2012,Group G,2012-12-05,131,294,0,0,FC Barcelona,SL Benfica
+2262240,CL,2012,Group G,2012-12-05,371,232,2,1,Celtic FC,FK Spartak Moskva
+2262241,CL,2012,Group H,2012-12-05,1075,141,1,2,SC Braga,Galatasaray
+2262242,CL,2012,Group H,2012-12-05,985,7769,0,1,Manchester United,CFR Cluj
+2367027,CL,2013,Group A,2013-09-17,985,15,4,2,Manchester United,Bayer 04 Leverkusen
+2367028,CL,2013,Group A,2013-09-17,681,660,0,2,Real Sociedad,FC Shakhtar Donetsk
+2367029,CL,2013,Group B,2013-09-17,141,418,1,6,Galatasaray,Real Madrid
+2367030,CL,2013,Group B,2013-09-17,190,506,1,1,FC Copenhagen,Juventus FC
+2367031,CL,2013,Group C,2013-09-17,294,58,2,0,SL Benfica,RSC Anderlecht
+2367032,CL,2013,Group C,2013-09-17,683,583,1,4,Olympiakos Syndesmos Filathlon Peiraios,Paris Saint-Germain
+2367033,CL,2013,Group D,2013-09-17,27,2410,3,0,Bayern Munich,PFK CSKA Moskva
+2367034,CL,2013,Group D,2013-09-17,941,281,0,3,FC Viktoria Plzen,Manchester City
+2367037,CL,2013,Group G,2013-09-18,14,720,0,1,Austria Vienna,FC Porto
+2367093,CL,2013,Group E,2013-09-18,33,301,3,0,FC Schalke 04,FCSB
+2367094,CL,2013,Group E,2013-09-18,631,26,1,2,Chelsea FC,FC Basel 1893
+2367095,CL,2013,Group F,2013-09-18,244,11,1,2,Olympique Marseille,Arsenal FC
+2367096,CL,2013,Group F,2013-09-18,6195,16,2,1,SSC Napoli,Borussia Dortmund
+2367097,CL,2013,Group G,2013-09-18,13,964,3,1,Atlético de Madrid,AO FK Zenit Sankt-Peterburg
+2367098,CL,2013,Group H,2013-09-18,5,371,2,0,AC Milan,Celtic FC
+2367099,CL,2013,Group H,2013-09-18,131,610,4,0,FC Barcelona,Ajax Amsterdam
+2367038,CL,2013,Group G,2013-10-01,964,14,0,0,AO FK Zenit Sankt-Peterburg,Austria Vienna
+2367100,CL,2013,Group G,2013-10-01,720,13,1,2,FC Porto,Atlético de Madrid
+2367101,CL,2013,Group H,2013-10-01,610,5,1,1,Ajax Amsterdam,AC Milan
+2367102,CL,2013,Group H,2013-10-01,371,131,0,1,Celtic FC,FC Barcelona
+2367103,CL,2013,Group E,2013-10-01,26,33,0,1,FC Basel 1893,FC Schalke 04
+2367104,CL,2013,Group E,2013-10-01,301,631,0,4,FCSB,Chelsea FC
+2367105,CL,2013,Group F,2013-10-01,16,244,3,0,Borussia Dortmund,Olympique Marseille
+2367106,CL,2013,Group F,2013-10-01,11,6195,2,0,Arsenal FC,SSC Napoli
+2367107,CL,2013,Group D,2013-10-02,2410,941,3,2,PFK CSKA Moskva,FC Viktoria Plzen
+2367108,CL,2013,Group D,2013-10-02,281,27,1,3,Manchester City,Bayern Munich
+2367109,CL,2013,Group A,2013-10-02,660,985,1,1,FC Shakhtar Donetsk,Manchester United
+2367110,CL,2013,Group A,2013-10-02,15,681,2,1,Bayer 04 Leverkusen,Real Sociedad
+2367111,CL,2013,Group B,2013-10-02,506,141,2,2,Juventus FC,Galatasaray
+2367112,CL,2013,Group B,2013-10-02,418,190,4,0,Real Madrid,FC Copenhagen
+2367113,CL,2013,Group C,2013-10-02,583,294,3,0,Paris Saint-Germain,SL Benfica
+2367114,CL,2013,Group C,2013-10-02,58,683,0,3,RSC Anderlecht,Olympiakos Syndesmos Filathlon Peiraios
+2367039,CL,2013,Group G,2013-10-22,14,13,0,3,Austria Vienna,Atlético de Madrid
+2368431,CL,2013,Group E,2013-10-22,33,631,0,3,FC Schalke 04,Chelsea FC
+2368432,CL,2013,Group E,2013-10-22,301,26,1,1,FCSB,FC Basel 1893
+2368433,CL,2013,Group F,2013-10-22,11,16,1,2,Arsenal FC,Borussia Dortmund
+2368434,CL,2013,Group F,2013-10-22,244,6195,1,2,Olympique Marseille,SSC Napoli
+2368435,CL,2013,Group G,2013-10-22,720,964,0,1,FC Porto,AO FK Zenit Sankt-Peterburg
+2368436,CL,2013,Group H,2013-10-22,371,610,2,1,Celtic FC,Ajax Amsterdam
+2368437,CL,2013,Group H,2013-10-22,5,131,1,1,AC Milan,FC Barcelona
+2368438,CL,2013,Group D,2013-10-23,2410,281,1,2,PFK CSKA Moskva,Manchester City
+2368439,CL,2013,Group A,2013-10-23,15,660,4,0,Bayer 04 Leverkusen,FC Shakhtar Donetsk
+2368440,CL,2013,Group A,2013-10-23,985,681,1,0,Manchester United,Real Sociedad
+2368441,CL,2013,Group B,2013-10-23,418,506,2,1,Real Madrid,Juventus FC
+2368442,CL,2013,Group B,2013-10-23,141,190,3,1,Galatasaray,FC Copenhagen
+2368443,CL,2013,Group C,2013-10-23,58,583,0,5,RSC Anderlecht,Paris Saint-Germain
+2368444,CL,2013,Group C,2013-10-23,294,683,1,1,SL Benfica,Olympiakos Syndesmos Filathlon Peiraios
+2368445,CL,2013,Group D,2013-10-23,27,941,5,0,Bayern Munich,FC Viktoria Plzen
+2368446,CL,2013,Group A,2013-11-05,681,985,0,0,Real Sociedad,Manchester United
+2368447,CL,2013,Group A,2013-11-05,660,15,0,0,FC Shakhtar Donetsk,Bayer 04 Leverkusen
+2368448,CL,2013,Group B,2013-11-05,506,418,2,2,Juventus FC,Real Madrid
+2368449,CL,2013,Group B,2013-11-05,190,141,1,0,FC Copenhagen,Galatasaray
+2368450,CL,2013,Group C,2013-11-05,683,294,1,0,Olympiakos Syndesmos Filathlon Peiraios,SL Benfica
+2368451,CL,2013,Group C,2013-11-05,583,58,1,1,Paris Saint-Germain,RSC Anderlecht
+2368452,CL,2013,Group D,2013-11-05,941,27,0,1,FC Viktoria Plzen,Bayern Munich
+2368453,CL,2013,Group D,2013-11-05,281,2410,5,2,Manchester City,PFK CSKA Moskva
+2367040,CL,2013,Group G,2013-11-06,13,14,4,0,Atlético de Madrid,Austria Vienna
+2368454,CL,2013,Group G,2013-11-06,964,720,1,1,AO FK Zenit Sankt-Peterburg,FC Porto
+2368455,CL,2013,Group E,2013-11-06,631,33,3,0,Chelsea FC,FC Schalke 04
+2368456,CL,2013,Group E,2013-11-06,26,301,1,1,FC Basel 1893,FCSB
+2368457,CL,2013,Group F,2013-11-06,16,11,0,1,Borussia Dortmund,Arsenal FC
+2368458,CL,2013,Group F,2013-11-06,6195,244,3,2,SSC Napoli,Olympique Marseille
+2368459,CL,2013,Group H,2013-11-06,131,5,3,1,FC Barcelona,AC Milan
+2368460,CL,2013,Group H,2013-11-06,610,371,1,0,Ajax Amsterdam,Celtic FC
+2367041,CL,2013,Group G,2013-11-26,720,14,1,1,FC Porto,Austria Vienna
+2368461,CL,2013,Group G,2013-11-26,964,13,1,1,AO FK Zenit Sankt-Peterburg,Atlético de Madrid
+2368462,CL,2013,Group E,2013-11-26,26,631,1,0,FC Basel 1893,Chelsea FC
+2368463,CL,2013,Group E,2013-11-26,301,33,0,0,FCSB,FC Schalke 04
+2368464,CL,2013,Group F,2013-11-26,11,244,2,0,Arsenal FC,Olympique Marseille
+2368465,CL,2013,Group F,2013-11-26,16,6195,3,1,Borussia Dortmund,SSC Napoli
+2368466,CL,2013,Group H,2013-11-26,371,5,0,3,Celtic FC,AC Milan
+2368467,CL,2013,Group H,2013-11-26,610,131,2,1,Ajax Amsterdam,FC Barcelona
+2368468,CL,2013,Group D,2013-11-27,2410,27,1,3,PFK CSKA Moskva,Bayern Munich
+2368469,CL,2013,Group A,2013-11-27,15,985,0,5,Bayer 04 Leverkusen,Manchester United
+2368470,CL,2013,Group A,2013-11-27,660,681,4,0,FC Shakhtar Donetsk,Real Sociedad
+2368471,CL,2013,Group B,2013-11-27,418,141,4,1,Real Madrid,Galatasaray
+2368472,CL,2013,Group B,2013-11-27,506,190,3,1,Juventus FC,FC Copenhagen
+2368473,CL,2013,Group C,2013-11-27,58,294,2,3,RSC Anderlecht,SL Benfica
+2368474,CL,2013,Group C,2013-11-27,583,683,2,1,Paris Saint-Germain,Olympiakos Syndesmos Filathlon Peiraios
+2368475,CL,2013,Group D,2013-11-27,281,941,4,2,Manchester City,FC Viktoria Plzen
+2368476,CL,2013,Group A,2013-12-10,985,660,1,0,Manchester United,FC Shakhtar Donetsk
+2368477,CL,2013,Group A,2013-12-10,681,15,0,1,Real Sociedad,Bayer 04 Leverkusen
+2368478,CL,2013,Group B,2013-12-10,190,418,0,2,FC Copenhagen,Real Madrid
+2368480,CL,2013,Group C,2013-12-10,294,583,2,1,SL Benfica,Paris Saint-Germain
+2368481,CL,2013,Group C,2013-12-10,683,58,3,1,Olympiakos Syndesmos Filathlon Peiraios,RSC Anderlecht
+2368482,CL,2013,Group D,2013-12-10,941,2410,2,1,FC Viktoria Plzen,PFK CSKA Moskva
+2368483,CL,2013,Group D,2013-12-10,27,281,2,3,Bayern Munich,Manchester City
+2367042,CL,2013,Group G,2013-12-11,14,964,4,1,Austria Vienna,AO FK Zenit Sankt-Peterburg
+2368484,CL,2013,Group E,2013-12-11,33,26,2,0,FC Schalke 04,FC Basel 1893
+2368485,CL,2013,Group E,2013-12-11,631,301,1,0,Chelsea FC,FCSB
+2368486,CL,2013,Group F,2013-12-11,6195,11,2,0,SSC Napoli,Arsenal FC
+2368487,CL,2013,Group F,2013-12-11,244,16,1,2,Olympique Marseille,Borussia Dortmund
+2368488,CL,2013,Group G,2013-12-11,13,720,2,0,Atlético de Madrid,FC Porto
+2368489,CL,2013,Group H,2013-12-11,5,610,0,0,AC Milan,Ajax Amsterdam
+2368490,CL,2013,Group H,2013-12-11,131,371,6,1,FC Barcelona,Celtic FC
+2384520,CL,2013,Group B,2013-12-11,141,506,1,0,Galatasaray,Juventus FC
+2490842,CL,2014,Group A,2014-09-16,683,13,3,2,Olympiakos Syndesmos Filathlon Peiraios,Atlético de Madrid
+2490843,CL,2014,Group A,2014-09-16,506,496,2,0,Juventus FC,Malmö Fotbollförening
+2490844,CL,2014,Group B,2014-09-16,31,31614,2,1,Liverpool FC,Ludogorets Razgrad
+2490845,CL,2014,Group B,2014-09-16,418,26,5,1,Real Madrid,FC Basel 1893
+2490846,CL,2014,Group C,2014-09-16,162,15,1,0,AS Monaco,Bayer 04 Leverkusen
+2490847,CL,2014,Group C,2014-09-16,294,964,0,2,SL Benfica,AO FK Zenit Sankt-Peterburg
+2490848,CL,2014,Group D,2014-09-16,141,58,1,1,Galatasaray,RSC Anderlecht
+2490849,CL,2014,Group D,2014-09-16,16,11,2,0,Borussia Dortmund,Arsenal FC
+2490850,CL,2014,Group E,2014-09-17,12,2410,5,1,Associazione Sportiva Roma,PFK CSKA Moskva
+2490851,CL,2014,Group E,2014-09-17,27,281,1,0,Bayern Munich,Manchester City
+2490852,CL,2014,Group F,2014-09-17,131,2784,1,0,FC Barcelona,APOEL Nicosia
+2490853,CL,2014,Group F,2014-09-17,610,583,1,1,Ajax Amsterdam,Paris Saint-Germain
+2490854,CL,2014,Group G,2014-09-17,631,33,1,1,Chelsea FC,FC Schalke 04
+2490855,CL,2014,Group G,2014-09-17,790,336,1,1,NK Maribor,Sporting CP
+2490856,CL,2014,Group H,2014-09-17,720,713,6,0,FC Porto,BATE Borisov
+2490857,CL,2014,Group H,2014-09-17,621,660,0,0,Athletic Bilbao,FC Shakhtar Donetsk
+2495294,CL,2014,Group E,2014-09-30,2410,27,0,1,PFK CSKA Moskva,Bayern Munich
+2495295,CL,2014,Group E,2014-09-30,281,12,1,1,Manchester City,Associazione Sportiva Roma
+2495296,CL,2014,Group F,2014-09-30,583,131,3,2,Paris Saint-Germain,FC Barcelona
+2495297,CL,2014,Group F,2014-09-30,2784,610,1,1,APOEL Nicosia,Ajax Amsterdam
+2495298,CL,2014,Group G,2014-09-30,336,631,0,1,Sporting CP,Chelsea FC
+2495299,CL,2014,Group G,2014-09-30,33,790,1,1,FC Schalke 04,NK Maribor
+2495300,CL,2014,Group H,2014-09-30,660,720,2,2,FC Shakhtar Donetsk,FC Porto
+2495301,CL,2014,Group H,2014-09-30,713,621,2,1,BATE Borisov,Athletic Bilbao
+2495302,CL,2014,Group C,2014-10-01,964,162,0,0,AO FK Zenit Sankt-Peterburg,AS Monaco
+2495303,CL,2014,Group A,2014-10-01,13,506,1,0,Atlético de Madrid,Juventus FC
+2495304,CL,2014,Group A,2014-10-01,496,683,2,0,Malmö Fotbollförening,Olympiakos Syndesmos Filathlon Peiraios
+2495305,CL,2014,Group B,2014-10-01,31614,418,1,2,Ludogorets Razgrad,Real Madrid
+2495306,CL,2014,Group B,2014-10-01,26,31,1,0,FC Basel 1893,Liverpool FC
+2495307,CL,2014,Group C,2014-10-01,15,294,3,1,Bayer 04 Leverkusen,SL Benfica
+2495308,CL,2014,Group D,2014-10-01,58,16,0,3,RSC Anderlecht,Borussia Dortmund
+2495309,CL,2014,Group D,2014-10-01,11,141,4,1,Arsenal FC,Galatasaray
+2495310,CL,2014,Group E,2014-10-21,2410,281,2,2,PFK CSKA Moskva,Manchester City
+2495311,CL,2014,Group E,2014-10-21,12,27,1,7,Associazione Sportiva Roma,Bayern Munich
+2495312,CL,2014,Group F,2014-10-21,2784,583,0,1,APOEL Nicosia,Paris Saint-Germain
+2495313,CL,2014,Group F,2014-10-21,131,610,3,1,FC Barcelona,Ajax Amsterdam
+2495314,CL,2014,Group G,2014-10-21,33,336,4,3,FC Schalke 04,Sporting CP
+2495315,CL,2014,Group G,2014-10-21,631,790,6,0,Chelsea FC,NK Maribor
+2495316,CL,2014,Group H,2014-10-21,713,660,0,7,BATE Borisov,FC Shakhtar Donetsk
+2495317,CL,2014,Group H,2014-10-21,720,621,2,1,FC Porto,Athletic Bilbao
+2495318,CL,2014,Group A,2014-10-22,683,506,1,0,Olympiakos Syndesmos Filathlon Peiraios,Juventus FC
+2495319,CL,2014,Group A,2014-10-22,13,496,5,0,Atlético de Madrid,Malmö Fotbollförening
+2495320,CL,2014,Group B,2014-10-22,31,418,0,3,Liverpool FC,Real Madrid
+2495321,CL,2014,Group B,2014-10-22,31614,26,1,0,Ludogorets Razgrad,FC Basel 1893
+2495322,CL,2014,Group C,2014-10-22,162,294,0,0,AS Monaco,SL Benfica
+2495323,CL,2014,Group C,2014-10-22,15,964,2,0,Bayer 04 Leverkusen,AO FK Zenit Sankt-Peterburg
+2495324,CL,2014,Group D,2014-10-22,58,11,1,2,RSC Anderlecht,Arsenal FC
+2495325,CL,2014,Group D,2014-10-22,141,16,0,4,Galatasaray,Borussia Dortmund
+2495326,CL,2014,Group C,2014-11-04,964,15,1,2,AO FK Zenit Sankt-Peterburg,Bayer 04 Leverkusen
+2495327,CL,2014,Group A,2014-11-04,496,13,0,2,Malmö Fotbollförening,Atlético de Madrid
+2495328,CL,2014,Group A,2014-11-04,506,683,3,2,Juventus FC,Olympiakos Syndesmos Filathlon Peiraios
+2495329,CL,2014,Group B,2014-11-04,418,31,1,0,Real Madrid,Liverpool FC
+2495330,CL,2014,Group B,2014-11-04,26,31614,4,0,FC Basel 1893,Ludogorets Razgrad
+2495331,CL,2014,Group C,2014-11-04,294,162,1,0,SL Benfica,AS Monaco
+2495332,CL,2014,Group D,2014-11-04,16,141,4,1,Borussia Dortmund,Galatasaray
+2495333,CL,2014,Group D,2014-11-04,11,58,3,3,Arsenal FC,RSC Anderlecht
+2495334,CL,2014,Group E,2014-11-05,281,2410,1,2,Manchester City,PFK CSKA Moskva
+2495335,CL,2014,Group E,2014-11-05,27,12,2,0,Bayern Munich,Associazione Sportiva Roma
+2495336,CL,2014,Group F,2014-11-05,610,131,0,2,Ajax Amsterdam,FC Barcelona
+2495337,CL,2014,Group F,2014-11-05,583,2784,1,0,Paris Saint-Germain,APOEL Nicosia
+2495338,CL,2014,Group G,2014-11-05,790,631,1,1,NK Maribor,Chelsea FC
+2495339,CL,2014,Group G,2014-11-05,336,33,4,2,Sporting CP,FC Schalke 04
+2495340,CL,2014,Group H,2014-11-05,621,720,0,2,Athletic Bilbao,FC Porto
+2495341,CL,2014,Group H,2014-11-05,660,713,5,0,FC Shakhtar Donetsk,BATE Borisov
+2495342,CL,2014,Group E,2014-11-25,2410,12,1,1,PFK CSKA Moskva,Associazione Sportiva Roma
+2495343,CL,2014,Group H,2014-11-25,713,720,0,3,BATE Borisov,FC Porto
+2495344,CL,2014,Group E,2014-11-25,281,27,3,2,Manchester City,Bayern Munich
+2495345,CL,2014,Group F,2014-11-25,2784,131,0,4,APOEL Nicosia,FC Barcelona
+2495346,CL,2014,Group F,2014-11-25,583,610,3,1,Paris Saint-Germain,Ajax Amsterdam
+2495347,CL,2014,Group G,2014-11-25,33,631,0,5,FC Schalke 04,Chelsea FC
+2495348,CL,2014,Group G,2014-11-25,336,790,3,1,Sporting CP,NK Maribor
+2495349,CL,2014,Group H,2014-11-25,660,621,0,1,FC Shakhtar Donetsk,Athletic Bilbao
+2495351,CL,2014,Group A,2014-11-26,496,506,0,2,Malmö Fotbollförening,Juventus FC
+2495352,CL,2014,Group A,2014-11-26,13,683,4,0,Atlético de Madrid,Olympiakos Syndesmos Filathlon Peiraios
+2495353,CL,2014,Group B,2014-11-26,26,418,0,1,FC Basel 1893,Real Madrid
+2495354,CL,2014,Group B,2014-11-26,31614,31,2,2,Ludogorets Razgrad,Liverpool FC
+2495355,CL,2014,Group C,2014-11-26,15,162,0,1,Bayer 04 Leverkusen,AS Monaco
+2495356,CL,2014,Group D,2014-11-26,11,16,2,0,Arsenal FC,Borussia Dortmund
+2495357,CL,2014,Group D,2014-11-26,58,141,2,0,RSC Anderlecht,Galatasaray
+2514360,CL,2014,Group C,2014-11-26,964,294,1,0,AO FK Zenit Sankt-Peterburg,SL Benfica
+2495358,CL,2014,Group A,2014-12-09,506,13,0,0,Juventus FC,Atlético de Madrid
+2495359,CL,2014,Group A,2014-12-09,683,496,4,2,Olympiakos Syndesmos Filathlon Peiraios,Malmö Fotbollförening
+2495360,CL,2014,Group B,2014-12-09,31,26,1,1,Liverpool FC,FC Basel 1893
+2495361,CL,2014,Group B,2014-12-09,418,31614,4,0,Real Madrid,Ludogorets Razgrad
+2495362,CL,2014,Group C,2014-12-09,162,964,2,0,AS Monaco,AO FK Zenit Sankt-Peterburg
+2495363,CL,2014,Group C,2014-12-09,294,15,0,0,SL Benfica,Bayer 04 Leverkusen
+2495364,CL,2014,Group D,2014-12-09,141,11,1,4,Galatasaray,Arsenal FC
+2495365,CL,2014,Group D,2014-12-09,16,58,1,1,Borussia Dortmund,RSC Anderlecht
+2495366,CL,2014,Group E,2014-12-10,12,281,0,2,Associazione Sportiva Roma,Manchester City
+2495367,CL,2014,Group E,2014-12-10,27,2410,3,0,Bayern Munich,PFK CSKA Moskva
+2495368,CL,2014,Group F,2014-12-10,131,583,3,1,FC Barcelona,Paris Saint-Germain
+2495369,CL,2014,Group F,2014-12-10,610,2784,4,0,Ajax Amsterdam,APOEL Nicosia
+2495370,CL,2014,Group G,2014-12-10,790,33,0,1,NK Maribor,FC Schalke 04
+2495371,CL,2014,Group G,2014-12-10,631,336,3,1,Chelsea FC,Sporting CP
+2495372,CL,2014,Group H,2014-12-10,720,660,1,1,FC Porto,FC Shakhtar Donetsk
+2495373,CL,2014,Group H,2014-12-10,621,713,2,0,Athletic Bilbao,BATE Borisov
+2618535,CL,2015,Group A,2015-09-15,583,496,2,0,Paris Saint-Germain,Malmö Fotbollförening
+2618536,CL,2015,Group A,2015-09-15,418,660,4,0,Real Madrid,FC Shakhtar Donetsk
+2618537,CL,2015,Group B,2015-09-15,82,2410,1,0,VfL Wolfsburg,PFK CSKA Moskva
+2618538,CL,2015,Group B,2015-09-15,383,985,2,1,PSV Eindhoven,Manchester United
+2618539,CL,2015,Group C,2015-09-15,141,13,0,2,Galatasaray,Atlético de Madrid
+2618540,CL,2015,Group C,2015-09-15,294,22220,2,0,SL Benfica,FC Astana
+2618541,CL,2015,Group D,2015-09-15,281,506,1,2,Manchester City,Juventus FC
+2618542,CL,2015,Group D,2015-09-15,368,18,3,0,Sevilla FC,Borussia Mönchengladbach
+2618543,CL,2015,Group E,2015-09-16,15,713,4,1,Bayer 04 Leverkusen,BATE Borisov
+2618544,CL,2015,Group E,2015-09-16,12,131,1,1,Associazione Sportiva Roma,FC Barcelona
+2618545,CL,2015,Group F,2015-09-16,419,11,2,1,GNK Dinamo Zagreb,Arsenal FC
+2618546,CL,2015,Group F,2015-09-16,683,27,0,3,Olympiakos Syndesmos Filathlon Peiraios,Bayern Munich
+2618547,CL,2015,Group G,2015-09-16,338,720,2,2,Dynamo Kyiv,FC Porto
+2618548,CL,2015,Group G,2015-09-16,631,119,4,0,Chelsea FC,Maccabi Tel Aviv
+2618549,CL,2015,Group H,2015-09-16,1049,964,2,3,Valencia CF,AO FK Zenit Sankt-Peterburg
+2618550,CL,2015,Group H,2015-09-16,157,1041,1,1,KAA Gent,Olympique Lyon
+2618556,CL,2015,Group E,2015-09-29,131,15,2,1,FC Barcelona,Bayer 04 Leverkusen
+2618557,CL,2015,Group E,2015-09-29,713,12,3,2,BATE Borisov,Associazione Sportiva Roma
+2618558,CL,2015,Group F,2015-09-29,27,419,5,0,Bayern Munich,GNK Dinamo Zagreb
+2618559,CL,2015,Group F,2015-09-29,11,683,2,3,Arsenal FC,Olympiakos Syndesmos Filathlon Peiraios
+2618560,CL,2015,Group G,2015-09-29,119,338,0,2,Maccabi Tel Aviv,Dynamo Kyiv
+2618561,CL,2015,Group G,2015-09-29,720,631,2,1,FC Porto,Chelsea FC
+2618562,CL,2015,Group H,2015-09-29,964,157,2,1,AO FK Zenit Sankt-Peterburg,KAA Gent
+2618563,CL,2015,Group H,2015-09-29,1041,1049,0,1,Olympique Lyon,Valencia CF
+2618564,CL,2015,Group C,2015-09-30,22220,141,2,2,FC Astana,Galatasaray
+2618565,CL,2015,Group A,2015-09-30,660,583,0,3,FC Shakhtar Donetsk,Paris Saint-Germain
+2618566,CL,2015,Group A,2015-09-30,496,418,0,2,Malmö Fotbollförening,Real Madrid
+2618567,CL,2015,Group B,2015-09-30,985,82,2,1,Manchester United,VfL Wolfsburg
+2618568,CL,2015,Group B,2015-09-30,2410,383,3,2,PFK CSKA Moskva,PSV Eindhoven
+2618569,CL,2015,Group C,2015-09-30,13,294,1,2,Atlético de Madrid,SL Benfica
+2618570,CL,2015,Group D,2015-09-30,18,281,1,2,Borussia Mönchengladbach,Manchester City
+2618571,CL,2015,Group D,2015-09-30,506,368,2,0,Juventus FC,Sevilla FC
+2618578,CL,2015,Group E,2015-10-20,713,131,0,2,BATE Borisov,FC Barcelona
+2618579,CL,2015,Group E,2015-10-20,15,12,4,4,Bayer 04 Leverkusen,Associazione Sportiva Roma
+2618580,CL,2015,Group F,2015-10-20,11,27,2,0,Arsenal FC,Bayern Munich
+2618581,CL,2015,Group F,2015-10-20,419,683,0,1,GNK Dinamo Zagreb,Olympiakos Syndesmos Filathlon Peiraios
+2618582,CL,2015,Group G,2015-10-20,720,119,2,0,FC Porto,Maccabi Tel Aviv
+2618583,CL,2015,Group G,2015-10-20,338,631,0,0,Dynamo Kyiv,Chelsea FC
+2618584,CL,2015,Group H,2015-10-20,964,1041,3,1,AO FK Zenit Sankt-Peterburg,Olympique Lyon
+2618585,CL,2015,Group H,2015-10-20,1049,157,2,1,Valencia CF,KAA Gent
+2618586,CL,2015,Group A,2015-10-21,496,660,1,0,Malmö Fotbollförening,FC Shakhtar Donetsk
+2618587,CL,2015,Group A,2015-10-21,583,418,0,0,Paris Saint-Germain,Real Madrid
+2618588,CL,2015,Group B,2015-10-21,2410,985,1,1,PFK CSKA Moskva,Manchester United
+2618589,CL,2015,Group B,2015-10-21,82,383,2,0,VfL Wolfsburg,PSV Eindhoven
+2618590,CL,2015,Group C,2015-10-21,13,22220,4,0,Atlético de Madrid,FC Astana
+2618591,CL,2015,Group C,2015-10-21,141,294,2,1,Galatasaray,SL Benfica
+2618592,CL,2015,Group D,2015-10-21,506,18,0,0,Juventus FC,Borussia Mönchengladbach
+2618593,CL,2015,Group D,2015-10-21,281,368,2,1,Manchester City,Sevilla FC
+2618594,CL,2015,Group A,2015-11-03,660,496,4,0,FC Shakhtar Donetsk,Malmö Fotbollförening
+2618595,CL,2015,Group A,2015-11-03,418,583,1,0,Real Madrid,Paris Saint-Germain
+2618596,CL,2015,Group B,2015-11-03,985,2410,1,0,Manchester United,PFK CSKA Moskva
+2618597,CL,2015,Group B,2015-11-03,383,82,2,0,PSV Eindhoven,VfL Wolfsburg
+2618598,CL,2015,Group C,2015-11-03,22220,13,0,0,FC Astana,Atlético de Madrid
+2618599,CL,2015,Group C,2015-11-03,294,141,2,1,SL Benfica,Galatasaray
+2618600,CL,2015,Group D,2015-11-03,368,281,1,3,Sevilla FC,Manchester City
+2618601,CL,2015,Group D,2015-11-03,18,506,1,1,Borussia Mönchengladbach,Juventus FC
+2618602,CL,2015,Group E,2015-11-04,131,713,3,0,FC Barcelona,BATE Borisov
+2618603,CL,2015,Group E,2015-11-04,12,15,3,2,Associazione Sportiva Roma,Bayer 04 Leverkusen
+2618604,CL,2015,Group F,2015-11-04,27,11,5,1,Bayern Munich,Arsenal FC
+2618605,CL,2015,Group F,2015-11-04,683,419,2,1,Olympiakos Syndesmos Filathlon Peiraios,GNK Dinamo Zagreb
+2618606,CL,2015,Group G,2015-11-04,119,720,1,3,Maccabi Tel Aviv,FC Porto
+2618607,CL,2015,Group G,2015-11-04,631,338,2,1,Chelsea FC,Dynamo Kyiv
+2618608,CL,2015,Group H,2015-11-04,1041,964,0,2,Olympique Lyon,AO FK Zenit Sankt-Peterburg
+2618609,CL,2015,Group H,2015-11-04,157,1049,1,0,KAA Gent,Valencia CF
+2618618,CL,2015,Group E,2015-11-24,713,15,1,1,BATE Borisov,Bayer 04 Leverkusen
+2618619,CL,2015,Group E,2015-11-24,131,12,6,1,FC Barcelona,Associazione Sportiva Roma
+2618620,CL,2015,Group F,2015-11-24,11,419,3,0,Arsenal FC,GNK Dinamo Zagreb
+2618621,CL,2015,Group F,2015-11-24,27,683,4,0,Bayern Munich,Olympiakos Syndesmos Filathlon Peiraios
+2618622,CL,2015,Group G,2015-11-24,720,338,0,2,FC Porto,Dynamo Kyiv
+2618623,CL,2015,Group G,2015-11-24,119,631,0,4,Maccabi Tel Aviv,Chelsea FC
+2618624,CL,2015,Group H,2015-11-24,964,1049,2,0,AO FK Zenit Sankt-Peterburg,Valencia CF
+2618625,CL,2015,Group H,2015-11-24,1041,157,1,2,Olympique Lyon,KAA Gent
+2618610,CL,2015,Group A,2015-11-25,660,418,3,4,FC Shakhtar Donetsk,Real Madrid
+2618611,CL,2015,Group A,2015-11-25,496,583,0,5,Malmö Fotbollförening,Paris Saint-Germain
+2618612,CL,2015,Group B,2015-11-25,2410,82,0,2,PFK CSKA Moskva,VfL Wolfsburg
+2618613,CL,2015,Group B,2015-11-25,985,383,0,0,Manchester United,PSV Eindhoven
+2618614,CL,2015,Group C,2015-11-25,13,141,2,0,Atlético de Madrid,Galatasaray
+2618615,CL,2015,Group C,2015-11-25,22220,294,2,2,FC Astana,SL Benfica
+2618616,CL,2015,Group D,2015-11-25,506,281,1,0,Juventus FC,Manchester City
+2618617,CL,2015,Group D,2015-11-25,18,368,4,2,Borussia Mönchengladbach,Sevilla FC
+2618626,CL,2015,Group A,2015-12-08,583,660,2,0,Paris Saint-Germain,FC Shakhtar Donetsk
+2618627,CL,2015,Group A,2015-12-08,418,496,8,0,Real Madrid,Malmö Fotbollförening
+2618628,CL,2015,Group B,2015-12-08,82,985,3,2,VfL Wolfsburg,Manchester United
+2618629,CL,2015,Group B,2015-12-08,383,2410,2,1,PSV Eindhoven,PFK CSKA Moskva
+2618630,CL,2015,Group C,2015-12-08,141,22220,1,1,Galatasaray,FC Astana
+2618631,CL,2015,Group C,2015-12-08,294,13,1,2,SL Benfica,Atlético de Madrid
+2618632,CL,2015,Group D,2015-12-08,281,18,4,2,Manchester City,Borussia Mönchengladbach
+2618633,CL,2015,Group D,2015-12-08,368,506,1,0,Sevilla FC,Juventus FC
+2618634,CL,2015,Group E,2015-12-09,15,131,1,1,Bayer 04 Leverkusen,FC Barcelona
+2618635,CL,2015,Group E,2015-12-09,12,713,0,0,Associazione Sportiva Roma,BATE Borisov
+2618636,CL,2015,Group F,2015-12-09,419,27,0,2,GNK Dinamo Zagreb,Bayern Munich
+2618637,CL,2015,Group F,2015-12-09,683,11,0,3,Olympiakos Syndesmos Filathlon Peiraios,Arsenal FC
+2618638,CL,2015,Group G,2015-12-09,338,119,1,0,Dynamo Kyiv,Maccabi Tel Aviv
+2618639,CL,2015,Group G,2015-12-09,631,720,2,0,Chelsea FC,FC Porto
+2618640,CL,2015,Group H,2015-12-09,1049,1041,0,2,Valencia CF,Olympique Lyon
+2618641,CL,2015,Group H,2015-12-09,157,964,2,1,KAA Gent,AO FK Zenit Sankt-Peterburg
+2754177,CL,2016,Group A,2016-09-13,26,31614,1,1,FC Basel 1893,Ludogorets Razgrad
+2754178,CL,2016,Group A,2016-09-13,583,11,1,1,Paris Saint-Germain,Arsenal FC
+2754179,CL,2016,Group B,2016-09-13,294,114,1,1,SL Benfica,Beşiktaş Jimnastik Kulübü
+2754180,CL,2016,Group B,2016-09-13,338,6195,1,2,Dynamo Kyiv,SSC Napoli
+2754181,CL,2016,Group C,2016-09-13,131,371,7,0,FC Barcelona,Celtic FC
+2754183,CL,2016,Group D,2016-09-13,27,1083,5,0,Bayern Munich,FK Rostov
+2754184,CL,2016,Group D,2016-09-13,383,13,0,1,PSV Eindhoven,Atlético de Madrid
+2754182,CL,2016,Group C,2016-09-14,281,18,4,0,Manchester City,Borussia Mönchengladbach
+2754185,CL,2016,Group E,2016-09-14,148,162,1,2,Tottenham Hotspur,AS Monaco
+2754186,CL,2016,Group F,2016-09-14,255,16,0,6,Legia Warszawa,Borussia Dortmund
+2754187,CL,2016,Group F,2016-09-14,418,336,2,1,Real Madrid,Sporting CP
+2754188,CL,2016,Group G,2016-09-14,720,190,1,1,FC Porto,FC Copenhagen
+2754189,CL,2016,Group G,2016-09-14,2282,1003,0,3,Club Brugge KV,Leicester City
+2754190,CL,2016,Group H,2016-09-14,506,368,0,0,Juventus FC,Sevilla FC
+2754191,CL,2016,Group H,2016-09-14,1041,419,3,0,Olympique Lyon,GNK Dinamo Zagreb
+2754222,CL,2016,Group E,2016-09-14,15,2410,2,2,Bayer 04 Leverkusen,PFK CSKA Moskva
+2754898,CL,2016,Group E,2016-09-27,162,15,1,1,AS Monaco,Bayer 04 Leverkusen
+2754899,CL,2016,Group E,2016-09-27,2410,148,0,1,PFK CSKA Moskva,Tottenham Hotspur
+2754900,CL,2016,Group F,2016-09-27,16,418,2,2,Borussia Dortmund,Real Madrid
+2754901,CL,2016,Group F,2016-09-27,336,255,2,0,Sporting CP,Legia Warszawa
+2754902,CL,2016,Group G,2016-09-27,190,2282,4,0,FC Copenhagen,Club Brugge KV
+2754903,CL,2016,Group G,2016-09-27,1003,720,1,0,Leicester City,FC Porto
+2754904,CL,2016,Group H,2016-09-27,368,1041,1,0,Sevilla FC,Olympique Lyon
+2754905,CL,2016,Group H,2016-09-27,419,506,0,4,GNK Dinamo Zagreb,Juventus FC
+2754906,CL,2016,Group A,2016-09-28,31614,583,1,3,Ludogorets Razgrad,Paris Saint-Germain
+2754907,CL,2016,Group A,2016-09-28,11,26,2,0,Arsenal FC,FC Basel 1893
+2754908,CL,2016,Group B,2016-09-28,114,338,1,1,Beşiktaş Jimnastik Kulübü,Dynamo Kyiv
+2754909,CL,2016,Group B,2016-09-28,6195,294,4,2,SSC Napoli,SL Benfica
+2754910,CL,2016,Group C,2016-09-28,18,131,1,2,Borussia Mönchengladbach,FC Barcelona
+2754911,CL,2016,Group C,2016-09-28,371,281,3,3,Celtic FC,Manchester City
+2754912,CL,2016,Group D,2016-09-28,13,27,1,0,Atlético de Madrid,Bayern Munich
+2754913,CL,2016,Group D,2016-09-28,1083,383,2,2,FK Rostov,PSV Eindhoven
+2754922,CL,2016,Group E,2016-10-18,2410,162,1,1,PFK CSKA Moskva,AS Monaco
+2754923,CL,2016,Group E,2016-10-18,15,148,0,0,Bayer 04 Leverkusen,Tottenham Hotspur
+2754924,CL,2016,Group F,2016-10-18,336,16,1,2,Sporting CP,Borussia Dortmund
+2754925,CL,2016,Group F,2016-10-18,418,255,5,1,Real Madrid,Legia Warszawa
+2754926,CL,2016,Group G,2016-10-18,1003,190,1,0,Leicester City,FC Copenhagen
+2754927,CL,2016,Group G,2016-10-18,2282,720,1,2,Club Brugge KV,FC Porto
+2754928,CL,2016,Group H,2016-10-18,419,368,0,1,GNK Dinamo Zagreb,Sevilla FC
+2754929,CL,2016,Group H,2016-10-18,1041,506,0,1,Olympique Lyon,Juventus FC
+2754914,CL,2016,Group A,2016-10-19,11,31614,6,0,Arsenal FC,Ludogorets Razgrad
+2754915,CL,2016,Group A,2016-10-19,583,26,3,0,Paris Saint-Germain,FC Basel 1893
+2754916,CL,2016,Group B,2016-10-19,6195,114,2,3,SSC Napoli,Beşiktaş Jimnastik Kulübü
+2754917,CL,2016,Group B,2016-10-19,338,294,0,2,Dynamo Kyiv,SL Benfica
+2754918,CL,2016,Group C,2016-10-19,371,18,0,2,Celtic FC,Borussia Mönchengladbach
+2754919,CL,2016,Group C,2016-10-19,131,281,4,0,FC Barcelona,Manchester City
+2754920,CL,2016,Group D,2016-10-19,1083,13,0,1,FK Rostov,Atlético de Madrid
+2754921,CL,2016,Group D,2016-10-19,27,383,4,1,Bayern Munich,PSV Eindhoven
+2755692,CL,2016,Group C,2016-11-01,18,371,1,1,Borussia Mönchengladbach,Celtic FC
+2755693,CL,2016,Group B,2016-11-01,294,338,1,0,SL Benfica,Dynamo Kyiv
+2755694,CL,2016,Group C,2016-11-01,281,131,3,1,Manchester City,FC Barcelona
+2755695,CL,2016,Group A,2016-11-01,26,583,1,2,FC Basel 1893,Paris Saint-Germain
+2755696,CL,2016,Group D,2016-11-01,383,27,1,2,PSV Eindhoven,Bayern Munich
+2755697,CL,2016,Group A,2016-11-01,31614,11,2,3,Ludogorets Razgrad,Arsenal FC
+2755698,CL,2016,Group D,2016-11-01,13,1083,2,1,Atlético de Madrid,FK Rostov
+2755699,CL,2016,Group B,2016-11-01,114,6195,1,1,Beşiktaş Jimnastik Kulübü,SSC Napoli
+2755700,CL,2016,Group H,2016-11-02,506,1041,1,1,Juventus FC,Olympique Lyon
+2755701,CL,2016,Group E,2016-11-02,148,15,0,1,Tottenham Hotspur,Bayer 04 Leverkusen
+2755702,CL,2016,Group F,2016-11-02,16,336,1,0,Borussia Dortmund,Sporting CP
+2755703,CL,2016,Group E,2016-11-02,162,2410,3,0,AS Monaco,PFK CSKA Moskva
+2755704,CL,2016,Group H,2016-11-02,368,419,4,0,Sevilla FC,GNK Dinamo Zagreb
+2755705,CL,2016,Group F,2016-11-02,255,418,3,3,Legia Warszawa,Real Madrid
+2755706,CL,2016,Group G,2016-11-02,720,2282,1,0,FC Porto,Club Brugge KV
+2755707,CL,2016,Group G,2016-11-02,190,1003,0,0,FC Copenhagen,Leicester City
+2755708,CL,2016,Group E,2016-11-22,2410,15,1,1,PFK CSKA Moskva,Bayer 04 Leverkusen
+2755709,CL,2016,Group G,2016-11-22,190,720,0,0,FC Copenhagen,FC Porto
+2755710,CL,2016,Group F,2016-11-22,336,418,1,2,Sporting CP,Real Madrid
+2755711,CL,2016,Group H,2016-11-22,368,506,1,3,Sevilla FC,Juventus FC
+2755712,CL,2016,Group G,2016-11-22,1003,2282,2,1,Leicester City,Club Brugge KV
+2755713,CL,2016,Group E,2016-11-22,162,148,2,1,AS Monaco,Tottenham Hotspur
+2755714,CL,2016,Group H,2016-11-22,419,1041,0,1,GNK Dinamo Zagreb,Olympique Lyon
+2755715,CL,2016,Group F,2016-11-22,16,255,8,4,Borussia Dortmund,Legia Warszawa
+2755716,CL,2016,Group D,2016-11-23,1083,27,3,2,FK Rostov,Bayern Munich
+2755717,CL,2016,Group C,2016-11-23,371,131,0,2,Celtic FC,FC Barcelona
+2755718,CL,2016,Group C,2016-11-23,18,281,1,1,Borussia Mönchengladbach,Manchester City
+2755719,CL,2016,Group A,2016-11-23,11,583,2,2,Arsenal FC,Paris Saint-Germain
+2755720,CL,2016,Group D,2016-11-23,13,383,2,0,Atlético de Madrid,PSV Eindhoven
+2755721,CL,2016,Group A,2016-11-23,31614,26,0,0,Ludogorets Razgrad,FC Basel 1893
+2755722,CL,2016,Group B,2016-11-23,6195,338,0,0,SSC Napoli,Dynamo Kyiv
+2755723,CL,2016,Group B,2016-11-23,114,294,3,3,Beşiktaş Jimnastik Kulübü,SL Benfica
+2755728,CL,2016,Group B,2016-12-06,338,114,6,0,Dynamo Kyiv,Beşiktaş Jimnastik Kulübü
+2755729,CL,2016,Group A,2016-12-06,26,11,1,4,FC Basel 1893,Arsenal FC
+2755730,CL,2016,Group D,2016-12-06,383,1083,0,0,PSV Eindhoven,FK Rostov
+2755731,CL,2016,Group A,2016-12-06,583,31614,2,2,Paris Saint-Germain,Ludogorets Razgrad
+2755732,CL,2016,Group C,2016-12-06,131,18,4,0,FC Barcelona,Borussia Mönchengladbach
+2755733,CL,2016,Group D,2016-12-06,27,13,1,0,Bayern Munich,Atlético de Madrid
+2755734,CL,2016,Group C,2016-12-06,281,371,1,1,Manchester City,Celtic FC
+2755735,CL,2016,Group B,2016-12-06,294,6195,1,2,SL Benfica,SSC Napoli
+2755736,CL,2016,Group G,2016-12-07,720,1003,5,0,FC Porto,Leicester City
+2755737,CL,2016,Group G,2016-12-07,2282,190,0,2,Club Brugge KV,FC Copenhagen
+2755738,CL,2016,Group E,2016-12-07,15,162,3,0,Bayer 04 Leverkusen,AS Monaco
+2755739,CL,2016,Group F,2016-12-07,418,16,2,2,Real Madrid,Borussia Dortmund
+2755740,CL,2016,Group F,2016-12-07,255,336,1,0,Legia Warszawa,Sporting CP
+2755741,CL,2016,Group H,2016-12-07,506,419,2,0,Juventus FC,GNK Dinamo Zagreb
+2755742,CL,2016,Group E,2016-12-07,148,2410,3,1,Tottenham Hotspur,PFK CSKA Moskva
+2755743,CL,2016,Group H,2016-12-07,1041,368,0,0,Olympique Lyon,Sevilla FC
+2917357,CL,2017,Group A,2017-09-12,294,2410,1,2,SL Benfica,PFK CSKA Moskva
+2917358,CL,2017,Group A,2017-09-12,985,26,3,0,Manchester United,FC Basel 1893
+2917359,CL,2017,Group B,2017-09-12,27,58,3,0,Bayern Munich,RSC Anderlecht
+2917360,CL,2017,Group B,2017-09-12,371,583,0,5,Celtic FC,Paris Saint-Germain
+2917361,CL,2017,Group C,2017-09-12,631,10625,6,0,Chelsea FC,Qarabağ FK
+2917362,CL,2017,Group C,2017-09-12,12,13,0,0,Associazione Sportiva Roma,Atlético de Madrid
+2917363,CL,2017,Group D,2017-09-12,131,506,3,0,FC Barcelona,Juventus FC
+2917364,CL,2017,Group D,2017-09-12,683,336,2,3,Olympiakos Syndesmos Filathlon Peiraios,Sporting CP
+2917365,CL,2017,Group E,2017-09-13,790,232,1,1,NK Maribor,FK Spartak Moskva
+2917366,CL,2017,Group E,2017-09-13,31,368,2,2,Liverpool FC,Sevilla FC
+2917367,CL,2017,Group F,2017-09-13,234,281,0,4,Feyenoord Rotterdam,Manchester City
+2917368,CL,2017,Group F,2017-09-13,660,6195,2,1,FC Shakhtar Donetsk,SSC Napoli
+2917369,CL,2017,Group G,2017-09-13,23826,162,1,1,RB Leipzig,AS Monaco
+2917370,CL,2017,Group G,2017-09-13,720,114,1,3,FC Porto,Beşiktaş Jimnastik Kulübü
+2917371,CL,2017,Group H,2017-09-13,418,2784,3,0,Real Madrid,APOEL Nicosia
+2917372,CL,2017,Group H,2017-09-13,148,16,3,1,Tottenham Hotspur,Borussia Dortmund
+2917373,CL,2017,Group E,2017-09-26,368,790,3,0,Sevilla FC,NK Maribor
+2917374,CL,2017,Group E,2017-09-26,232,31,1,1,FK Spartak Moskva,Liverpool FC
+2917375,CL,2017,Group F,2017-09-26,6195,234,3,1,SSC Napoli,Feyenoord Rotterdam
+2917376,CL,2017,Group F,2017-09-26,281,660,2,0,Manchester City,FC Shakhtar Donetsk
+2917377,CL,2017,Group G,2017-09-26,114,23826,2,0,Beşiktaş Jimnastik Kulübü,RB Leipzig
+2917378,CL,2017,Group G,2017-09-26,162,720,0,3,AS Monaco,FC Porto
+2917379,CL,2017,Group H,2017-09-26,16,418,1,3,Borussia Dortmund,Real Madrid
+2917380,CL,2017,Group H,2017-09-26,2784,148,0,3,APOEL Nicosia,Tottenham Hotspur
+2917381,CL,2017,Group A,2017-09-27,26,294,5,0,FC Basel 1893,SL Benfica
+2917382,CL,2017,Group A,2017-09-27,2410,985,1,4,PFK CSKA Moskva,Manchester United
+2917383,CL,2017,Group B,2017-09-27,583,27,3,0,Paris Saint-Germain,Bayern Munich
+2917384,CL,2017,Group B,2017-09-27,58,371,0,3,RSC Anderlecht,Celtic FC
+2917385,CL,2017,Group C,2017-09-27,13,631,1,2,Atlético de Madrid,Chelsea FC
+2917386,CL,2017,Group C,2017-09-27,10625,12,1,2,Qarabağ FK,Associazione Sportiva Roma
+2917387,CL,2017,Group D,2017-09-27,336,131,0,1,Sporting CP,FC Barcelona
+2917388,CL,2017,Group D,2017-09-27,506,683,2,0,Juventus FC,Olympiakos Syndesmos Filathlon Peiraios
+2917397,CL,2017,Group E,2017-10-17,232,368,5,1,FK Spartak Moskva,Sevilla FC
+2917398,CL,2017,Group E,2017-10-17,790,31,0,7,NK Maribor,Liverpool FC
+2917399,CL,2017,Group F,2017-10-17,281,6195,2,1,Manchester City,SSC Napoli
+2917400,CL,2017,Group F,2017-10-17,234,660,1,2,Feyenoord Rotterdam,FC Shakhtar Donetsk
+2917401,CL,2017,Group G,2017-10-17,162,114,1,2,AS Monaco,Beşiktaş Jimnastik Kulübü
+2917402,CL,2017,Group G,2017-10-17,23826,720,3,2,RB Leipzig,FC Porto
+2917403,CL,2017,Group H,2017-10-17,2784,16,1,1,APOEL Nicosia,Borussia Dortmund
+2917404,CL,2017,Group H,2017-10-17,418,148,1,1,Real Madrid,Tottenham Hotspur
+2917389,CL,2017,Group A,2017-10-18,2410,26,0,2,PFK CSKA Moskva,FC Basel 1893
+2917390,CL,2017,Group A,2017-10-18,294,985,0,1,SL Benfica,Manchester United
+2917391,CL,2017,Group B,2017-10-18,58,583,0,4,RSC Anderlecht,Paris Saint-Germain
+2917392,CL,2017,Group B,2017-10-18,27,371,3,0,Bayern Munich,Celtic FC
+2917393,CL,2017,Group C,2017-10-18,10625,13,0,0,Qarabağ FK,Atlético de Madrid
+2917394,CL,2017,Group C,2017-10-18,631,12,3,3,Chelsea FC,Associazione Sportiva Roma
+2917395,CL,2017,Group D,2017-10-18,506,336,2,1,Juventus FC,Sporting CP
+2917396,CL,2017,Group D,2017-10-18,131,683,3,1,FC Barcelona,Olympiakos Syndesmos Filathlon Peiraios
+2917405,CL,2017,Group A,2017-10-31,26,2410,1,2,FC Basel 1893,PFK CSKA Moskva
+2917406,CL,2017,Group A,2017-10-31,985,294,2,0,Manchester United,SL Benfica
+2917407,CL,2017,Group B,2017-10-31,583,58,5,0,Paris Saint-Germain,RSC Anderlecht
+2917408,CL,2017,Group B,2017-10-31,371,27,1,2,Celtic FC,Bayern Munich
+2917409,CL,2017,Group C,2017-10-31,13,10625,1,1,Atlético de Madrid,Qarabağ FK
+2917410,CL,2017,Group C,2017-10-31,12,631,3,0,Associazione Sportiva Roma,Chelsea FC
+2917411,CL,2017,Group D,2017-10-31,336,506,1,1,Sporting CP,Juventus FC
+2917412,CL,2017,Group D,2017-10-31,683,131,0,0,Olympiakos Syndesmos Filathlon Peiraios,FC Barcelona
+2917413,CL,2017,Group E,2017-11-01,368,232,2,1,Sevilla FC,FK Spartak Moskva
+2917414,CL,2017,Group E,2017-11-01,31,790,3,0,Liverpool FC,NK Maribor
+2917415,CL,2017,Group F,2017-11-01,6195,281,2,4,SSC Napoli,Manchester City
+2917416,CL,2017,Group F,2017-11-01,660,234,3,1,FC Shakhtar Donetsk,Feyenoord Rotterdam
+2917417,CL,2017,Group G,2017-11-01,114,162,1,1,Beşiktaş Jimnastik Kulübü,AS Monaco
+2917418,CL,2017,Group G,2017-11-01,720,23826,3,1,FC Porto,RB Leipzig
+2917419,CL,2017,Group H,2017-11-01,16,2784,1,1,Borussia Dortmund,APOEL Nicosia
+2917420,CL,2017,Group H,2017-11-01,148,418,3,1,Tottenham Hotspur,Real Madrid
+2917429,CL,2017,Group E,2017-11-21,232,790,1,1,FK Spartak Moskva,NK Maribor
+2917430,CL,2017,Group E,2017-11-21,368,31,3,3,Sevilla FC,Liverpool FC
+2917431,CL,2017,Group F,2017-11-21,281,234,1,0,Manchester City,Feyenoord Rotterdam
+2917432,CL,2017,Group F,2017-11-21,6195,660,3,0,SSC Napoli,FC Shakhtar Donetsk
+2917433,CL,2017,Group G,2017-11-21,162,23826,1,4,AS Monaco,RB Leipzig
+2917434,CL,2017,Group G,2017-11-21,114,720,1,1,Beşiktaş Jimnastik Kulübü,FC Porto
+2917435,CL,2017,Group H,2017-11-21,2784,418,0,6,APOEL Nicosia,Real Madrid
+2917436,CL,2017,Group H,2017-11-21,16,148,1,2,Borussia Dortmund,Tottenham Hotspur
+2917421,CL,2017,Group A,2017-11-22,2410,294,2,0,PFK CSKA Moskva,SL Benfica
+2917422,CL,2017,Group A,2017-11-22,26,985,1,0,FC Basel 1893,Manchester United
+2917423,CL,2017,Group B,2017-11-22,58,27,1,2,RSC Anderlecht,Bayern Munich
+2917424,CL,2017,Group B,2017-11-22,583,371,7,1,Paris Saint-Germain,Celtic FC
+2917425,CL,2017,Group C,2017-11-22,10625,631,0,4,Qarabağ FK,Chelsea FC
+2917426,CL,2017,Group C,2017-11-22,13,12,2,0,Atlético de Madrid,Associazione Sportiva Roma
+2917427,CL,2017,Group D,2017-11-22,506,131,0,0,Juventus FC,FC Barcelona
+2917428,CL,2017,Group D,2017-11-22,336,683,3,1,Sporting CP,Olympiakos Syndesmos Filathlon Peiraios
+2917437,CL,2017,Group A,2017-12-05,294,26,0,2,SL Benfica,FC Basel 1893
+2917438,CL,2017,Group A,2017-12-05,985,2410,2,1,Manchester United,PFK CSKA Moskva
+2917439,CL,2017,Group B,2017-12-05,27,583,3,1,Bayern Munich,Paris Saint-Germain
+2917440,CL,2017,Group B,2017-12-05,371,58,0,1,Celtic FC,RSC Anderlecht
+2917441,CL,2017,Group C,2017-12-05,631,13,1,1,Chelsea FC,Atlético de Madrid
+2917442,CL,2017,Group C,2017-12-05,12,10625,1,0,Associazione Sportiva Roma,Qarabağ FK
+2917443,CL,2017,Group D,2017-12-05,131,336,2,0,FC Barcelona,Sporting CP
+2917444,CL,2017,Group D,2017-12-05,683,506,0,2,Olympiakos Syndesmos Filathlon Peiraios,Juventus FC
+2917445,CL,2017,Group E,2017-12-06,790,368,1,1,NK Maribor,Sevilla FC
+2917446,CL,2017,Group E,2017-12-06,31,232,7,0,Liverpool FC,FK Spartak Moskva
+2917447,CL,2017,Group F,2017-12-06,234,6195,2,1,Feyenoord Rotterdam,SSC Napoli
+2917448,CL,2017,Group F,2017-12-06,660,281,2,1,FC Shakhtar Donetsk,Manchester City
+2917449,CL,2017,Group G,2017-12-06,23826,114,1,2,RB Leipzig,Beşiktaş Jimnastik Kulübü
+2917450,CL,2017,Group G,2017-12-06,720,162,5,2,FC Porto,AS Monaco
+2917451,CL,2017,Group H,2017-12-06,418,16,3,2,Real Madrid,Borussia Dortmund
+2917452,CL,2017,Group H,2017-12-06,148,2784,3,0,Tottenham Hotspur,APOEL Nicosia
+3097955,CL,2018,Group A,2018-09-18,2282,16,0,1,Club Brugge KV,Borussia Dortmund
+3097956,CL,2018,Group A,2018-09-18,162,13,1,2,AS Monaco,Atlético de Madrid
+3097957,CL,2018,Group B,2018-09-18,131,383,4,0,FC Barcelona,PSV Eindhoven
+3097958,CL,2018,Group B,2018-09-18,46,148,2,1,Inter Milan,Tottenham Hotspur
+3097959,CL,2018,Group C,2018-09-18,159,6195,0,0,Red Star Belgrade,SSC Napoli
+3097960,CL,2018,Group C,2018-09-18,31,583,3,2,Liverpool FC,Paris Saint-Germain
+3097961,CL,2018,Group D,2018-09-18,33,720,1,1,FC Schalke 04,FC Porto
+3097962,CL,2018,Group D,2018-09-18,141,932,3,0,Galatasaray,"Футбольный клуб ""Локомотив"" Москва"
+3097963,CL,2018,Group E,2018-09-19,610,2441,3,0,Ajax Amsterdam,Athlitiki Enosi Konstantinoupoleos
+3097964,CL,2018,Group E,2018-09-19,294,27,0,2,SL Benfica,Bayern Munich
+3097965,CL,2018,Group F,2018-09-19,660,533,2,2,FC Shakhtar Donetsk,TSG 1899 Hoffenheim
+3097966,CL,2018,Group F,2018-09-19,281,1041,1,2,Manchester City,Olympique Lyon
+3097967,CL,2018,Group G,2018-09-19,418,12,3,0,Real Madrid,Associazione Sportiva Roma
+3097968,CL,2018,Group G,2018-09-19,941,2410,2,2,FC Viktoria Plzen,PFK CSKA Moskva
+3097969,CL,2018,Group H,2018-09-19,1049,506,0,2,Valencia CF,Juventus FC
+3097970,CL,2018,Group H,2018-09-19,452,985,0,3,BSC Young Boys,Manchester United
+3097987,CL,2018,Group E,2018-10-02,27,610,1,1,Bayern Munich,Ajax Amsterdam
+3097988,CL,2018,Group E,2018-10-02,2441,294,2,3,Athlitiki Enosi Konstantinoupoleos,SL Benfica
+3097989,CL,2018,Group F,2018-10-02,533,281,1,2,TSG 1899 Hoffenheim,Manchester City
+3097990,CL,2018,Group F,2018-10-02,1041,660,2,2,Olympique Lyon,FC Shakhtar Donetsk
+3097991,CL,2018,Group G,2018-10-02,2410,418,1,0,PFK CSKA Moskva,Real Madrid
+3097992,CL,2018,Group G,2018-10-02,12,941,5,0,Associazione Sportiva Roma,FC Viktoria Plzen
+3097993,CL,2018,Group H,2018-10-02,506,452,3,0,Juventus FC,BSC Young Boys
+3097994,CL,2018,Group H,2018-10-02,985,1049,0,0,Manchester United,Valencia CF
+3097979,CL,2018,Group A,2018-10-03,13,2282,3,1,Atlético de Madrid,Club Brugge KV
+3097980,CL,2018,Group A,2018-10-03,16,162,3,0,Borussia Dortmund,AS Monaco
+3097981,CL,2018,Group B,2018-10-03,148,131,2,4,Tottenham Hotspur,FC Barcelona
+3097982,CL,2018,Group B,2018-10-03,383,46,1,2,PSV Eindhoven,Inter Milan
+3097983,CL,2018,Group C,2018-10-03,583,159,6,1,Paris Saint-Germain,Red Star Belgrade
+3097984,CL,2018,Group C,2018-10-03,6195,31,1,0,SSC Napoli,Liverpool FC
+3097985,CL,2018,Group D,2018-10-03,932,33,0,1,"Футбольный клуб ""Локомотив"" Москва",FC Schalke 04
+3097986,CL,2018,Group D,2018-10-03,720,141,1,0,FC Porto,Galatasaray
+3098003,CL,2018,Group E,2018-10-23,610,294,1,0,Ajax Amsterdam,SL Benfica
+3098004,CL,2018,Group E,2018-10-23,2441,27,0,2,Athlitiki Enosi Konstantinoupoleos,Bayern Munich
+3098005,CL,2018,Group F,2018-10-23,660,281,0,3,FC Shakhtar Donetsk,Manchester City
+3098006,CL,2018,Group F,2018-10-23,533,1041,3,3,TSG 1899 Hoffenheim,Olympique Lyon
+3098007,CL,2018,Group G,2018-10-23,418,941,2,1,Real Madrid,FC Viktoria Plzen
+3098008,CL,2018,Group G,2018-10-23,12,2410,3,0,Associazione Sportiva Roma,PFK CSKA Moskva
+3098009,CL,2018,Group H,2018-10-23,452,1049,1,1,BSC Young Boys,Valencia CF
+3098010,CL,2018,Group H,2018-10-23,985,506,0,1,Manchester United,Juventus FC
+3097995,CL,2018,Group A,2018-10-24,2282,162,1,1,Club Brugge KV,AS Monaco
+3097996,CL,2018,Group A,2018-10-24,16,13,4,0,Borussia Dortmund,Atlético de Madrid
+3097997,CL,2018,Group B,2018-10-24,383,148,2,2,PSV Eindhoven,Tottenham Hotspur
+3097998,CL,2018,Group B,2018-10-24,131,46,2,0,FC Barcelona,Inter Milan
+3097999,CL,2018,Group C,2018-10-24,583,6195,2,2,Paris Saint-Germain,SSC Napoli
+3098000,CL,2018,Group C,2018-10-24,31,159,4,0,Liverpool FC,Red Star Belgrade
+3098001,CL,2018,Group D,2018-10-24,932,720,1,3,"Футбольный клуб ""Локомотив"" Москва",FC Porto
+3098002,CL,2018,Group D,2018-10-24,141,33,0,0,Galatasaray,FC Schalke 04
+3098011,CL,2018,Group A,2018-11-06,13,16,2,0,Atlético de Madrid,Borussia Dortmund
+3098012,CL,2018,Group A,2018-11-06,162,2282,0,4,AS Monaco,Club Brugge KV
+3098013,CL,2018,Group B,2018-11-06,148,383,2,1,Tottenham Hotspur,PSV Eindhoven
+3098014,CL,2018,Group B,2018-11-06,46,131,1,1,Inter Milan,FC Barcelona
+3098015,CL,2018,Group C,2018-11-06,159,31,2,0,Red Star Belgrade,Liverpool FC
+3098016,CL,2018,Group C,2018-11-06,6195,583,1,1,SSC Napoli,Paris Saint-Germain
+3098017,CL,2018,Group D,2018-11-06,33,141,2,0,FC Schalke 04,Galatasaray
+3098018,CL,2018,Group D,2018-11-06,720,932,4,1,FC Porto,"Футбольный клуб ""Локомотив"" Москва"
+3098019,CL,2018,Group E,2018-11-07,27,2441,2,0,Bayern Munich,Athlitiki Enosi Konstantinoupoleos
+3098020,CL,2018,Group E,2018-11-07,294,610,1,1,SL Benfica,Ajax Amsterdam
+3098021,CL,2018,Group F,2018-11-07,281,660,6,0,Manchester City,FC Shakhtar Donetsk
+3098022,CL,2018,Group F,2018-11-07,1041,533,2,2,Olympique Lyon,TSG 1899 Hoffenheim
+3098023,CL,2018,Group G,2018-11-07,2410,12,1,2,PFK CSKA Moskva,Associazione Sportiva Roma
+3098024,CL,2018,Group G,2018-11-07,941,418,0,5,FC Viktoria Plzen,Real Madrid
+3098025,CL,2018,Group H,2018-11-07,1049,452,3,1,Valencia CF,BSC Young Boys
+3098026,CL,2018,Group H,2018-11-07,506,985,1,2,Juventus FC,Manchester United
+3098035,CL,2018,Group E,2018-11-27,27,294,5,1,Bayern Munich,SL Benfica
+3098036,CL,2018,Group E,2018-11-27,2441,610,0,2,Athlitiki Enosi Konstantinoupoleos,Ajax Amsterdam
+3098037,CL,2018,Group F,2018-11-27,1041,281,2,2,Olympique Lyon,Manchester City
+3098038,CL,2018,Group F,2018-11-27,533,660,2,3,TSG 1899 Hoffenheim,FC Shakhtar Donetsk
+3098039,CL,2018,Group G,2018-11-27,2410,941,1,2,PFK CSKA Moskva,FC Viktoria Plzen
+3098040,CL,2018,Group G,2018-11-27,12,418,0,2,Associazione Sportiva Roma,Real Madrid
+3098041,CL,2018,Group H,2018-11-27,985,452,1,0,Manchester United,BSC Young Boys
+3098042,CL,2018,Group H,2018-11-27,506,1049,1,0,Juventus FC,Valencia CF
+3098027,CL,2018,Group A,2018-11-28,13,162,2,0,Atlético de Madrid,AS Monaco
+3098028,CL,2018,Group A,2018-11-28,16,2282,0,0,Borussia Dortmund,Club Brugge KV
+3098029,CL,2018,Group B,2018-11-28,383,131,1,2,PSV Eindhoven,FC Barcelona
+3098030,CL,2018,Group B,2018-11-28,148,46,1,0,Tottenham Hotspur,Inter Milan
+3098031,CL,2018,Group C,2018-11-28,583,31,2,1,Paris Saint-Germain,Liverpool FC
+3098032,CL,2018,Group C,2018-11-28,6195,159,3,1,SSC Napoli,Red Star Belgrade
+3098033,CL,2018,Group D,2018-11-28,720,33,3,1,FC Porto,FC Schalke 04
+3098034,CL,2018,Group D,2018-11-28,932,141,2,0,"Футбольный клуб ""Локомотив"" Москва",Galatasaray
+3098043,CL,2018,Group A,2018-12-11,2282,13,0,0,Club Brugge KV,Atlético de Madrid
+3098044,CL,2018,Group A,2018-12-11,162,16,0,2,AS Monaco,Borussia Dortmund
+3098045,CL,2018,Group B,2018-12-11,131,148,1,1,FC Barcelona,Tottenham Hotspur
+3098046,CL,2018,Group B,2018-12-11,46,383,1,1,Inter Milan,PSV Eindhoven
+3098047,CL,2018,Group C,2018-12-11,159,583,1,4,Red Star Belgrade,Paris Saint-Germain
+3098048,CL,2018,Group C,2018-12-11,31,6195,1,0,Liverpool FC,SSC Napoli
+3098049,CL,2018,Group D,2018-12-11,33,932,1,0,FC Schalke 04,"Футбольный клуб ""Локомотив"" Москва"
+3098050,CL,2018,Group D,2018-12-11,141,720,2,3,Galatasaray,FC Porto
+3098051,CL,2018,Group E,2018-12-12,294,2441,1,0,SL Benfica,Athlitiki Enosi Konstantinoupoleos
+3098052,CL,2018,Group E,2018-12-12,610,27,3,3,Ajax Amsterdam,Bayern Munich
+3098053,CL,2018,Group F,2018-12-12,660,1041,1,1,FC Shakhtar Donetsk,Olympique Lyon
+3098054,CL,2018,Group F,2018-12-12,281,533,2,1,Manchester City,TSG 1899 Hoffenheim
+3098055,CL,2018,Group G,2018-12-12,418,2410,0,3,Real Madrid,PFK CSKA Moskva
+3098056,CL,2018,Group G,2018-12-12,941,12,2,1,FC Viktoria Plzen,Associazione Sportiva Roma
+3098057,CL,2018,Group H,2018-12-12,452,506,2,1,BSC Young Boys,Juventus FC
+3098058,CL,2018,Group H,2018-12-12,1049,985,2,1,Valencia CF,Manchester United
+3252154,CL,2019,Group E,2019-09-17,409,1184,6,2,Fußballclub Red Bull Salzburg,KRC Genk
+3252155,CL,2019,Group E,2019-09-17,6195,31,2,0,SSC Napoli,Liverpool FC
+3252156,CL,2019,Group F,2019-09-17,46,62,1,1,Inter Milan,SK Slavia Prague
+3252157,CL,2019,Group F,2019-09-17,16,131,0,0,Borussia Dortmund,FC Barcelona
+3252158,CL,2019,Group G,2019-09-17,1041,964,1,1,Olympique Lyon,AO FK Zenit Sankt-Peterburg
+3252159,CL,2019,Group G,2019-09-17,294,23826,1,2,SL Benfica,RB Leipzig
+3252160,CL,2019,Group H,2019-09-17,610,1082,3,0,Ajax Amsterdam,LOSC Lille
+3252161,CL,2019,Group H,2019-09-17,631,1049,0,1,Chelsea FC,Valencia CF
+3252146,CL,2019,Group A,2019-09-18,2282,141,0,0,Club Brugge KV,Galatasaray
+3252147,CL,2019,Group A,2019-09-18,583,418,3,0,Paris Saint-Germain,Real Madrid
+3252148,CL,2019,Group B,2019-09-18,683,148,2,2,Olympiakos Syndesmos Filathlon Peiraios,Tottenham Hotspur
+3252149,CL,2019,Group B,2019-09-18,27,159,3,0,Bayern Munich,Red Star Belgrade
+3252150,CL,2019,Group C,2019-09-18,419,800,4,0,GNK Dinamo Zagreb,Atalanta BC
+3252151,CL,2019,Group C,2019-09-18,660,281,0,3,FC Shakhtar Donetsk,Manchester City
+3252152,CL,2019,Group D,2019-09-18,13,506,2,2,Atlético de Madrid,Juventus FC
+3252153,CL,2019,Group D,2019-09-18,15,932,1,2,Bayer 04 Leverkusen,"Футбольный клуб ""Локомотив"" Москва"
+3252162,CL,2019,Group A,2019-10-01,418,2282,2,2,Real Madrid,Club Brugge KV
+3252163,CL,2019,Group A,2019-10-01,141,583,0,1,Galatasaray,Paris Saint-Germain
+3252164,CL,2019,Group B,2019-10-01,159,683,3,1,Red Star Belgrade,Olympiakos Syndesmos Filathlon Peiraios
+3252165,CL,2019,Group B,2019-10-01,148,27,2,7,Tottenham Hotspur,Bayern Munich
+3252166,CL,2019,Group C,2019-10-01,800,660,1,2,Atalanta BC,FC Shakhtar Donetsk
+3252167,CL,2019,Group C,2019-10-01,281,419,2,0,Manchester City,GNK Dinamo Zagreb
+3252168,CL,2019,Group D,2019-10-01,506,15,3,0,Juventus FC,Bayer 04 Leverkusen
+3252169,CL,2019,Group D,2019-10-01,932,13,0,2,"Футбольный клуб ""Локомотив"" Москва",Atlético de Madrid
+3252170,CL,2019,Group E,2019-10-02,1184,6195,0,0,KRC Genk,SSC Napoli
+3252171,CL,2019,Group E,2019-10-02,31,409,4,3,Liverpool FC,Fußballclub Red Bull Salzburg
+3252172,CL,2019,Group F,2019-10-02,62,16,0,2,SK Slavia Prague,Borussia Dortmund
+3252173,CL,2019,Group F,2019-10-02,131,46,2,1,FC Barcelona,Inter Milan
+3252174,CL,2019,Group G,2019-10-02,23826,1041,0,2,RB Leipzig,Olympique Lyon
+3252175,CL,2019,Group G,2019-10-02,964,294,3,1,AO FK Zenit Sankt-Peterburg,SL Benfica
+3252176,CL,2019,Group H,2019-10-02,1082,631,1,2,LOSC Lille,Chelsea FC
+3252177,CL,2019,Group H,2019-10-02,1049,610,0,3,Valencia CF,Ajax Amsterdam
+3252186,CL,2019,Group A,2019-10-22,2282,583,0,5,Club Brugge KV,Paris Saint-Germain
+3252187,CL,2019,Group A,2019-10-22,141,418,0,1,Galatasaray,Real Madrid
+3252188,CL,2019,Group B,2019-10-22,683,27,2,3,Olympiakos Syndesmos Filathlon Peiraios,Bayern Munich
+3252189,CL,2019,Group B,2019-10-22,148,159,5,0,Tottenham Hotspur,Red Star Belgrade
+3252190,CL,2019,Group C,2019-10-22,660,419,2,2,FC Shakhtar Donetsk,GNK Dinamo Zagreb
+3252191,CL,2019,Group C,2019-10-22,281,800,5,1,Manchester City,Atalanta BC
+3252192,CL,2019,Group D,2019-10-22,13,15,1,0,Atlético de Madrid,Bayer 04 Leverkusen
+3252193,CL,2019,Group D,2019-10-22,506,932,2,1,Juventus FC,"Футбольный клуб ""Локомотив"" Москва"
+3252194,CL,2019,Group E,2019-10-23,409,6195,2,3,Fußballclub Red Bull Salzburg,SSC Napoli
+3252195,CL,2019,Group E,2019-10-23,1184,31,1,4,KRC Genk,Liverpool FC
+3252196,CL,2019,Group F,2019-10-23,46,16,2,0,Inter Milan,Borussia Dortmund
+3252197,CL,2019,Group F,2019-10-23,62,131,1,2,SK Slavia Prague,FC Barcelona
+3252198,CL,2019,Group G,2019-10-23,23826,964,2,1,RB Leipzig,AO FK Zenit Sankt-Peterburg
+3252199,CL,2019,Group G,2019-10-23,294,1041,2,1,SL Benfica,Olympique Lyon
+3252200,CL,2019,Group H,2019-10-23,610,631,0,1,Ajax Amsterdam,Chelsea FC
+3252201,CL,2019,Group H,2019-10-23,1082,1049,1,1,LOSC Lille,Valencia CF
+3252202,CL,2019,Group E,2019-11-05,31,1184,2,1,Liverpool FC,KRC Genk
+3252203,CL,2019,Group E,2019-11-05,6195,409,1,1,SSC Napoli,Fußballclub Red Bull Salzburg
+3252204,CL,2019,Group F,2019-11-05,131,62,0,0,FC Barcelona,SK Slavia Prague
+3252205,CL,2019,Group F,2019-11-05,16,46,3,2,Borussia Dortmund,Inter Milan
+3252206,CL,2019,Group G,2019-11-05,964,23826,0,2,AO FK Zenit Sankt-Peterburg,RB Leipzig
+3252207,CL,2019,Group G,2019-11-05,1041,294,3,1,Olympique Lyon,SL Benfica
+3252208,CL,2019,Group H,2019-11-05,631,610,4,4,Chelsea FC,Ajax Amsterdam
+3252209,CL,2019,Group H,2019-11-05,1049,1082,4,1,Valencia CF,LOSC Lille
+3252210,CL,2019,Group A,2019-11-06,583,2282,1,0,Paris Saint-Germain,Club Brugge KV
+3252211,CL,2019,Group A,2019-11-06,418,141,6,0,Real Madrid,Galatasaray
+3252212,CL,2019,Group B,2019-11-06,27,683,2,0,Bayern Munich,Olympiakos Syndesmos Filathlon Peiraios
+3252213,CL,2019,Group B,2019-11-06,159,148,0,4,Red Star Belgrade,Tottenham Hotspur
+3252214,CL,2019,Group C,2019-11-06,800,281,1,1,Atalanta BC,Manchester City
+3252215,CL,2019,Group C,2019-11-06,419,660,3,3,GNK Dinamo Zagreb,FC Shakhtar Donetsk
+3252216,CL,2019,Group D,2019-11-06,932,506,1,2,"Футбольный клуб ""Локомотив"" Москва",Juventus FC
+3252217,CL,2019,Group D,2019-11-06,15,13,2,1,Bayer 04 Leverkusen,Atlético de Madrid
+3252218,CL,2019,Group A,2019-11-26,141,2282,1,1,Galatasaray,Club Brugge KV
+3252219,CL,2019,Group A,2019-11-26,418,583,2,2,Real Madrid,Paris Saint-Germain
+3252220,CL,2019,Group B,2019-11-26,159,27,0,6,Red Star Belgrade,Bayern Munich
+3252221,CL,2019,Group B,2019-11-26,148,683,4,2,Tottenham Hotspur,Olympiakos Syndesmos Filathlon Peiraios
+3252222,CL,2019,Group C,2019-11-26,800,419,2,0,Atalanta BC,GNK Dinamo Zagreb
+3252224,CL,2019,Group D,2019-11-26,932,15,0,2,"Футбольный клуб ""Локомотив"" Москва",Bayer 04 Leverkusen
+3252225,CL,2019,Group D,2019-11-26,506,13,1,0,Juventus FC,Atlético de Madrid
+3260672,CL,2019,Group C,2019-11-26,281,660,1,1,Manchester City,FC Shakhtar Donetsk
+3252226,CL,2019,Group E,2019-11-27,1184,409,1,4,KRC Genk,Fußballclub Red Bull Salzburg
+3252227,CL,2019,Group E,2019-11-27,31,6195,1,1,Liverpool FC,SSC Napoli
+3252228,CL,2019,Group F,2019-11-27,131,16,3,1,FC Barcelona,Borussia Dortmund
+3252229,CL,2019,Group F,2019-11-27,62,46,1,3,SK Slavia Prague,Inter Milan
+3252230,CL,2019,Group G,2019-11-27,964,1041,2,0,AO FK Zenit Sankt-Peterburg,Olympique Lyon
+3252231,CL,2019,Group G,2019-11-27,23826,294,2,2,RB Leipzig,SL Benfica
+3252232,CL,2019,Group H,2019-11-27,1049,631,2,2,Valencia CF,Chelsea FC
+3252233,CL,2019,Group H,2019-11-27,1082,610,0,2,LOSC Lille,Ajax Amsterdam
+3252234,CL,2019,Group E,2019-12-10,409,31,0,2,Fußballclub Red Bull Salzburg,Liverpool FC
+3252235,CL,2019,Group E,2019-12-10,6195,1184,4,0,SSC Napoli,KRC Genk
+3252236,CL,2019,Group F,2019-12-10,16,62,2,1,Borussia Dortmund,SK Slavia Prague
+3252237,CL,2019,Group F,2019-12-10,46,131,1,2,Inter Milan,FC Barcelona
+3252238,CL,2019,Group G,2019-12-10,294,964,3,0,SL Benfica,AO FK Zenit Sankt-Peterburg
+3252239,CL,2019,Group G,2019-12-10,1041,23826,2,2,Olympique Lyon,RB Leipzig
+3252240,CL,2019,Group H,2019-12-10,610,1049,0,1,Ajax Amsterdam,Valencia CF
+3252241,CL,2019,Group H,2019-12-10,631,1082,2,1,Chelsea FC,LOSC Lille
+3252242,CL,2019,Group A,2019-12-11,2282,418,1,3,Club Brugge KV,Real Madrid
+3252243,CL,2019,Group A,2019-12-11,583,141,5,0,Paris Saint-Germain,Galatasaray
+3252244,CL,2019,Group B,2019-12-11,27,148,3,1,Bayern Munich,Tottenham Hotspur
+3252245,CL,2019,Group B,2019-12-11,683,159,1,0,Olympiakos Syndesmos Filathlon Peiraios,Red Star Belgrade
+3252246,CL,2019,Group C,2019-12-11,419,281,1,4,GNK Dinamo Zagreb,Manchester City
+3252247,CL,2019,Group C,2019-12-11,660,800,0,3,FC Shakhtar Donetsk,Atalanta BC
+3252248,CL,2019,Group D,2019-12-11,13,932,2,0,Atlético de Madrid,"Футбольный клуб ""Локомотив"" Москва"
+3252249,CL,2019,Group D,2019-12-11,15,506,0,2,Bayer 04 Leverkusen,Juventus FC
+3461718,CL,2020,Group E,2020-10-20,631,368,0,0,Chelsea FC,Sevilla FC
+3461719,CL,2020,Group E,2020-10-20,273,16704,1,1,Stade Rennais FC,FK Krasnodar
+3461720,CL,2020,Group F,2020-10-20,964,2282,1,2,AO FK Zenit Sankt-Peterburg,Club Brugge KV
+3461721,CL,2020,Group F,2020-10-20,398,16,3,1,Società Sportiva Lazio S.p.A.,Borussia Dortmund
+3461722,CL,2020,Group G,2020-10-20,338,506,0,2,Dynamo Kyiv,Juventus FC
+3461723,CL,2020,Group G,2020-10-20,131,279,5,1,FC Barcelona,Ferencvárosi TC
+3461724,CL,2020,Group H,2020-10-20,583,985,1,2,Paris Saint-Germain,Manchester United
+3461725,CL,2020,Group H,2020-10-20,23826,6890,2,0,RB Leipzig,Basaksehir FK
+3461710,CL,2020,Group A,2020-10-21,409,932,2,2,Fußballclub Red Bull Salzburg,"Футбольный клуб ""Локомотив"" Москва"
+3461711,CL,2020,Group A,2020-10-21,27,13,4,0,Bayern Munich,Atlético de Madrid
+3461712,CL,2020,Group B,2020-10-21,418,660,2,3,Real Madrid,FC Shakhtar Donetsk
+3461713,CL,2020,Group B,2020-10-21,46,18,2,2,Inter Milan,Borussia Mönchengladbach
+3461714,CL,2020,Group C,2020-10-21,281,720,3,1,Manchester City,FC Porto
+3461715,CL,2020,Group C,2020-10-21,683,244,1,0,Olympiakos Syndesmos Filathlon Peiraios,Olympique Marseille
+3461716,CL,2020,Group D,2020-10-21,610,31,0,1,Ajax Amsterdam,Liverpool FC
+3461717,CL,2020,Group D,2020-10-21,865,800,0,4,FC Midtjylland,Atalanta BC
+3461733,CL,2020,Group A,2020-10-27,932,27,1,2,"Футбольный клуб ""Локомотив"" Москва",Bayern Munich
+3461734,CL,2020,Group A,2020-10-27,13,409,3,2,Atlético de Madrid,Fußballclub Red Bull Salzburg
+3461735,CL,2020,Group B,2020-10-27,660,46,0,0,FC Shakhtar Donetsk,Inter Milan
+3461736,CL,2020,Group B,2020-10-27,18,418,2,2,Borussia Mönchengladbach,Real Madrid
+3461737,CL,2020,Group C,2020-10-27,720,683,2,0,FC Porto,Olympiakos Syndesmos Filathlon Peiraios
+3461738,CL,2020,Group C,2020-10-27,244,281,0,3,Olympique Marseille,Manchester City
+3461739,CL,2020,Group D,2020-10-27,31,865,2,0,Liverpool FC,FC Midtjylland
+3461740,CL,2020,Group D,2020-10-27,800,610,2,2,Atalanta BC,Ajax Amsterdam
+3461741,CL,2020,Group E,2020-10-28,16704,631,0,4,FK Krasnodar,Chelsea FC
+3461742,CL,2020,Group E,2020-10-28,368,273,1,0,Sevilla FC,Stade Rennais FC
+3461743,CL,2020,Group F,2020-10-28,16,964,2,0,Borussia Dortmund,AO FK Zenit Sankt-Peterburg
+3461744,CL,2020,Group F,2020-10-28,2282,398,1,1,Club Brugge KV,Società Sportiva Lazio S.p.A.
+3461745,CL,2020,Group G,2020-10-28,279,338,2,2,Ferencvárosi TC,Dynamo Kyiv
+3461746,CL,2020,Group G,2020-10-28,506,131,0,2,Juventus FC,FC Barcelona
+3461747,CL,2020,Group H,2020-10-28,6890,583,0,2,Basaksehir FK,Paris Saint-Germain
+3461748,CL,2020,Group H,2020-10-28,985,23826,5,0,Manchester United,RB Leipzig
+3461749,CL,2020,Group A,2020-11-03,932,13,1,1,"Футбольный клуб ""Локомотив"" Москва",Atlético de Madrid
+3461750,CL,2020,Group A,2020-11-03,409,27,2,6,Fußballclub Red Bull Salzburg,Bayern Munich
+3461751,CL,2020,Group B,2020-11-03,660,18,0,6,FC Shakhtar Donetsk,Borussia Mönchengladbach
+3461752,CL,2020,Group B,2020-11-03,418,46,3,2,Real Madrid,Inter Milan
+3461753,CL,2020,Group C,2020-11-03,281,683,3,0,Manchester City,Olympiakos Syndesmos Filathlon Peiraios
+3461755,CL,2020,Group D,2020-11-03,865,610,1,2,FC Midtjylland,Ajax Amsterdam
+3461756,CL,2020,Group D,2020-11-03,800,31,0,5,Atalanta BC,Liverpool FC
+3482811,CL,2020,Group C,2020-11-03,720,244,3,0,FC Porto,Olympique Marseille
+3461757,CL,2020,Group E,2020-11-04,368,16704,3,2,Sevilla FC,FK Krasnodar
+3461758,CL,2020,Group E,2020-11-04,631,273,3,0,Chelsea FC,Stade Rennais FC
+3461759,CL,2020,Group F,2020-11-04,964,398,1,1,AO FK Zenit Sankt-Peterburg,Società Sportiva Lazio S.p.A.
+3461760,CL,2020,Group F,2020-11-04,2282,16,0,3,Club Brugge KV,Borussia Dortmund
+3461761,CL,2020,Group G,2020-11-04,131,338,2,1,FC Barcelona,Dynamo Kyiv
+3461762,CL,2020,Group G,2020-11-04,279,506,1,4,Ferencvárosi TC,Juventus FC
+3461763,CL,2020,Group H,2020-11-04,6890,985,2,1,Basaksehir FK,Manchester United
+3461764,CL,2020,Group H,2020-11-04,23826,583,2,1,RB Leipzig,Paris Saint-Germain
+3461773,CL,2020,Group E,2020-11-24,16704,368,1,2,FK Krasnodar,Sevilla FC
+3461774,CL,2020,Group E,2020-11-24,273,631,1,2,Stade Rennais FC,Chelsea FC
+3461775,CL,2020,Group F,2020-11-24,16,2282,3,0,Borussia Dortmund,Club Brugge KV
+3461776,CL,2020,Group F,2020-11-24,398,964,3,1,Società Sportiva Lazio S.p.A.,AO FK Zenit Sankt-Peterburg
+3461777,CL,2020,Group G,2020-11-24,506,279,2,1,Juventus FC,Ferencvárosi TC
+3461778,CL,2020,Group G,2020-11-24,338,131,0,4,Dynamo Kyiv,FC Barcelona
+3461779,CL,2020,Group H,2020-11-24,583,23826,1,0,Paris Saint-Germain,RB Leipzig
+3461780,CL,2020,Group H,2020-11-24,985,6890,4,1,Manchester United,Basaksehir FK
+3461765,CL,2020,Group A,2020-11-25,27,409,3,1,Bayern Munich,Fußballclub Red Bull Salzburg
+3461766,CL,2020,Group A,2020-11-25,13,932,0,0,Atlético de Madrid,"Футбольный клуб ""Локомотив"" Москва"
+3461767,CL,2020,Group B,2020-11-25,18,660,4,0,Borussia Mönchengladbach,FC Shakhtar Donetsk
+3461768,CL,2020,Group B,2020-11-25,46,418,0,2,Inter Milan,Real Madrid
+3461769,CL,2020,Group C,2020-11-25,683,281,0,1,Olympiakos Syndesmos Filathlon Peiraios,Manchester City
+3461770,CL,2020,Group C,2020-11-25,244,720,0,2,Olympique Marseille,FC Porto
+3461771,CL,2020,Group D,2020-11-25,31,800,0,2,Liverpool FC,Atalanta BC
+3461772,CL,2020,Group D,2020-11-25,610,865,3,1,Ajax Amsterdam,FC Midtjylland
+3461782,CL,2020,Group D,2020-12-01,31,610,1,0,Liverpool FC,Ajax Amsterdam
+3461783,CL,2020,Group D,2020-12-01,800,865,1,1,Atalanta BC,FC Midtjylland
+3461802,CL,2020,Group A,2020-12-01,932,409,1,3,"Футбольный клуб ""Локомотив"" Москва",Fußballclub Red Bull Salzburg
+3461803,CL,2020,Group A,2020-12-01,13,27,1,1,Atlético de Madrid,Bayern Munich
+3461804,CL,2020,Group B,2020-12-01,660,418,2,0,FC Shakhtar Donetsk,Real Madrid
+3461805,CL,2020,Group B,2020-12-01,18,46,2,3,Borussia Mönchengladbach,Inter Milan
+3461806,CL,2020,Group C,2020-12-01,720,281,0,0,FC Porto,Manchester City
+3461807,CL,2020,Group C,2020-12-01,244,683,2,1,Olympique Marseille,Olympiakos Syndesmos Filathlon Peiraios
+3461784,CL,2020,Group E,2020-12-02,16704,273,1,0,FK Krasnodar,Stade Rennais FC
+3461785,CL,2020,Group E,2020-12-02,368,631,0,4,Sevilla FC,Chelsea FC
+3461786,CL,2020,Group F,2020-12-02,16,398,1,1,Borussia Dortmund,Società Sportiva Lazio S.p.A.
+3461787,CL,2020,Group F,2020-12-02,2282,964,3,0,Club Brugge KV,AO FK Zenit Sankt-Peterburg
+3461788,CL,2020,Group G,2020-12-02,506,338,3,0,Juventus FC,Dynamo Kyiv
+3461789,CL,2020,Group G,2020-12-02,279,131,0,3,Ferencvárosi TC,FC Barcelona
+3461790,CL,2020,Group H,2020-12-02,6890,23826,3,4,Basaksehir FK,RB Leipzig
+3461791,CL,2020,Group H,2020-12-02,985,583,1,3,Manchester United,Paris Saint-Germain
+3461816,CL,2020,Group E,2020-12-08,631,16704,1,1,Chelsea FC,FK Krasnodar
+3461817,CL,2020,Group E,2020-12-08,273,368,1,3,Stade Rennais FC,Sevilla FC
+3461818,CL,2020,Group F,2020-12-08,964,16,1,2,AO FK Zenit Sankt-Peterburg,Borussia Dortmund
+3461819,CL,2020,Group F,2020-12-08,398,2282,2,2,Società Sportiva Lazio S.p.A.,Club Brugge KV
+3461820,CL,2020,Group G,2020-12-08,131,506,0,3,FC Barcelona,Juventus FC
+3461821,CL,2020,Group G,2020-12-08,338,279,1,0,Dynamo Kyiv,Ferencvárosi TC
+3461823,CL,2020,Group H,2020-12-08,23826,985,3,2,RB Leipzig,Manchester United
+3461809,CL,2020,Group A,2020-12-09,409,13,0,2,Fußballclub Red Bull Salzburg,Atlético de Madrid
+3461810,CL,2020,Group B,2020-12-09,418,18,2,0,Real Madrid,Borussia Mönchengladbach
+3461811,CL,2020,Group B,2020-12-09,46,660,0,0,Inter Milan,FC Shakhtar Donetsk
+3461812,CL,2020,Group C,2020-12-09,281,244,3,0,Manchester City,Olympique Marseille
+3461813,CL,2020,Group C,2020-12-09,683,720,0,2,Olympiakos Syndesmos Filathlon Peiraios,FC Porto
+3461814,CL,2020,Group D,2020-12-09,610,800,0,1,Ajax Amsterdam,Atalanta BC
+3461815,CL,2020,Group D,2020-12-09,865,31,1,1,FC Midtjylland,Liverpool FC
+3461822,CL,2020,Group H,2020-12-09,583,6890,5,1,Paris Saint-Germain,Basaksehir FK
+3461824,CL,2020,Group A,2020-12-09,27,932,2,0,Bayern Munich,"Футбольный клуб ""Локомотив"" Москва"
+3651030,CL,2021,Group E,2021-09-14,338,294,0,0,Dynamo Kyiv,SL Benfica
+3651031,CL,2021,Group F,2021-09-14,452,985,2,1,BSC Young Boys,Manchester United
+3651032,CL,2021,Group F,2021-09-14,1050,800,2,2,Villarreal CF,Atalanta BC
+3651033,CL,2021,Group G,2021-09-14,368,409,1,1,Sevilla FC,Fußballclub Red Bull Salzburg
+3651034,CL,2021,Group G,2021-09-14,1082,82,0,0,LOSC Lille,VfL Wolfsburg
+3651035,CL,2021,Group H,2021-09-14,631,964,1,0,Chelsea FC,AO FK Zenit Sankt-Peterburg
+3651036,CL,2021,Group H,2021-09-14,496,506,0,3,Malmö Fotbollförening,Juventus FC
+3651142,CL,2021,Group E,2021-09-14,131,27,0,3,FC Barcelona,Bayern Munich
+3651037,CL,2021,Group A,2021-09-15,281,23826,6,3,Manchester City,RB Leipzig
+3651038,CL,2021,Group A,2021-09-15,2282,583,1,1,Club Brugge KV,Paris Saint-Germain
+3651039,CL,2021,Group B,2021-09-15,13,720,0,0,Atlético de Madrid,FC Porto
+3651040,CL,2021,Group B,2021-09-15,31,5,3,2,Liverpool FC,AC Milan
+3651041,CL,2021,Group C,2021-09-15,114,16,1,2,Beşiktaş Jimnastik Kulübü,Borussia Dortmund
+3651042,CL,2021,Group C,2021-09-15,336,610,1,5,Sporting CP,Ajax Amsterdam
+3651043,CL,2021,Group D,2021-09-15,2481,660,2,0,FC Sheriff Tiraspol,FC Shakhtar Donetsk
+3651044,CL,2021,Group D,2021-09-15,46,418,0,1,Inter Milan,Real Madrid
+3651061,CL,2021,Group A,2021-09-28,583,281,2,0,Paris Saint-Germain,Manchester City
+3651062,CL,2021,Group A,2021-09-28,23826,2282,1,2,RB Leipzig,Club Brugge KV
+3651063,CL,2021,Group B,2021-09-28,5,13,1,2,AC Milan,Atlético de Madrid
+3651064,CL,2021,Group B,2021-09-28,720,31,1,5,FC Porto,Liverpool FC
+3651065,CL,2021,Group C,2021-09-28,610,114,2,0,Ajax Amsterdam,Beşiktaş Jimnastik Kulübü
+3651066,CL,2021,Group C,2021-09-28,16,336,1,0,Borussia Dortmund,Sporting CP
+3651067,CL,2021,Group D,2021-09-28,660,46,0,0,FC Shakhtar Donetsk,Inter Milan
+3651068,CL,2021,Group D,2021-09-28,418,2481,1,2,Real Madrid,FC Sheriff Tiraspol
+3651069,CL,2021,Group E,2021-09-29,27,338,5,0,Bayern Munich,Dynamo Kyiv
+3651070,CL,2021,Group E,2021-09-29,294,131,3,0,SL Benfica,FC Barcelona
+3651071,CL,2021,Group F,2021-09-29,800,452,1,0,Atalanta BC,BSC Young Boys
+3651072,CL,2021,Group F,2021-09-29,985,1050,2,1,Manchester United,Villarreal CF
+3651073,CL,2021,Group G,2021-09-29,409,1082,2,1,Fußballclub Red Bull Salzburg,LOSC Lille
+3651074,CL,2021,Group G,2021-09-29,82,368,1,1,VfL Wolfsburg,Sevilla FC
+3651075,CL,2021,Group H,2021-09-29,964,496,4,0,AO FK Zenit Sankt-Peterburg,Malmö Fotbollförening
+3651076,CL,2021,Group H,2021-09-29,506,631,1,0,Juventus FC,Chelsea FC
+3651077,CL,2021,Group A,2021-10-19,2282,281,1,5,Club Brugge KV,Manchester City
+3651078,CL,2021,Group A,2021-10-19,583,23826,3,2,Paris Saint-Germain,RB Leipzig
+3651079,CL,2021,Group B,2021-10-19,13,31,2,3,Atlético de Madrid,Liverpool FC
+3651080,CL,2021,Group B,2021-10-19,720,5,1,0,FC Porto,AC Milan
+3651081,CL,2021,Group C,2021-10-19,114,336,1,4,Beşiktaş Jimnastik Kulübü,Sporting CP
+3651082,CL,2021,Group C,2021-10-19,610,16,4,0,Ajax Amsterdam,Borussia Dortmund
+3651083,CL,2021,Group D,2021-10-19,660,418,0,5,FC Shakhtar Donetsk,Real Madrid
+3651084,CL,2021,Group D,2021-10-19,46,2481,3,1,Inter Milan,FC Sheriff Tiraspol
+3651085,CL,2021,Group E,2021-10-20,131,338,1,0,FC Barcelona,Dynamo Kyiv
+3651086,CL,2021,Group E,2021-10-20,294,27,0,4,SL Benfica,Bayern Munich
+3651087,CL,2021,Group F,2021-10-20,452,1050,1,4,BSC Young Boys,Villarreal CF
+3651088,CL,2021,Group F,2021-10-20,985,800,3,2,Manchester United,Atalanta BC
+3651089,CL,2021,Group G,2021-10-20,409,82,3,1,Fußballclub Red Bull Salzburg,VfL Wolfsburg
+3651090,CL,2021,Group G,2021-10-20,1082,368,0,0,LOSC Lille,Sevilla FC
+3651091,CL,2021,Group H,2021-10-20,631,496,4,0,Chelsea FC,Malmö Fotbollförening
+3651092,CL,2021,Group H,2021-10-20,964,506,0,1,AO FK Zenit Sankt-Peterburg,Juventus FC
+3651093,CL,2021,Group E,2021-11-02,338,131,0,1,Dynamo Kyiv,FC Barcelona
+3651094,CL,2021,Group E,2021-11-02,27,294,5,2,Bayern Munich,SL Benfica
+3651095,CL,2021,Group F,2021-11-02,1050,452,2,0,Villarreal CF,BSC Young Boys
+3651096,CL,2021,Group F,2021-11-02,800,985,2,2,Atalanta BC,Manchester United
+3651097,CL,2021,Group G,2021-11-02,82,409,2,1,VfL Wolfsburg,Fußballclub Red Bull Salzburg
+3651098,CL,2021,Group G,2021-11-02,368,1082,1,2,Sevilla FC,LOSC Lille
+3651099,CL,2021,Group H,2021-11-02,496,631,0,1,Malmö Fotbollförening,Chelsea FC
+3651100,CL,2021,Group H,2021-11-02,506,964,4,2,Juventus FC,AO FK Zenit Sankt-Peterburg
+3651101,CL,2021,Group A,2021-11-03,281,2282,4,1,Manchester City,Club Brugge KV
+3651102,CL,2021,Group A,2021-11-03,23826,583,2,2,RB Leipzig,Paris Saint-Germain
+3651103,CL,2021,Group B,2021-11-03,5,720,1,1,AC Milan,FC Porto
+3651104,CL,2021,Group B,2021-11-03,31,13,2,0,Liverpool FC,Atlético de Madrid
+3651105,CL,2021,Group C,2021-11-03,336,114,4,0,Sporting CP,Beşiktaş Jimnastik Kulübü
+3651106,CL,2021,Group C,2021-11-03,16,610,1,3,Borussia Dortmund,Ajax Amsterdam
+3651107,CL,2021,Group D,2021-11-03,418,660,2,1,Real Madrid,FC Shakhtar Donetsk
+3651108,CL,2021,Group D,2021-11-03,2481,46,1,3,FC Sheriff Tiraspol,Inter Milan
+3651109,CL,2021,Group E,2021-11-23,338,27,1,2,Dynamo Kyiv,Bayern Munich
+3651110,CL,2021,Group E,2021-11-23,131,294,0,0,FC Barcelona,SL Benfica
+3651111,CL,2021,Group F,2021-11-23,1050,985,0,2,Villarreal CF,Manchester United
+3651112,CL,2021,Group F,2021-11-23,452,800,3,3,BSC Young Boys,Atalanta BC
+3651113,CL,2021,Group G,2021-11-23,368,82,2,0,Sevilla FC,VfL Wolfsburg
+3651114,CL,2021,Group G,2021-11-23,1082,409,1,0,LOSC Lille,Fußballclub Red Bull Salzburg
+3651115,CL,2021,Group H,2021-11-23,496,964,1,1,Malmö Fotbollförening,AO FK Zenit Sankt-Peterburg
+3651116,CL,2021,Group H,2021-11-23,631,506,4,0,Chelsea FC,Juventus FC
+3651117,CL,2021,Group A,2021-11-24,281,583,2,1,Manchester City,Paris Saint-Germain
+3651118,CL,2021,Group A,2021-11-24,2282,23826,0,5,Club Brugge KV,RB Leipzig
+3651119,CL,2021,Group B,2021-11-24,13,5,0,1,Atlético de Madrid,AC Milan
+3651120,CL,2021,Group B,2021-11-24,31,720,2,0,Liverpool FC,FC Porto
+3651121,CL,2021,Group C,2021-11-24,114,610,1,2,Beşiktaş Jimnastik Kulübü,Ajax Amsterdam
+3651122,CL,2021,Group C,2021-11-24,336,16,3,1,Sporting CP,Borussia Dortmund
+3651123,CL,2021,Group D,2021-11-24,46,660,2,0,Inter Milan,FC Shakhtar Donetsk
+3651124,CL,2021,Group D,2021-11-24,2481,418,0,3,FC Sheriff Tiraspol,Real Madrid
+3651125,CL,2021,Group A,2021-12-07,583,2282,4,1,Paris Saint-Germain,Club Brugge KV
+3651126,CL,2021,Group A,2021-12-07,23826,281,2,1,RB Leipzig,Manchester City
+3651127,CL,2021,Group B,2021-12-07,720,13,1,3,FC Porto,Atlético de Madrid
+3651128,CL,2021,Group B,2021-12-07,5,31,1,2,AC Milan,Liverpool FC
+3651129,CL,2021,Group C,2021-12-07,16,114,5,0,Borussia Dortmund,Beşiktaş Jimnastik Kulübü
+3651130,CL,2021,Group C,2021-12-07,610,336,4,2,Ajax Amsterdam,Sporting CP
+3651131,CL,2021,Group D,2021-12-07,418,46,2,0,Real Madrid,Inter Milan
+3651132,CL,2021,Group D,2021-12-07,660,2481,1,1,FC Shakhtar Donetsk,FC Sheriff Tiraspol
+3651133,CL,2021,Group E,2021-12-08,294,338,2,0,SL Benfica,Dynamo Kyiv
+3651134,CL,2021,Group E,2021-12-08,27,131,3,0,Bayern Munich,FC Barcelona
+3651135,CL,2021,Group F,2021-12-08,985,452,1,1,Manchester United,BSC Young Boys
+3651137,CL,2021,Group G,2021-12-08,409,368,1,0,Fußballclub Red Bull Salzburg,Sevilla FC
+3651138,CL,2021,Group G,2021-12-08,82,1082,1,3,VfL Wolfsburg,LOSC Lille
+3651139,CL,2021,Group H,2021-12-08,506,496,1,0,Juventus FC,Malmö Fotbollförening
+3651140,CL,2021,Group H,2021-12-08,964,631,3,3,AO FK Zenit Sankt-Peterburg,Chelsea FC
+3651136,CL,2021,Group F,2021-12-09,800,1050,2,3,Atalanta BC,Villarreal CF
+3911812,CL,2022,Group E,2022-09-06,409,5,1,1,Fußballclub Red Bull Salzburg,AC Milan
+3911816,CL,2022,Group E,2022-09-06,419,631,1,0,GNK Dinamo Zagreb,Chelsea FC
+3911820,CL,2022,Group F,2022-09-06,23826,660,1,4,RB Leipzig,FC Shakhtar Donetsk
+3911826,CL,2022,Group F,2022-09-06,371,418,0,3,Celtic FC,Real Madrid
+3911834,CL,2022,Group G,2022-09-06,368,281,0,4,Sevilla FC,Manchester City
+3913696,CL,2022,Group G,2022-09-06,16,190,3,0,Borussia Dortmund,FC Copenhagen
+3913702,CL,2022,Group H,2022-09-06,583,506,2,1,Paris Saint-Germain,Juventus FC
+3913703,CL,2022,Group H,2022-09-06,294,1064,2,0,SL Benfica,Maccabi Haifa
+3911722,CL,2022,Group A,2022-09-07,610,124,4,0,Ajax Amsterdam,Rangers FC
+3911727,CL,2022,Group A,2022-09-07,6195,31,4,1,SSC Napoli,Liverpool FC
+3911745,CL,2022,Group B,2022-09-07,13,720,2,1,Atlético de Madrid,FC Porto
+3911753,CL,2022,Group B,2022-09-07,2282,15,1,0,Club Brugge KV,Bayer 04 Leverkusen
+3911786,CL,2022,Group C,2022-09-07,131,941,5,1,FC Barcelona,FC Viktoria Plzen
+3911787,CL,2022,Group C,2022-09-07,46,27,0,2,Inter Milan,Bayern Munich
+3911795,CL,2022,Group D,2022-09-07,24,336,0,3,Eintracht Frankfurt,Sporting CP
+3911799,CL,2022,Group D,2022-09-07,148,244,2,0,Tottenham Hotspur,Olympique Marseille
+3911739,CL,2022,Group B,2022-09-13,15,13,2,0,Bayer 04 Leverkusen,Atlético de Madrid
+3911744,CL,2022,Group B,2022-09-13,720,2282,0,4,FC Porto,Club Brugge KV
+3911765,CL,2022,Group C,2022-09-13,27,131,2,0,Bayern Munich,FC Barcelona
+3911792,CL,2022,Group C,2022-09-13,941,46,0,2,FC Viktoria Plzen,Inter Milan
+3911801,CL,2022,Group D,2022-09-13,336,148,2,0,Sporting CP,Tottenham Hotspur
+3911803,CL,2022,Group D,2022-09-13,244,24,0,1,Olympique Marseille,Eintracht Frankfurt
+3913722,CL,2022,Group A,2022-09-13,31,610,2,1,Liverpool FC,Ajax Amsterdam
+3911731,CL,2022,Group A,2022-09-14,124,6195,0,3,Rangers FC,SSC Napoli
+3911808,CL,2022,Group E,2022-09-14,5,419,3,1,AC Milan,GNK Dinamo Zagreb
+3911810,CL,2022,Group E,2022-09-14,631,409,1,1,Chelsea FC,Fußballclub Red Bull Salzburg
+3911825,CL,2022,Group F,2022-09-14,660,371,1,1,FC Shakhtar Donetsk,Celtic FC
+3911829,CL,2022,Group F,2022-09-14,418,23826,2,0,Real Madrid,RB Leipzig
+3911832,CL,2022,Group G,2022-09-14,281,16,2,1,Manchester City,Borussia Dortmund
+3913697,CL,2022,Group G,2022-09-14,190,368,0,0,FC Copenhagen,Sevilla FC
+3913723,CL,2022,Group H,2022-09-14,506,294,1,2,Juventus FC,SL Benfica
+3913724,CL,2022,Group H,2022-09-14,1064,583,1,3,Maccabi Haifa,Paris Saint-Germain
+3911725,CL,2022,Group A,2022-10-04,31,124,2,0,Liverpool FC,Rangers FC
+3911733,CL,2022,Group B,2022-10-04,720,15,2,0,FC Porto,Bayer 04 Leverkusen
+3911742,CL,2022,Group B,2022-10-04,2282,13,2,0,Club Brugge KV,Atlético de Madrid
+3911759,CL,2022,Group C,2022-10-04,27,941,5,0,Bayern Munich,FC Viktoria Plzen
+3911788,CL,2022,Group C,2022-10-04,46,131,1,0,Inter Milan,FC Barcelona
+3911794,CL,2022,Group D,2022-10-04,24,148,0,0,Eintracht Frankfurt,Tottenham Hotspur
+3911805,CL,2022,Group D,2022-10-04,244,336,4,1,Olympique Marseille,Sporting CP
+3913725,CL,2022,Group A,2022-10-04,610,6195,1,6,Ajax Amsterdam,SSC Napoli
+3911809,CL,2022,Group E,2022-10-05,631,5,3,0,Chelsea FC,AC Milan
+3911814,CL,2022,Group E,2022-10-05,409,419,1,0,Fußballclub Red Bull Salzburg,GNK Dinamo Zagreb
+3911819,CL,2022,Group F,2022-10-05,418,660,2,1,Real Madrid,FC Shakhtar Donetsk
+3911821,CL,2022,Group F,2022-10-05,23826,371,3,1,RB Leipzig,Celtic FC
+3911833,CL,2022,Group G,2022-10-05,281,190,5,0,Manchester City,FC Copenhagen
+3913667,CL,2022,Group G,2022-10-05,368,16,1,4,Sevilla FC,Borussia Dortmund
+3913726,CL,2022,Group H,2022-10-05,506,1064,3,1,Juventus FC,Maccabi Haifa
+3913727,CL,2022,Group H,2022-10-05,294,583,1,1,SL Benfica,Paris Saint-Germain
+3911807,CL,2022,Group E,2022-10-11,5,631,0,2,AC Milan,Chelsea FC
+3911817,CL,2022,Group E,2022-10-11,419,409,1,1,GNK Dinamo Zagreb,Fußballclub Red Bull Salzburg
+3911823,CL,2022,Group F,2022-10-11,660,418,1,1,FC Shakhtar Donetsk,Real Madrid
+3911827,CL,2022,Group F,2022-10-11,371,23826,0,2,Celtic FC,RB Leipzig
+3913698,CL,2022,Group G,2022-10-11,190,281,0,0,FC Copenhagen,Manchester City
+3913699,CL,2022,Group G,2022-10-11,16,368,1,1,Borussia Dortmund,Sevilla FC
+3913738,CL,2022,Group H,2022-10-11,1064,506,2,0,Maccabi Haifa,Juventus FC
+3913739,CL,2022,Group H,2022-10-11,583,294,1,1,Paris Saint-Germain,SL Benfica
+3911726,CL,2022,Group A,2022-10-12,6195,610,4,2,SSC Napoli,Ajax Amsterdam
+3911730,CL,2022,Group A,2022-10-12,124,31,1,7,Rangers FC,Liverpool FC
+3911737,CL,2022,Group B,2022-10-12,13,2282,0,0,Atlético de Madrid,Club Brugge KV
+3911738,CL,2022,Group B,2022-10-12,15,720,0,3,Bayer 04 Leverkusen,FC Porto
+3911767,CL,2022,Group C,2022-10-12,131,46,3,3,FC Barcelona,Inter Milan
+3911790,CL,2022,Group C,2022-10-12,941,27,2,4,FC Viktoria Plzen,Bayern Munich
+3911797,CL,2022,Group D,2022-10-12,148,24,3,2,Tottenham Hotspur,Eintracht Frankfurt
+3911802,CL,2022,Group D,2022-10-12,336,244,0,2,Sporting CP,Olympique Marseille
+3911813,CL,2022,Group E,2022-10-25,409,631,1,2,Fußballclub Red Bull Salzburg,Chelsea FC
+3911815,CL,2022,Group E,2022-10-25,419,5,0,4,GNK Dinamo Zagreb,AC Milan
+3911828,CL,2022,Group F,2022-10-25,371,660,1,1,Celtic FC,FC Shakhtar Donetsk
+3912632,CL,2022,Group F,2022-10-25,23826,418,3,2,RB Leipzig,Real Madrid
+3913678,CL,2022,Group G,2022-10-25,368,190,3,0,Sevilla FC,FC Copenhagen
+3913700,CL,2022,Group G,2022-10-25,16,281,0,0,Borussia Dortmund,Manchester City
+3913740,CL,2022,Group H,2022-10-25,583,1064,7,2,Paris Saint-Germain,Maccabi Haifa
+3913741,CL,2022,Group H,2022-10-25,294,506,4,3,SL Benfica,Juventus FC
+3911720,CL,2022,Group A,2022-10-26,610,31,0,3,Ajax Amsterdam,Liverpool FC
+3911728,CL,2022,Group A,2022-10-26,6195,124,3,0,SSC Napoli,Rangers FC
+3911741,CL,2022,Group B,2022-10-26,2282,720,0,4,Club Brugge KV,FC Porto
+3911746,CL,2022,Group B,2022-10-26,13,15,2,2,Atlético de Madrid,Bayer 04 Leverkusen
+3911756,CL,2022,Group C,2022-10-26,131,27,0,3,FC Barcelona,Bayern Munich
+3911761,CL,2022,Group C,2022-10-26,46,941,4,0,Inter Milan,FC Viktoria Plzen
+3911796,CL,2022,Group D,2022-10-26,24,244,2,1,Eintracht Frankfurt,Olympique Marseille
+3911798,CL,2022,Group D,2022-10-26,148,336,1,1,Tottenham Hotspur,Sporting CP
+3911724,CL,2022,Group A,2022-11-01,31,6195,2,0,Liverpool FC,SSC Napoli
+3911729,CL,2022,Group A,2022-11-01,124,610,1,3,Rangers FC,Ajax Amsterdam
+3911735,CL,2022,Group B,2022-11-01,720,13,2,1,FC Porto,Atlético de Madrid
+3911740,CL,2022,Group B,2022-11-01,15,2282,0,0,Bayer 04 Leverkusen,Club Brugge KV
+3911754,CL,2022,Group C,2022-11-01,27,46,2,0,Bayern Munich,Inter Milan
+3911763,CL,2022,Group C,2022-11-01,941,131,2,4,FC Viktoria Plzen,FC Barcelona
+3911800,CL,2022,Group D,2022-11-01,336,24,1,2,Sporting CP,Eintracht Frankfurt
+3911804,CL,2022,Group D,2022-11-01,244,148,1,2,Olympique Marseille,Tottenham Hotspur
+3911806,CL,2022,Group E,2022-11-02,5,409,4,0,AC Milan,Fußballclub Red Bull Salzburg
+3911811,CL,2022,Group E,2022-11-02,631,419,2,1,Chelsea FC,GNK Dinamo Zagreb
+3911824,CL,2022,Group F,2022-11-02,660,23826,0,4,FC Shakhtar Donetsk,RB Leipzig
+3911830,CL,2022,Group F,2022-11-02,418,371,5,1,Real Madrid,Celtic FC
+3911831,CL,2022,Group G,2022-11-02,281,368,3,1,Manchester City,Sevilla FC
+3913701,CL,2022,Group G,2022-11-02,190,16,1,1,FC Copenhagen,Borussia Dortmund
+3913752,CL,2022,Group H,2022-11-02,506,583,1,2,Juventus FC,Paris Saint-Germain
+3913753,CL,2022,Group H,2022-11-02,1064,294,1,6,Maccabi Haifa,SL Benfica
+4171274,CL,2023,Group E,2023-09-19,234,371,2,0,Feyenoord Rotterdam,Celtic FC
+4171279,CL,2023,Group E,2023-09-19,398,13,1,1,Società Sportiva Lazio S.p.A.,Atlético de Madrid
+4171284,CL,2023,Group F,2023-09-19,583,16,2,0,Paris Saint-Germain,Borussia Dortmund
+4171292,CL,2023,Group F,2023-09-19,5,762,0,0,AC Milan,Newcastle United
+4171305,CL,2023,Group G,2023-09-19,281,159,3,1,Manchester City,Red Star Belgrade
+4171325,CL,2023,Group G,2023-09-19,452,23826,1,3,BSC Young Boys,RB Leipzig
+4174054,CL,2023,Group H,2023-09-19,131,1096,5,0,FC Barcelona,Royal Antwerp FC
+4174095,CL,2023,Group H,2023-09-19,660,720,1,3,FC Shakhtar Donetsk,FC Porto
+4171216,CL,2023,Group A,2023-09-20,27,985,4,3,Bayern Munich,Manchester United
+4171227,CL,2023,Group A,2023-09-20,141,190,2,2,Galatasaray,FC Copenhagen
+4171230,CL,2023,Group B,2023-09-20,368,826,1,1,Sevilla FC,RC Lens
+4171232,CL,2023,Group B,2023-09-20,11,383,4,0,Arsenal FC,PSV Eindhoven
+4171253,CL,2023,Group C,2023-09-20,418,89,1,0,Real Madrid,1.FC Union Berlin
+4171254,CL,2023,Group C,2023-09-20,1075,6195,1,2,SC Braga,SSC Napoli
+4171261,CL,2023,Group D,2023-09-20,294,409,0,2,SL Benfica,Fußballclub Red Bull Salzburg
+4171270,CL,2023,Group D,2023-09-20,681,46,1,1,Real Sociedad,Inter Milan
+4171221,CL,2023,Group A,2023-10-03,985,141,2,3,Manchester United,Galatasaray
+4171222,CL,2023,Group A,2023-10-03,190,27,1,2,FC Copenhagen,Bayern Munich
+4171234,CL,2023,Group B,2023-10-03,383,368,2,2,PSV Eindhoven,Sevilla FC
+4171238,CL,2023,Group B,2023-10-03,826,11,2,1,RC Lens,Arsenal FC
+4171248,CL,2023,Group C,2023-10-03,6195,418,2,3,SSC Napoli,Real Madrid
+4171259,CL,2023,Group C,2023-10-03,89,1075,2,3,1.FC Union Berlin,SC Braga
+4171263,CL,2023,Group D,2023-10-03,46,294,1,0,Inter Milan,SL Benfica
+4171268,CL,2023,Group D,2023-10-03,409,681,0,2,Fußballclub Red Bull Salzburg,Real Sociedad
+4171275,CL,2023,Group E,2023-10-04,13,234,3,2,Atlético de Madrid,Feyenoord Rotterdam
+4171283,CL,2023,Group E,2023-10-04,371,398,1,2,Celtic FC,Società Sportiva Lazio S.p.A.
+4171288,CL,2023,Group F,2023-10-04,16,5,0,0,Borussia Dortmund,AC Milan
+4171293,CL,2023,Group F,2023-10-04,762,583,4,1,Newcastle United,Paris Saint-Germain
+4171307,CL,2023,Group G,2023-10-04,23826,281,1,3,RB Leipzig,Manchester City
+4171323,CL,2023,Group G,2023-10-04,159,452,2,2,Red Star Belgrade,BSC Young Boys
+4171327,CL,2023,Group H,2023-10-04,1096,660,2,3,Royal Antwerp FC,FC Shakhtar Donetsk
+4174055,CL,2023,Group H,2023-10-04,720,131,0,1,FC Porto,FC Barcelona
+4171220,CL,2023,Group A,2023-10-24,985,190,1,0,Manchester United,FC Copenhagen
+4171225,CL,2023,Group A,2023-10-24,141,27,1,3,Galatasaray,Bayern Munich
+4171228,CL,2023,Group B,2023-10-24,368,11,1,2,Sevilla FC,Arsenal FC
+4171239,CL,2023,Group B,2023-10-24,826,383,1,1,RC Lens,PSV Eindhoven
+4171255,CL,2023,Group C,2023-10-24,1075,418,1,2,SC Braga,Real Madrid
+4171257,CL,2023,Group C,2023-10-24,89,6195,0,1,1.FC Union Berlin,SSC Napoli
+4171262,CL,2023,Group D,2023-10-24,294,681,0,1,SL Benfica,Real Sociedad
+4171264,CL,2023,Group D,2023-10-24,46,409,2,1,Inter Milan,Fußballclub Red Bull Salzburg
+4171273,CL,2023,Group E,2023-10-25,234,398,3,1,Feyenoord Rotterdam,Società Sportiva Lazio S.p.A.
+4171282,CL,2023,Group E,2023-10-25,371,13,2,2,Celtic FC,Atlético de Madrid
+4171285,CL,2023,Group F,2023-10-25,583,5,3,0,Paris Saint-Germain,AC Milan
+4171294,CL,2023,Group F,2023-10-25,762,16,0,1,Newcastle United,Borussia Dortmund
+4171319,CL,2023,Group G,2023-10-25,23826,159,3,1,RB Leipzig,Red Star Belgrade
+4171324,CL,2023,Group G,2023-10-25,452,281,1,3,BSC Young Boys,Manchester City
+4174065,CL,2023,Group H,2023-10-25,131,660,2,1,FC Barcelona,FC Shakhtar Donetsk
+4174066,CL,2023,Group H,2023-10-25,1096,720,1,4,Royal Antwerp FC,FC Porto
+4171277,CL,2023,Group E,2023-11-07,13,371,6,0,Atlético de Madrid,Celtic FC
+4171278,CL,2023,Group E,2023-11-07,398,234,1,0,Società Sportiva Lazio S.p.A.,Feyenoord Rotterdam
+4171289,CL,2023,Group F,2023-11-07,16,762,2,0,Borussia Dortmund,Newcastle United
+4171290,CL,2023,Group F,2023-11-07,5,583,2,1,AC Milan,Paris Saint-Germain
+4171317,CL,2023,Group G,2023-11-07,281,452,3,0,Manchester City,BSC Young Boys
+4171322,CL,2023,Group G,2023-11-07,159,23826,1,2,Red Star Belgrade,RB Leipzig
+4174067,CL,2023,Group H,2023-11-07,660,131,1,0,FC Shakhtar Donetsk,FC Barcelona
+4174068,CL,2023,Group H,2023-11-07,720,1096,2,0,FC Porto,Royal Antwerp FC
+4171218,CL,2023,Group A,2023-11-08,27,141,2,1,Bayern Munich,Galatasaray
+4171223,CL,2023,Group A,2023-11-08,190,985,4,3,FC Copenhagen,Manchester United
+4171231,CL,2023,Group B,2023-11-08,11,368,2,0,Arsenal FC,Sevilla FC
+4171236,CL,2023,Group B,2023-11-08,383,826,1,0,PSV Eindhoven,RC Lens
+4171250,CL,2023,Group C,2023-11-08,6195,89,1,1,SSC Napoli,1.FC Union Berlin
+4171252,CL,2023,Group C,2023-11-08,418,1075,3,0,Real Madrid,SC Braga
+4171267,CL,2023,Group D,2023-11-08,409,46,0,1,Fußballclub Red Bull Salzburg,Inter Milan
+4171269,CL,2023,Group D,2023-11-08,681,294,3,1,Real Sociedad,SL Benfica
+4171272,CL,2023,Group E,2023-11-28,234,13,1,3,Feyenoord Rotterdam,Atlético de Madrid
+4171280,CL,2023,Group E,2023-11-28,398,371,2,0,Società Sportiva Lazio S.p.A.,Celtic FC
+4171286,CL,2023,Group F,2023-11-28,583,762,1,1,Paris Saint-Germain,Newcastle United
+4171291,CL,2023,Group F,2023-11-28,5,16,1,3,AC Milan,Borussia Dortmund
+4171304,CL,2023,Group G,2023-11-28,281,23826,3,2,Manchester City,RB Leipzig
+4171316,CL,2023,Group H,2023-11-28,131,720,2,1,FC Barcelona,FC Porto
+4171326,CL,2023,Group G,2023-11-28,452,159,2,0,BSC Young Boys,Red Star Belgrade
+4174069,CL,2023,Group H,2023-11-28,660,1096,1,0,FC Shakhtar Donetsk,Royal Antwerp FC
+4171226,CL,2023,Group A,2023-11-29,141,985,3,3,Galatasaray,Manchester United
+4171229,CL,2023,Group B,2023-11-29,368,383,2,3,Sevilla FC,PSV Eindhoven
+4171233,CL,2023,Group B,2023-11-29,11,826,6,0,Arsenal FC,RC Lens
+4171251,CL,2023,Group C,2023-11-29,418,6195,4,2,Real Madrid,SSC Napoli
+4171256,CL,2023,Group C,2023-11-29,1075,89,1,1,SC Braga,1.FC Union Berlin
+4171260,CL,2023,Group D,2023-11-29,294,46,3,3,SL Benfica,Inter Milan
+4171271,CL,2023,Group D,2023-11-29,681,409,0,0,Real Sociedad,Fußballclub Red Bull Salzburg
+4173957,CL,2023,Group A,2023-11-29,27,190,0,0,Bayern Munich,FC Copenhagen
+4171219,CL,2023,Group A,2023-12-12,985,27,0,1,Manchester United,Bayern Munich
+4171224,CL,2023,Group A,2023-12-12,190,141,1,0,FC Copenhagen,Galatasaray
+4171235,CL,2023,Group B,2023-12-12,383,11,1,1,PSV Eindhoven,Arsenal FC
+4171237,CL,2023,Group B,2023-12-12,826,368,2,1,RC Lens,Sevilla FC
+4171249,CL,2023,Group C,2023-12-12,6195,1075,2,0,SSC Napoli,SC Braga
+4171258,CL,2023,Group C,2023-12-12,89,418,2,3,1.FC Union Berlin,Real Madrid
+4171265,CL,2023,Group D,2023-12-12,46,681,0,0,Inter Milan,Real Sociedad
+4171266,CL,2023,Group D,2023-12-12,409,294,1,3,Fußballclub Red Bull Salzburg,SL Benfica
+4171276,CL,2023,Group E,2023-12-13,13,398,2,0,Atlético de Madrid,Società Sportiva Lazio S.p.A.
+4171281,CL,2023,Group E,2023-12-13,371,234,2,1,Celtic FC,Feyenoord Rotterdam
+4171287,CL,2023,Group F,2023-12-13,16,583,1,1,Borussia Dortmund,Paris Saint-Germain
+4171295,CL,2023,Group F,2023-12-13,762,5,1,2,Newcastle United,AC Milan
+4171320,CL,2023,Group G,2023-12-13,23826,452,2,1,RB Leipzig,BSC Young Boys
+4171321,CL,2023,Group G,2023-12-13,159,281,2,3,Red Star Belgrade,Manchester City
+4174084,CL,2023,Group H,2023-12-13,1096,131,3,2,Royal Antwerp FC,FC Barcelona
+4174085,CL,2023,Group H,2023-12-13,720,660,5,3,FC Porto,FC Shakhtar Donetsk
+4445037,CL,2024,Group Stage,2024-09-17,418,79,3,1,Real Madrid,VfB Stuttgart
+4445042,CL,2024,Group Stage,2024-09-17,27,419,9,2,Bayern Munich,GNK Dinamo Zagreb
+4445082,CL,2024,Group Stage,2024-09-17,506,383,3,1,Juventus FC,PSV Eindhoven
+4445100,CL,2024,Group Stage,2024-09-17,5,31,1,3,AC Milan,Liverpool FC
+4445110,CL,2024,Group Stage,2024-09-17,336,1082,2,0,Sporting CP,LOSC Lille
+4445131,CL,2024,Group Stage,2024-09-17,452,405,0,3,BSC Young Boys,Aston Villa
+4445038,CL,2024,Group Stage,2024-09-18,281,46,0,0,Manchester City,Inter Milan
+4445092,CL,2024,Group Stage,2024-09-18,2282,16,0,3,Club Brugge KV,Borussia Dortmund
+4445135,CL,2024,Group Stage,2024-09-18,371,540,5,1,Celtic FC,Slovan Bratislava
+4445158,CL,2024,Group Stage,2024-09-18,197,409,3,0,AC Sparta Prague,Fußballclub Red Bull Salzburg
+4445165,CL,2024,Group Stage,2024-09-18,1025,660,0,0,Bologna Football Club 1909,FC Shakhtar Donetsk
+4446743,CL,2024,Group Stage,2024-09-18,583,12321,1,0,Paris Saint-Germain,Girona FC
+4445072,CL,2024,Group Stage,2024-09-19,13,23826,2,1,Atlético de Madrid,RB Leipzig
+4445077,CL,2024,Group Stage,2024-09-19,800,11,0,0,Atalanta BC,Arsenal FC
+4445105,CL,2024,Group Stage,2024-09-19,234,15,0,4,Feyenoord Rotterdam,Bayer 04 Leverkusen
+4445125,CL,2024,Group Stage,2024-09-19,159,294,1,2,Red Star Belgrade,SL Benfica
+4445147,CL,2024,Group Stage,2024-09-19,3911,122,2,1,Stade Brestois 29,Sportklub Puntigamer Sturm Graz
+4445152,CL,2024,Group Stage,2024-09-19,162,131,2,1,AS Monaco,FC Barcelona
+4445054,CL,2024,Group Stage,2024-10-01,46,159,4,0,Inter Milan,Red Star Belgrade
+4445058,CL,2024,Group Stage,2024-10-01,16,371,7,1,Borussia Dortmund,Celtic FC
+4445066,CL,2024,Group Stage,2024-10-01,131,452,5,0,FC Barcelona,BSC Young Boys
+4445069,CL,2024,Group Stage,2024-10-01,15,5,1,0,Bayer 04 Leverkusen,AC Milan
+4445088,CL,2024,Group Stage,2024-10-01,11,583,2,0,Arsenal FC,Paris Saint-Germain
+4445114,CL,2024,Group Stage,2024-10-01,383,336,1,1,PSV Eindhoven,Sporting CP
+4445139,CL,2024,Group Stage,2024-10-01,79,197,1,1,VfB Stuttgart,AC Sparta Prague
+4445148,CL,2024,Group Stage,2024-10-01,540,281,0,4,Slovan Bratislava,Manchester City
+4445210,CL,2024,Group Stage,2024-10-01,409,3911,0,4,Fußballclub Red Bull Salzburg,Stade Brestois 29
+4445050,CL,2024,Group Stage,2024-10-02,31,1025,2,0,Liverpool FC,Bologna Football Club 1909
+4445061,CL,2024,Group Stage,2024-10-02,23826,506,2,3,RB Leipzig,Juventus FC
+4445084,CL,2024,Group Stage,2024-10-02,294,13,4,0,SL Benfica,Atlético de Madrid
+4445097,CL,2024,Group Stage,2024-10-02,660,800,0,3,FC Shakhtar Donetsk,Atalanta BC
+4445119,CL,2024,Group Stage,2024-10-02,419,162,2,2,GNK Dinamo Zagreb,AS Monaco
+4445120,CL,2024,Group Stage,2024-10-02,1082,418,1,0,LOSC Lille,Real Madrid
+4445141,CL,2024,Group Stage,2024-10-02,122,2282,0,1,Sportklub Puntigamer Sturm Graz,Club Brugge KV
+4445160,CL,2024,Group Stage,2024-10-02,405,27,1,0,Aston Villa,Bayern Munich
+4445170,CL,2024,Group Stage,2024-10-02,12321,234,2,3,Girona FC,Feyenoord Rotterdam
+4445032,CL,2024,Group Stage,2024-10-22,418,16,5,2,Real Madrid,Borussia Dortmund
+4445083,CL,2024,Group Stage,2024-10-22,506,79,0,1,Juventus FC,VfB Stuttgart
+4445089,CL,2024,Group Stage,2024-10-22,11,660,1,0,Arsenal FC,FC Shakhtar Donetsk
+4445101,CL,2024,Group Stage,2024-10-22,5,2282,3,1,AC Milan,Club Brugge KV
+4445142,CL,2024,Group Stage,2024-10-22,122,336,0,2,Sportklub Puntigamer Sturm Graz,Sporting CP
+4445154,CL,2024,Group Stage,2024-10-22,162,159,5,1,AS Monaco,Red Star Belgrade
+4445163,CL,2024,Group Stage,2024-10-22,405,1025,2,0,Aston Villa,Bologna Football Club 1909
+4445171,CL,2024,Group Stage,2024-10-22,12321,540,2,0,Girona FC,Slovan Bratislava
+4461903,CL,2024,Group Stage,2024-10-22,583,383,1,1,Paris Saint-Germain,PSV Eindhoven
+4445045,CL,2024,Group Stage,2024-10-23,281,197,5,0,Manchester City,AC Sparta Prague
+4445060,CL,2024,Group Stage,2024-10-23,23826,31,0,1,RB Leipzig,Liverpool FC
+4445064,CL,2024,Group Stage,2024-10-23,131,27,4,1,FC Barcelona,Bayern Munich
+4445074,CL,2024,Group Stage,2024-10-23,13,1082,1,3,Atlético de Madrid,LOSC Lille
+4445078,CL,2024,Group Stage,2024-10-23,800,371,0,0,Atalanta BC,Celtic FC
+4445086,CL,2024,Group Stage,2024-10-23,294,234,1,3,SL Benfica,Feyenoord Rotterdam
+4445128,CL,2024,Group Stage,2024-10-23,452,46,0,1,BSC Young Boys,Inter Milan
+4445145,CL,2024,Group Stage,2024-10-23,3911,15,1,1,Stade Brestois 29,Bayer 04 Leverkusen
+4445209,CL,2024,Group Stage,2024-10-23,409,419,0,2,Fußballclub Red Bull Salzburg,GNK Dinamo Zagreb
+4445033,CL,2024,Group Stage,2024-11-05,418,5,1,3,Real Madrid,AC Milan
+4445048,CL,2024,Group Stage,2024-11-05,31,15,4,0,Liverpool FC,Bayer 04 Leverkusen
+4445059,CL,2024,Group Stage,2024-11-05,16,122,1,0,Borussia Dortmund,Sportklub Puntigamer Sturm Graz
+4445108,CL,2024,Group Stage,2024-11-05,336,281,4,1,Sporting CP,Manchester City
+4445115,CL,2024,Group Stage,2024-11-05,383,12321,4,0,PSV Eindhoven,Girona FC
+4445121,CL,2024,Group Stage,2024-11-05,1082,506,1,1,LOSC Lille,Juventus FC
+4445132,CL,2024,Group Stage,2024-11-05,371,23826,3,1,Celtic FC,RB Leipzig
+4445150,CL,2024,Group Stage,2024-11-05,540,419,1,4,Slovan Bratislava,GNK Dinamo Zagreb
+4445167,CL,2024,Group Stage,2024-11-05,1025,162,0,1,Bologna Football Club 1909,AS Monaco
+4445051,CL,2024,Group Stage,2024-11-06,27,294,1,0,Bayern Munich,SL Benfica
+4445053,CL,2024,Group Stage,2024-11-06,46,11,1,0,Inter Milan,Arsenal FC
+4445095,CL,2024,Group Stage,2024-11-06,2282,405,1,0,Club Brugge KV,Aston Villa
+4445098,CL,2024,Group Stage,2024-11-06,660,452,2,1,FC Shakhtar Donetsk,BSC Young Boys
+4445106,CL,2024,Group Stage,2024-11-06,234,409,1,3,Feyenoord Rotterdam,Fußballclub Red Bull Salzburg
+4445124,CL,2024,Group Stage,2024-11-06,159,131,2,5,Red Star Belgrade,FC Barcelona
+4445137,CL,2024,Group Stage,2024-11-06,79,800,0,2,VfB Stuttgart,Atalanta BC
+4445159,CL,2024,Group Stage,2024-11-06,197,3911,1,2,AC Sparta Prague,Stade Brestois 29
+4461914,CL,2024,Group Stage,2024-11-06,583,13,1,2,Paris Saint-Germain,Atlético de Madrid
+4445044,CL,2024,Group Stage,2024-11-26,281,234,3,3,Manchester City,Feyenoord Rotterdam
+4445046,CL,2024,Group Stage,2024-11-26,27,583,1,0,Bayern Munich,Paris Saint-Germain
+4445052,CL,2024,Group Stage,2024-11-26,46,23826,1,0,Inter Milan,RB Leipzig
+4445067,CL,2024,Group Stage,2024-11-26,131,3911,3,0,FC Barcelona,Stade Brestois 29
+4445070,CL,2024,Group Stage,2024-11-26,15,409,5,0,Bayer 04 Leverkusen,Fußballclub Red Bull Salzburg
+4445109,CL,2024,Group Stage,2024-11-26,336,11,1,5,Sporting CP,Arsenal FC
+4445129,CL,2024,Group Stage,2024-11-26,452,800,1,6,BSC Young Boys,Atalanta BC
+4445149,CL,2024,Group Stage,2024-11-26,540,5,2,3,Slovan Bratislava,AC Milan
+4445157,CL,2024,Group Stage,2024-11-26,197,13,0,6,AC Sparta Prague,Atlético de Madrid
+4445047,CL,2024,Group Stage,2024-11-27,31,418,2,0,Liverpool FC,Real Madrid
+4445113,CL,2024,Group Stage,2024-11-27,383,660,3,2,PSV Eindhoven,FC Shakhtar Donetsk
+4445116,CL,2024,Group Stage,2024-11-27,419,16,0,3,GNK Dinamo Zagreb,Borussia Dortmund
+4445127,CL,2024,Group Stage,2024-11-27,159,79,5,1,Red Star Belgrade,VfB Stuttgart
+4445133,CL,2024,Group Stage,2024-11-27,371,2282,1,1,Celtic FC,Club Brugge KV
+4445143,CL,2024,Group Stage,2024-11-27,122,12321,1,0,Sportklub Puntigamer Sturm Graz,Girona FC
+4445153,CL,2024,Group Stage,2024-11-27,162,294,2,3,AS Monaco,SL Benfica
+4445161,CL,2024,Group Stage,2024-11-27,405,506,0,0,Aston Villa,Juventus FC
+4445166,CL,2024,Group Stage,2024-11-27,1025,1082,1,2,Bologna Football Club 1909,LOSC Lille
+4445063,CL,2024,Group Stage,2024-12-10,23826,405,2,3,RB Leipzig,Aston Villa
+4445068,CL,2024,Group Stage,2024-12-10,15,46,1,0,Bayer 04 Leverkusen,Inter Milan
+4445076,CL,2024,Group Stage,2024-12-10,800,418,2,3,Atalanta BC,Real Madrid
+4445094,CL,2024,Group Stage,2024-12-10,2282,336,2,1,Club Brugge KV,Sporting CP
+4445096,CL,2024,Group Stage,2024-12-10,660,27,1,5,FC Shakhtar Donetsk,Bayern Munich
+4445118,CL,2024,Group Stage,2024-12-10,419,371,0,0,GNK Dinamo Zagreb,Celtic FC
+4445146,CL,2024,Group Stage,2024-12-10,3911,383,1,0,Stade Brestois 29,PSV Eindhoven
+4445168,CL,2024,Group Stage,2024-12-10,12321,31,0,1,Girona FC,Liverpool FC
+4445207,CL,2024,Group Stage,2024-12-10,409,583,0,3,Fußballclub Red Bull Salzburg,Paris Saint-Germain
+4445056,CL,2024,Group Stage,2024-12-11,16,131,2,3,Borussia Dortmund,FC Barcelona
+4445075,CL,2024,Group Stage,2024-12-11,13,540,3,1,Atlético de Madrid,Slovan Bratislava
+4445080,CL,2024,Group Stage,2024-12-11,506,281,2,0,Juventus FC,Manchester City
+4445087,CL,2024,Group Stage,2024-12-11,294,1025,0,0,SL Benfica,Bologna Football Club 1909
+4445091,CL,2024,Group Stage,2024-12-11,11,162,3,0,Arsenal FC,AS Monaco
+4445102,CL,2024,Group Stage,2024-12-11,5,159,2,1,AC Milan,Red Star Belgrade
+4445107,CL,2024,Group Stage,2024-12-11,234,197,4,2,Feyenoord Rotterdam,AC Sparta Prague
+4445123,CL,2024,Group Stage,2024-12-11,1082,122,3,2,LOSC Lille,Sportklub Puntigamer Sturm Graz
+4445138,CL,2024,Group Stage,2024-12-11,79,452,5,1,VfB Stuttgart,BSC Young Boys
+4445049,CL,2024,Group Stage,2025-01-21,31,1082,2,1,Liverpool FC,LOSC Lille
+4445073,CL,2024,Group Stage,2025-01-21,13,15,2,1,Atlético de Madrid,Bayer 04 Leverkusen
+4445079,CL,2024,Group Stage,2025-01-21,800,122,5,0,Atalanta BC,Sportklub Puntigamer Sturm Graz
+4445085,CL,2024,Group Stage,2025-01-21,294,131,4,5,SL Benfica,FC Barcelona
+4445093,CL,2024,Group Stage,2025-01-21,2282,506,0,0,Club Brugge KV,Juventus FC
+4445126,CL,2024,Group Stage,2025-01-21,159,383,2,3,Red Star Belgrade,PSV Eindhoven
+4445151,CL,2024,Group Stage,2025-01-21,540,79,1,3,Slovan Bratislava,VfB Stuttgart
+4445155,CL,2024,Group Stage,2025-01-21,162,405,1,0,AS Monaco,Aston Villa
+4445164,CL,2024,Group Stage,2025-01-21,1025,16,2,1,Bologna Football Club 1909,Borussia Dortmund
+4445034,CL,2024,Group Stage,2025-01-22,418,409,5,1,Real Madrid,Fußballclub Red Bull Salzburg
+4445062,CL,2024,Group Stage,2025-01-22,23826,336,2,1,RB Leipzig,Sporting CP
+4445090,CL,2024,Group Stage,2025-01-22,11,419,3,0,Arsenal FC,GNK Dinamo Zagreb
+4445099,CL,2024,Group Stage,2025-01-22,660,3911,2,0,FC Shakhtar Donetsk,Stade Brestois 29
+4445103,CL,2024,Group Stage,2025-01-22,5,12321,1,0,AC Milan,Girona FC
+4445104,CL,2024,Group Stage,2025-01-22,234,27,3,0,Feyenoord Rotterdam,Bayern Munich
+4445134,CL,2024,Group Stage,2025-01-22,371,452,1,0,Celtic FC,BSC Young Boys
+4445156,CL,2024,Group Stage,2025-01-22,197,46,0,1,AC Sparta Prague,Inter Milan
+4461915,CL,2024,Group Stage,2025-01-22,583,281,4,2,Paris Saint-Germain,Manchester City
+4445039,CL,2024,Group Stage,2025-01-29,281,2282,3,1,Manchester City,Club Brugge KV
+4445043,CL,2024,Group Stage,2025-01-29,27,540,3,1,Bayern Munich,Slovan Bratislava
+4445055,CL,2024,Group Stage,2025-01-29,46,162,3,0,Inter Milan,AS Monaco
+4445057,CL,2024,Group Stage,2025-01-29,16,660,3,1,Borussia Dortmund,FC Shakhtar Donetsk
+4445065,CL,2024,Group Stage,2025-01-29,131,800,2,2,FC Barcelona,Atalanta BC
+4445071,CL,2024,Group Stage,2025-01-29,15,197,2,0,Bayer 04 Leverkusen,AC Sparta Prague
+4445081,CL,2024,Group Stage,2025-01-29,506,294,0,2,Juventus FC,SL Benfica
+4445111,CL,2024,Group Stage,2025-01-29,336,1025,1,1,Sporting CP,Bologna Football Club 1909
+4445112,CL,2024,Group Stage,2025-01-29,383,31,3,2,PSV Eindhoven,Liverpool FC
+4445117,CL,2024,Group Stage,2025-01-29,419,5,2,1,GNK Dinamo Zagreb,AC Milan
+4445122,CL,2024,Group Stage,2025-01-29,1082,234,6,1,LOSC Lille,Feyenoord Rotterdam
+4445130,CL,2024,Group Stage,2025-01-29,452,159,0,1,BSC Young Boys,Red Star Belgrade
+4445136,CL,2024,Group Stage,2025-01-29,79,583,1,4,VfB Stuttgart,Paris Saint-Germain
+4445140,CL,2024,Group Stage,2025-01-29,122,23826,1,0,Sportklub Puntigamer Sturm Graz,RB Leipzig
+4445144,CL,2024,Group Stage,2025-01-29,3911,418,0,3,Stade Brestois 29,Real Madrid
+4445162,CL,2024,Group Stage,2025-01-29,405,371,4,2,Aston Villa,Celtic FC
+4445169,CL,2024,Group Stage,2025-01-29,12321,11,1,2,Girona FC,Arsenal FC
+4445208,CL,2024,Group Stage,2025-01-29,409,13,1,4,Fußballclub Red Bull Salzburg,Atlético de Madrid
